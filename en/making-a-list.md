@@ -1,6 +1,4 @@
-1. Let's 
-
-
+1. Wouldn't it be nice if the list of pages looked more like a list? Well, there are tags 
 
 Add the following code to your web page, just below the &lt;/p&gt; tag.
 
