@@ -7,18 +7,25 @@
    ```
 3. The curly braces `{ }` and the text in between them is a set of rules. The word `body` means that the set of rules is for the `<body>` tags on your web page. We call the bit outside the curly braces a **selector**. So in this case, it is the selector for the body tags.
 
-4. Change the word white to another colour. For a full list of colours you can  
+4. Change the colour to blue, and click Run \(Remember, this is the button that says "Click To Run"\).
 
-5. Change the color to "blue"
+5. Your website should look something like this now:
 
-6. Look what happens to your webpage.
-7. Do I show how to add the link or do I just include it and say nothing, or do I include it and give it a mention....
+6. What's going on? 
 
-8. Let's change the style of the paragraphs.
+7.  For a full list of colours available to use, go to dojo.soy/html-colors
 
-9. \(code for p tag with font colour or size or family or something\)
+8. Change the color to "blue"
 
-10. Finally lets change the background colour of the web page. For this we will need the "body" selector. Remember the &lt;body&gt; tag defines the whole page.
+9. Look what happens to your webpage.
+
+10. Do I show how to add the link or do I just include it and say nothing, or do I include it and give it a mention....
+
+11. Let's change the style of the paragraphs.
+
+12. \(code for p tag with font colour or size or family or something\)
+
+13. Finally lets change the background colour of the web page. For this we will need the "body" selector. Remember the &lt;body&gt; tag defines the whole page.
 
 
 
