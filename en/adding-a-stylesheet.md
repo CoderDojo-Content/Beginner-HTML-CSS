@@ -27,24 +27,15 @@
 9. Let's add a set of rules to make the heading a different color from the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, after the last curly brace.
    ```
    h1 {
-      color: pink;
+      color: orange;
+      font-family: "Verdana", sans-serif;
    }
    ```
-   
+10. Click Run. Your heading should be orange now, with the paragraph yellow as before. 
+11. Notice how the letters also look different? This is because we changed the **font family**. You can see some more fonts at dojo.soy/font-families
+12. Try adding a set of rules for the paragraphs, using the `p` selector.   
 
-9. For a full list of colours available to use, go to dojo.soy/html-colors
-
-9. Change the color to "blue"
-
-10. Look what happens to your webpage.
-
-11. Do I show how to add the link or do I just include it and say nothing, or do I include it and give it a mention....
-
-12. Let's change the style of the paragraphs.
-
-13. \(code for p tag with font colour or size or family or something\)
-
-14. Finally lets change the background colour of the web page. For this we will need the "body" selector. Remember the &lt;body&gt; tag defines the whole page.
+11. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to dojo.soy/html-colors
 
 
 
