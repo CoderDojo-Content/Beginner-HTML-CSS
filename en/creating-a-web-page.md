@@ -7,11 +7,14 @@
    * Notice how the** closing **tag always has a forward slash, `/`.
 6. Try changing the `h1` to `h2`. Remember to change it in both the **opening** `<h1>` and the **closing** `</h1>` tag.
 7. Find the `<title>` and `</title>` tags and change the text in between them, to give your page a title.
-8. Lets download your code and look at it! At the top left corner of the code window, click on the menu icon that looks like three lines, and click Download.
-9. Your project will be downloaded as a zip file, containing all the files for your website. Open up the zip file.
-10. Find the file called index.html. Double click on it to open it up in a **browser**. Can you the title you gave the page, at the top of the tab or window?
-11. Go back to the list of files and find index.html again. This time right click it \(to "right click" on a Mac, either click and hold, or click with two fingers!\), select Open With &gt; and choose a plain text editor such as Notepad, Notepad++ or Sublime Text. You should see all the tags, like in the code window on Trinket.
-12. So a web page is just made up of text, with tags to control it! The web page and the code are the same file: depending on whether you open it in a browser or a plain text editor, you will see either the code \(text and tags\) or the web page \(just text\).
+8. Click the blue Save button at the top right to save your changes.
+9. Lets download your code and look at it! At the top left corner of the code window, click on the menu icon that looks like three lines, and click Download.
+10. Your project will be downloaded as a zip file, containing all the files for your website. Open up the zip file.
+11. Find the file called index.html. Double click on it to open it up in a **browser**. Can you the title you gave the page, at the top of the tab or window?
+12. Leave the browser window open, and go back to the window with the list of files. Find index.html again. This time right click it \(to "right click" on a Mac, either click and hold, or click with two fingers!\), select Open With &gt; and choose a plain text editor such as Notepad, Notepad++ or Sublime Text. You should see all the tags, like in the code window on Trinket.
+13. Make a change to some of the text in one of the paragraphs, and click File &gt; Save.
+14. Go back to your browser window and click the Refresh button. You should see the page update with your change.
+15. So a web page is just made up of text, with tags to control it! The web page and the code are the same file: depending on whether you open it in a browser or a plain text editor, you will see either the code \(text and tags\) or the web page \(just text\).
 
 
 
