@@ -25,6 +25,7 @@
       <li>Lists!</li>
    </ol>
    ```
-
+5. Click Run. Here's what it should look like now:
+![](/assets/Screen Shot 2017-05-22 at 12.52.29 AM.png)
 
 
