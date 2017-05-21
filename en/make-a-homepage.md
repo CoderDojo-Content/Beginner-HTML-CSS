@@ -11,5 +11,8 @@
 7. So you've got a homepage and a few additional pages, but how do you get to the other pages? You need to create links! Lets add the link tag to the items in your list of pages.
 8. Just in front of the text in between the list item tags &lt;li&gt; &lt;/li&gt; , place
 
+Find the `<title>` and `</title>` tags, and change the text in between them to give your page a new title. 
+
+1. 
 
 

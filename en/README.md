@@ -7,8 +7,9 @@
 6. Next to the "Sign Out" button at the very top right corner of the page is a yellow key icon and your username, with a tiny triangle to tell you it is a menu. Click on it to show the menu and then select "My Trinkets".
    1. On the trinket.io website, a project is called a "Trinket"
 7. The project you just remixed will be shown together with some example projects for other programming languages. It will be called "My First Website Remix". Click on it to begin editing!
-8. SCREENSHOT OF CODE WINDOW WITH PROJECT TITLE. If you want to change the name of your project, click on the name at the top of the page and type in a new name, then press Enter.
-9. You are ready to start coding!
+8. SCREENSHOT OF PROJECT PAGE. The main part of the page is broken into two panels. On the left is where you write your code. The different code files appear as tabs. On the right is your website! The grey vertical bar in between them is a slider that you can drag to adjust the width of the website and code window.
+9. To the top left of the code window is the name of your project. If you want to change the name, click on it and type in a new name, then press Enter.
+10. You are ready to start coding!
 
 
 
