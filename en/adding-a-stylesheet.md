@@ -9,11 +9,11 @@
 
 4. Change the colour to blue, and click Run \(Remember, this is the button that says "Click To Run"\).
 
-5. Your website should look something like this now:
+5. Your website should look something like this now: \[SCREENSHOT\]
 
-6. What's going on? 
+6. What's going on? The file styles.css is a special file called a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name.  
 
-7.  For a full list of colours available to use, go to dojo.soy/html-colors
+7. For a full list of colours available to use, go to dojo.soy/html-colors
 
 8. Change the color to "blue"
 
