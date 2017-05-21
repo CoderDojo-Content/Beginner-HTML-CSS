@@ -15,13 +15,15 @@
 
    * **Elements** are the things defined by tags, for example paragraphs and headings, or the body.
 
-7. The text is difficult to read against the blue background. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: pink;` Your rule should now look like this: 
- ```
- body {
- background-color: white;
- }
- ```
- 
+7. The text is difficult to read against the blue background. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: pink;` Your rule should now look like this:
+   ```
+   body {
+   background-color: white;
+   color: pink;
+   }
+   ```
+   
+
 
 8. For a full list of colours available to use, go to dojo.soy/html-colors
 
