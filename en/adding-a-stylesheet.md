@@ -15,17 +15,24 @@
 
    * **Elements** are the things defined by tags, for example paragraphs and headings, or the body.
 
-7. The text is difficult to read against the blue background. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: pink;` Your rule should now look like this:
+7. The text is difficult to read against the blue background, right? Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: yellow;` Your rule should now look like this:
    ```
    body {
-   background-color: white;
-   color: pink;
+      background-color: white;
+   color: yellow;
+   }
+   ```
+8. Click Run to see how it looks now. 
+
+9. Let's add a set of rules to make the heading a different color from the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, after the last curly brace.
+   ```
+   h1 {
+      color: pink;
    }
    ```
    
 
-
-8. For a full list of colours available to use, go to dojo.soy/html-colors
+9. For a full list of colours available to use, go to dojo.soy/html-colors
 
 9. Change the color to "blue"
 
