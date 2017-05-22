@@ -10,5 +10,5 @@
 * [Making a menu](making-a-menu.md)
 * [Styling the menu bar](styling-the-menu-bar.md)
 * [Adding a map or video](adding-a-map-or-video.md)
-* [Downloading your code](downloading-your-code.md)
+* [Download your code](downloading-your-code.md)
 
