@@ -14,11 +14,12 @@
 
    * Each rule is made up of a **property** with a `:` symbol (**colon**) after it and then a **value** for the property, followed by a `;` symbol (**semi-colon**).
 
-6. Lets add a rule to change the text. Add a new line inside the curly braces, that says `font-family: "Helvetica", sans-serif;` Your rule should now look like this:
+6. Lets add a rule to change the text. Add two new lines inside the curly braces, so that your rule looks like this:
    ```
    body {
-      background-color: blue;
+      background-color: PaleTurqoise;
       font-family: "Helvetica", sans-serif;
+      color: purple;
    }
    ```
 7. Click Run to see how it changed the web page. 
@@ -30,8 +31,8 @@
       font-family: "Verdana", sans-serif;
    }
    ```
-9. Click Run. Your heading should be orange now, with the paragraph yellow as before. 
-10. Notice how the letters also look different? This is because we changed the **font family**. You can see some more fonts at dojo.soy/font-families
+9. Click Run. Your heading should be orange now, with the paragraph purple as before. 
+10. Notice how the letters also look different as well as being a different colour? This is because we changed the **font family**. You can see some more fonts at dojo.soy/font-families
 11. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
 
 12. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to dojo.soy/html-colors
