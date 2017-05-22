@@ -11,7 +11,7 @@
 
 3. Select your entire list of pages by clicking just before the opening `<ul>` tag and dragging the mouse all the way until just after the closing `</ul>` tag, so that all of the list including the opening and closing tags becomes highlighted.
 4. You are going to **cut** this time instead of **copy**. Press and hold the Ctrl \(or cmd\) key and while holding it press the X key. The list will disappear but don't panic!
-5. Click in the space in between your opening and closing `nav` tags. Make sure you see the cursor flashing there. Then **paste** in the list by pressing Ctrl \(or cmd\) and V together like before. It should look something like this:
+5. Click in the space in between your opening and closing `nav` tags. Make sure you see the cursor flashing there. Then **paste** in the list by pressing Ctrl \(or cmd\) and V together like before. Click Run to see your changes! The code should look something like this:
    ```
    <nav>
       <ul>
@@ -21,15 +21,14 @@
       </ul>
    </nav>
   ```
-6. Click Run to see your changes. The list should now be at the top of the page. Click Save!
-7. Now go to the stylesheet file. Remember it is in the styles.css tab.
-8. Add the following rule at the end of the file.
+6. Now go to the stylesheet file. Remember it is in the styles.css tab.
+7. Add the following rule at the end of the file.
    ```
    nav ul {
      border-style: solid;
    }
    ```
-9. Notice how you used two selectors instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags. Click Run to see what it looks like.
-10. It would be good to have the menu at the top of every page, right? To do this, select all of the text from just before the opening `<nav>` tag to just after the end of the closing `</nav>` tag, like you did when you selected the list. Press Ctrl and C to copy. Then go to each of your pages and paste the text just below the opening `<body>` tag, so that they look the same as the index.html file.
+8. Notice how you used two selectors instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags. Click Run to see what it looks like.
+9. To put the menu at the top of all your pages, select all of the text from just before the opening `<nav>` tag to just after the end of the closing `</nav>` tag, like you did when you selected the list. Press Ctrl and C to copy. Then go to each of your pages and paste the text just below the opening `<body>` tag, so that they look the same as the index.html file. Remember to click Save when you're done!
 
 
