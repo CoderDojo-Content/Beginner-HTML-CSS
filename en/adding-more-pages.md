@@ -6,16 +6,6 @@
 5. Go to your new file and click inside the code window \(which is blank at the moment\). Press and hold the Ctrl \(or cmd\) key and then while holding it, press the V key. This **pastes** everything that was copied into your new page.
 6. Change the text in between the `<title> </title>` tags so your new page has the right title.
 7. Repeat the steps above for each new page that you want to add. When you are done, go to the index.html file. You are going to create links so that you can visit the new pages!
-8. Inside your list of pages, you will put the text of each list item in between `<a> </a>` tags. This tag has an **attribute **called `href` that tells the browser the address of the page to link to. Just like when you used the `<img>` tag, the value you give the attribute, in this case the address of the page, must go inside quotation marks. It looks like this: `<a href="attractions.html">Attractions</a>`
-9. Add the tags to each item on the list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created!
-   ```
-   <ul>
-     <li><a href="attractions.html">Attractions</a></li>
-     <li><a href="music.html">Music</a></li>
-     <li><a href="food.html">Food</a></li>
-   </ul>
-   ```
-10. Click Save and then click Run to try out your links!
 
 
 

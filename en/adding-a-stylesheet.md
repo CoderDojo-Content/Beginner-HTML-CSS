@@ -12,12 +12,13 @@
 5. What's going on? The file styles.css is a special file called a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
 
    * **Elements** are the things defined by tags, for example paragraphs and headings, or the body.
+6. Each rule is made up a **property** with a `:` symbol (**colon**) after it and then a **value** for the property, followed by a `;` symbol (**semi-colon**).
 
-6. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: white;` Your rule should now look like this:
+6. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: yellow;` Your rule should now look like this:
    ```
    body {
-      background-color: white;
-      color: white;
+      background-color: blue;
+      color: yellow;
    }
    ```
 7. Click Run to see how it looks now. 

@@ -6,6 +6,7 @@
 * [Making a list](making-a-list.md)
 * [Adding pictures](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
+* [Creating links](creating-links.md)
 * [Making a menu](making-a-menu.md)
 * [Adding a map or video!](adding-a-map-or-video.md)
 
