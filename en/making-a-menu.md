@@ -30,6 +30,6 @@
    }
    ```
 9. Notice how you used two selectors instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags. Click Run to see what it looks like.
-10. 
+10. It would be good to have the menu at the top of every page, right? To do this, select all of the text from just before the opening `<nav>` tag to just after the end of the closing `</nav>` tag, like you did when you selected the list. Press Ctrl and C to copy. Then go to each of your pages and paste the text just below the opening `<body>` tag, so that they look the same as the index.html file.
 
 
