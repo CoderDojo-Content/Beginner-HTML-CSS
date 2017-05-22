@@ -9,6 +9,7 @@
 7. The project you just remixed will be shown together with some example projects for other programming languages. It will be called "My First Website Remix". Click on it to begin editing!
 8. The main part of the page is broken into two panels. On the left is where you write your code. The different code files appear as tabs. On the right is your website! The grey vertical bar in between them is a slider that you can drag to adjust the width of the website and code window. ![](/assets/TrinketProjectEditing.png)
 9. To the top left of the code window is the name of your project. If you want to change the name, click on it and type in a new name, then press Enter.
+10. Click the triangle icon next to the  button that says "Autorun" and select "Click To Run". ![](/assets/ClickToRun.png)
 10. You are ready to start coding!
 
 
