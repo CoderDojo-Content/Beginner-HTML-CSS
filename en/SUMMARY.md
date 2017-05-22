@@ -7,4 +7,5 @@
 * [Adding pictures](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
 * [Making a menu](making-a-menu.md)
+* [Adding a map or video!](adding-a-map-or-video.md)
 
