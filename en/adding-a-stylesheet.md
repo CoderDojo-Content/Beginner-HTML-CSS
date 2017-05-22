@@ -31,7 +31,7 @@
       font-family: "Verdana", sans-serif;
    }
    ```
-9. Click Run. Your heading should be orange now, with the paragraph purple as before. 
+9. Click Run. Your heading should be orange now, with the paragraph purple as before. ![](/assets/colorfonth1.png)
 10. Notice how the letters also look different as well as being a different colour? This is because we changed the **font family**. You can see some more fonts at dojo.soy/font-families
 11. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
 
