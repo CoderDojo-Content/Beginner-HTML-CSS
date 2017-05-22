@@ -35,12 +35,13 @@ The above rule applies to links (`<a>` tags) inside list items in an unordered l
 ```
    nav ul {
      border-style: solid;
-     border-color: tomato;
+     border-color: PaleVioletRed;
      border-width: 1px;
-     background-color: purple;
+     background-color: tomato;
      padding: 10px;
    }
 ```
 The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. 
-8. Here's an example of what your stylesheet and web pages should look like by now. ![](/assets/menu-styled.png)
+8. Here's an example of what your stylesheet and web pages should look like by now. ![](/assets/menuStyledAll.png)
+9. **TODO** Bonus: Rounded corners and non link font colour on menu list items
 
