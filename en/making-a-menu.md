@@ -31,6 +31,6 @@
    }
    ```
 9. Notice how you used two selectors instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags. Click Run to see what it looks like.
-10. Remember to click Save when you're done! ![](/assets/navMenuBorder.png) 
+10. Remember to click Save when you're done! ![](/assets/navMenuBorder.png)
 
 
