@@ -14,6 +14,7 @@
 3. The `<ul> </ul>` tags go around the whole list, and they turn it into the nice looking list you now have. "ul" stands for **unordered list**. This means a list with no numbers. Each thing in the list must be between `<li> </li>` tags. "li" stands for **list item**. Change the list items to some pages that you would like to have in your website!
 
 4. How about if you wanted a numbered list? It's almost the same, but instead of `ul`, you use `ol`, which stands for **ordered list**. Add the following code after the last `</p>` tag in the file:
+
    ```
    <p>
       These are the things I have learned to use in my website so far:
@@ -25,6 +26,8 @@
       <li>Lists!</li>
    </ol>
    ```
-5. Click Run. Here's what it should look like now: [SCREENSHOT]
+
+5. Click Run. Here's what it should look like now: \[SCREENSHOT\]
+
 
 

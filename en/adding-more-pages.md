@@ -10,11 +10,18 @@
 9. When you are done, go to the index.html file. You are going to create links so that you can visit the new pages!
 10. Inside your list of pages, you will put the text of each list item in between `<a> </a>` tags. These are special tags: to use them you need to include an extra piece of information called an **attribute**. The attribute you include is `href` and it tells the browser the address of the page to link to. The address of the page must go inside quotation marks. It looks like this: `<a href="attractions.html">Attractions</a>`
 11. Add the &lt;a&gt; &lt;/a&gt; tags to each item on the list of pages, so that it looks like this. Make sure to change the text inside the quotation marks so that it matches the names of your new files that you created!
-12. 
-That goes for the other pages on your website too.Lets make a list
+   ```
+   <ul>
+      <li><a href="attractions.html">Attractions</a></li>
+      <li><a href="music.html">Music</a></li>
+      <li><a href="food.html">Food</a></li>
+   </ul>
+   ```
+12. 13. That goes for the other pages on your website too.Lets make a list
 
-* To change the name of a file, click on the cog icon to the right of the filename, and click the pencil. Then type in a new name for your file. Very important: make sure it ends with .html \(including the dot!\).
-  * You can also delete a file by clicking the bin icon instead of the pencil!
+14. To change the name of a file, click on the cog icon to the right of the filename, and click the pencil. Then type in a new name for your file. Very important: make sure it ends with .html \(including the dot!\).
+
+    * You can also delete a file by clicking the bin icon instead of the pencil!
 
 Lets start with a homepage. Every website needs a homepage! This is the first page you land on when you visit a website.
 
@@ -31,7 +38,5 @@ Lets start with a homepage. Every website needs a homepage! This is the first pa
 Find the `<title>` and `</title>` tags, and change the text in between them to give your page a new title.
 
 1. 
-
-
 
 
