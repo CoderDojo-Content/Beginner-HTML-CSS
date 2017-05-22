@@ -6,7 +6,7 @@
    }
    ```
 Notice this set of rules has three selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section.
-3. Now let's make the list horizontal instead of vertical. Inside the new set of rules, add the following line: `display: inline;` Let's also add some `margin-right` and `margin-left` properties to space the menu items out a bit. The rules should look like this now:
+3. Now let's make the list horizontal instead of vertical. Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
    ```
    nav ul li {
       list-style-type: none;
