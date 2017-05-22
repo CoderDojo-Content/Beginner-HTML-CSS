@@ -30,7 +30,7 @@ Notice this set of rules has three selectors! It selects all `li` elements that 
       color: fuchsia;
    }
 ```
-7. So far, so good. But it can get better! Let's add some properties to the `nav ul` rules to change the border thickness, the colour of the border and the background colour of the menu. Let's also add some space using the `padding` property. Find your nav ul selector and add more rules so that it looks like this:
+7. So far, so good. But it can get better! Find your `nav ul` selector and add more rules so that it looks like this:
 ```
    nav ul {
      border-style: solid;
@@ -40,6 +40,6 @@ Notice this set of rules has three selectors! It selects all `li` elements that 
      padding: 10px;
    }
 ```
-Choose whatever colours you like! You can make the border thicker by using a higher number for the `border-width` property.
+The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. 
 8. Here's an example of what your stylesheet and web pages should look like by now. ![](/assets/menu-styled.png)
 
