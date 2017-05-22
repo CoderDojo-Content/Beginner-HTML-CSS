@@ -36,4 +36,15 @@
       color: fuchsia;
    }
 ```
+8. So far, so good. But it can get better! Let's add some properties to the `nav ul` rules to change the border thickness, the colour of the border and the background colour of the menu. Let's also add some space using the `padding` property. Find your nav ul selector and add more rules so that it looks like this:
+```
+   nav ul {
+     border-style: solid;
+     border-color: tomato;
+     border-width: 1px;
+     background-color: purple;
+     padding: 10px;
+   }
+```
+Choose whatever colours you like! You can make the border thicker by using a higher number for the `border-width` property.
 
