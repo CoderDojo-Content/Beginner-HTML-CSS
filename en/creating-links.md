@@ -9,4 +9,11 @@
 </ul>
 ```
 3. Click Save and then click Run to see your links and try them out.
-4. If
+4. Links are a different colour from the text. On a blue background they are very hard to see! Just like the other text, you can make links be any colour you like in the stylesheet.
+5. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want!
+   ```
+   a {
+      color: LimeGreen;
+   }
+   ```
+6. To see your changes, click Run. Don't forget to click Save as well!
