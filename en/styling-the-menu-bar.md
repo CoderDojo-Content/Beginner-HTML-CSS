@@ -6,14 +6,7 @@
    }
    ```
 Notice this set of rules has three selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section.
-3. Now let's make the list horizontal instead of vertical. Inside the new set of rules, add the following line: `display: inline;` The rules should look like this now:
-   ```
-   nav ul li {
-      list-style-type: none;
-      display: inline;
-   }
-   ```
-4. To space the menu items out a bit, you add properties `margin-left` and `margin-right` to the list item rules. Remember `10px` means 10 **pixels**.
+3. Now let's make the list horizontal instead of vertical. Inside the new set of rules, add the following line: `display: inline;` Let's also add some `margin-right` and `margin-left` properties to space the menu items out a bit. The rules should look like this now:
    ```
    nav ul li {
       list-style-type: none;
@@ -22,6 +15,8 @@ Notice this set of rules has three selectors! It selects all `li` elements that 
       margin-left: 10px;
    }
    ```
+   Remember `10px` means 10 **pixels**.
+
 5. To get rid of the underline on the links, add the following to the end of the styles.css file. It is a new set of rules for `a` tags that are inside list items `li` in an unordered list `ul` inside a `nav` section. That's four selectors!
 ``` 
    nav ul li a {
