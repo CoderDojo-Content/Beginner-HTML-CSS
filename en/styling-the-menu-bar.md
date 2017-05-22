@@ -14,4 +14,26 @@
    }
    ```
    Click Run to see if it worked!
-5. 
+5. To space the menu items out a bit, you add properties `margin-left` and `margin-right` to the list item rules. Remember `10px` means 10 **pixels**.
+   ```
+   nav ul li {
+      list-style-type: none;
+      display: inline;
+      margin-right: 10px;
+      margin-left: 10px;
+   }
+   ```
+6. To get rid of the underline on the links, add the following to the end of the styles.css file. It is a new set of rules for `a` tags that are inside list items `li` in an unordered list `ul` inside a `nav` section. That's four selectors!
+``` 
+   nav ul li a {
+      text-decoration: none;
+   }
+```
+7. Let's go one step further and add rules for when the mouse is hovering over a link. To do this you add a special `:hover` selector together with the selectors for the element you want to style, in this case `nav ul li a`. Add the following to the end of the css file:
+``` 
+   nav ul li a:hover {
+      text-decoration: underline;
+      color: fuchsia;
+   }
+```
+

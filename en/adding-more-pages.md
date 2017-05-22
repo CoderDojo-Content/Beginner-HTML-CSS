@@ -5,7 +5,8 @@
 4. Now, with the text selected, press and hold the Ctrl \(or cmd\) key again and then while holding it press the C key. This copies everything that was selected.
 5. Go to your new file and click inside the code window \(which is blank at the moment\). Press and hold the Ctrl \(or cmd\) key and then while holding it, press the V key. This **pastes** everything that was copied into your new page.
 6. Change the text in between the `<title> </title>` tags so your new page has the right title.
-7. Repeat the steps above for each new page that you want to add. When you are done, go to the index.html file. You are going to create links so that you can visit the new pages!
+7. In between the `<body> </body>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
+8. Repeat the steps above for each new page that you want to add. 
 
 
 
