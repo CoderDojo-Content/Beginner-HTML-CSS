@@ -9,7 +9,7 @@
    * The different pieces of a page defined by tags, for example paragraphs and headings, or the body, are called **elements**.
 
 6. Try changing the `h1` to `h2`. Remember to change it in both the **opening** `<h1>` and the **closing** `</h1>` tag.
-7. Find the `<title>` and `</title>` tags and change the text in between them, to give your page a title.
+7. Find the `<title>` and `</title>` tags and change the text in between them to "Home".
 8. Click the blue Save button at the top right to save your changes.
 9. So a web page is just made up of text, with tags to control it!
 
