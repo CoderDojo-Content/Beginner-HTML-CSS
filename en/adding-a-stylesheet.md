@@ -1,4 +1,4 @@
-1. In your project on Trinket, look at the tabs in the code window and go to the file styles.css by clicking on the tab with that name.
+1. In your project on Trinket, look at the tabs in the code window and go to the file **styles.css** by clicking on the tab with that name.
 2. The file contains the following text:
    ```
    body {
@@ -14,11 +14,11 @@
 
    * Each rule is made up of a **property** with a `:` symbol (**colon**) after it and then a **value** for the property, followed by a `;` symbol (**semi-colon**).
 
-6. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: yellow;` Your rule should now look like this:
+6. Lets add a rule to change the text. Add a new line inside the curly braces, that says `font-family: "Helvetica", sans-serif;` Your rule should now look like this:
    ```
    body {
       background-color: blue;
-      color: yellow;
+      font-family: "Helvetica", sans-serif;
    }
    ```
 7. Click Run to see how it changed the web page. 
