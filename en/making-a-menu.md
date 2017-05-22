@@ -10,11 +10,12 @@
    These tags define the start and the end of a `nav` section at the top of the page. "nav" stands for **navigation**. You will move your list of links into this section.
 
 3. Select your entire list by clicking and dragging the mouse just like you did before.
-4. You are going to **cut** this time instead of **copy**. Press and hold the Ctrl \(or cmd\) key and while holding it press the X key. The list will disappear but don't panic!
+4. You are going to **cut** this time instead of **copy**. Press and hold the Ctrl \(or cmd\) key and while holding it press the **X** key. The list will disappear but don't panic!
 5. Click in the space in between your opening and closing `nav` tags. Make sure you see the cursor flashing there. Then **paste** in the list by pressing Ctrl \(or cmd\) and V together like before. Click Run to see your changes! The code should look something like this:
    ```
    <nav>
       <ul>
+         <li>Home</li>
          <li><a href="attractions.html">Attractions</a></li>
          <li><a href="music.html">Music</a></li>
          <li><a href="food.html">Food</a></li>
