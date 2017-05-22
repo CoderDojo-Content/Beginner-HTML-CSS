@@ -13,11 +13,11 @@
 
    * **Elements** are the things defined by tags, for example paragraphs and headings, or the body.
 
-6. The text is difficult to read against the blue background, right? Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: yellow;` Your rule should now look like this:
+6. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: white;` Your rule should now look like this:
    ```
    body {
       background-color: white;
-   color: yellow;
+      color: white;
    }
    ```
 7. Click Run to see how it looks now. 
