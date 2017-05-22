@@ -9,10 +9,10 @@
 
 4. Change the colour to blue, and click Run \(Remember, this is the button that says "Click To Run"\). Your website should look something like this now: \[SCREENSHOT\]
 
-5. What's going on? The file styles.css is a special file called a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
+5. What's going on? If you look at the top of the index.html file, you will see the following line:
+`<link type="text/css" rel="stylesheet" href="styles.css"/>` This tells the browser to look for a special file called styles.css. This file is a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
 
-   * **Elements** are the things defined by tags, for example paragraphs and headings, or the body.
-6. Each rule is made up a **property** with a `:` symbol (**colon**) after it and then a **value** for the property, followed by a `;` symbol (**semi-colon**).
+   * Each rule is made up of a **property** with a `:` symbol (**colon**) after it and then a **value** for the property, followed by a `;` symbol (**semi-colon**).
 
 6. Lets add a rule to change the text colour. Add a new line inside the curly braces, that says `color: yellow;` Your rule should now look like this:
    ```
@@ -21,7 +21,7 @@
       color: yellow;
    }
    ```
-7. Click Run to see how it looks now. 
+7. Click Run to see how it changed the web page. 
 
 8. Let's add a set of rules to make the heading a different color from the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, after the last curly brace.
    ```
@@ -32,7 +32,7 @@
    ```
 9. Click Run. Your heading should be orange now, with the paragraph yellow as before. 
 10. Notice how the letters also look different? This is because we changed the **font family**. You can see some more fonts at dojo.soy/font-families
-11. Try adding a set of rules for the paragraphs, using the `p` selector.   
+11. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
 
 12. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to dojo.soy/html-colors
 
