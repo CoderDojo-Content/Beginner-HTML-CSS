@@ -17,12 +17,13 @@ Notice this set of rules has three selectors! It selects all `li` elements that 
    ```
    Remember `10px` means 10 **pixels**.
 
-5. To get rid of the underline on the links, add the following to the end of the styles.css file. It is a new set of rules for `a` tags that are inside list items `li` in an unordered list `ul` inside a `nav` section. That's four selectors!
+5. To get rid of the underline on the links, add the following to the end of the styles.css file.
 ``` 
    nav ul li a {
       text-decoration: none;
    }
 ```
+The above rule applies to links (`<a>` tags) inside list items in an unordered list inside a `nav` section. Wow! That's four selectors!
 6. Let's go one step further and add rules for when the mouse is hovering over a link. To do this you add a special `:hover` selector together with the selectors for the element you want to style, in this case `nav ul li a`. Add the following to the end of the css file:
 ``` 
    nav ul li a:hover {
