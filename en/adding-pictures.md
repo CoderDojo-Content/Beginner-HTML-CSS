@@ -6,6 +6,7 @@
 4. In this example, you are telling the browser to display the picture that has the filename **tito.png**. The **alt text** for the picture is **Tito the tourguide dog**, so if the browser did not show the picture you would see this text on the page instead.
    * What do you think the `width` attribute does? Try experimenting with different numbers! Don't delete the px. It stands for **pixels**. So the value means the number of pixels. Pixels are the tiny dots that make up your screen \(they are so tiny that it's almost impossible to see them!\)
 5. To add a picture of your own to the website, click on the image icon again, and click "Add Image". Click "Upload" and then select "Click To Select Files". Select the file on your computer that you want to upload and click "Open". Click "Done" when you are finished uploading files.
+![](/assets/UploadFiles.png)
 6. Once you have uploaded a picture you can add it to your website using the `<img>` tag as before. Change the value of the `src` attribute so that it exactly matches the name of the file with your picture. Change the value of the `alt` attribute to a short description of the picture. Remember that the filename and the alt text must be inside quotation marks!
 7. Click Save to save your work and Run to see how it looks.
 
