@@ -8,5 +8,7 @@
 * [Adding more pages](adding-more-pages.md)
 * [Creating links](creating-links.md)
 * [Making a menu](making-a-menu.md)
-* [Adding a map or video!](adding-a-map-or-video.md)
+* [Styling the menu bar](styling-the-menu-bar.md)
+* [Making a menu](making-a-menu.md)
+* [Adding a map or video](adding-a-map-or-video.md)
 
