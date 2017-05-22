@@ -17,26 +17,3 @@
       <li><a href="food.html">Food</a></li>
    </ul>
    ```
-12. 13. That goes for the other pages on your website too.Lets make a list
-
-14. To change the name of a file, click on the cog icon to the right of the filename, and click the pencil. Then type in a new name for your file. Very important: make sure it ends with .html \(including the dot!\).
-
-    * You can also delete a file by clicking the bin icon instead of the pencil!
-
-Lets start with a homepage. Every website needs a homepage! This is the first page you land on when you visit a website.
-
-1. Click on the tab where it says "MyFirstPage.html"
-2. Change the text so that it says "index.html" instead. When the browser sees a page called "index.html", it knows that this is the homepage for a website.
-3. Now, click on the + next to the tabs. This will create a new file, which will be a new page. Give it a name.
-4. Go to the file BlankPage.html by clicking on the tab that says BlankPage.html This is a template that you can use for all your pages. 
-5. Select all of the text on the page. 
-   1. Click anywhere inside the BlankPage.html file
-   2. Press and hold the Ctrl key, or if you are using a Mac, the cmd key, and while holding it, press the A key at the same time. Notice how all the text becomes selected \[screenshot\]
-6. So you've got a homepage and a few additional pages, but how do you get to the other pages? You need to create links! Lets add the link tag to the items in your list of pages.
-7. Just in front of the text in between the list item tags &lt;li&gt; &lt;/li&gt; , place
-
-Find the `<title>` and `</title>` tags, and change the text in between them to give your page a new title.
-
-1. 
-
-
