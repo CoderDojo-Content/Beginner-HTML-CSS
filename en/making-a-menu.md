@@ -15,14 +15,21 @@
    ```
    <nav>
       <ul>
-         <li>Attractions</li>
-         <li>Music</li>
-         <li>Food</li>
+         <li><a href="attractions.html">Attractions</a></li>
+         <li><a href="music.html">Music</a></li>
+         <li><a href="food.html">Food</a></li>
       </ul>
    </nav>
   ```
 6. Click Run to see your changes. The list should now be at the top of the page. Click Save!
 7. Now go to the stylesheet file. Remember it is in the styles.css tab.
-8. 
+8. Add the following rule at the end of the file.
+   ```
+   nav ul {
+     border-style: solid;
+   }
+   ```
+9. Notice how you used two selectors instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags. Click Run to see what it looks like.
+10. 
 
 
