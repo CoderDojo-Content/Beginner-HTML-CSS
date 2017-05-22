@@ -36,4 +36,5 @@
       color: fuchsia;
    }
 ```
-
+8. How about making the menu change so that you can see which page of the website you're on? This part will be in the
+9. Start with the index.html file. 

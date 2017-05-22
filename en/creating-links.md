@@ -9,12 +9,15 @@
       <li><a href="food.html">Food</a></li>
    </ul>
    ```
-3. Click Save and then click Run to see your links and try them out.
-4. Links are a different colour from the text. On a blue background they are very hard to see! Just like the other text, you can make links be any colour you like in the stylesheet.
-5. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want!
+4. Click Save and then click Run to see your links and try them out.
+5. Links are a different colour from the text. On a blue background they are very hard to see! Just like the other text, you can make links be any colour you like in the stylesheet.
+6. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want! To see your changes, click Run.
    ```
    a {
       color: LimeGreen;
    }
    ```
-6. To see your changes, click Run. Don't forget to click Save as well!
+7. It would be good to have these links on every page, right? To save typing it all out again, you can **copy** and **paste**. Select your entire list by clicking just before the opening `<ul>` tag and dragging the mouse all the way until just after the closing `</ul>` tag, so that all of the list including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! 
+8. Press Ctrl (or cmd) and C together on your keyboard, like you did before. Then go to each of your new files, and click just below the opening `<body>` tag. Press Ctrl (or cmd) and V together to paste in the code.
+9. Now when you click Run, you will be able to click the links no matter which page you are on.
+10. How about making the links
