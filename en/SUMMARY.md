@@ -5,8 +5,6 @@
 * [Adding a stylesheet](adding-a-stylesheet.md)
 * [Making a list](making-a-list.md)
 * [Adding pictures](adding-pictures.md)
-* [Make a homepage](make-a-homepage.md)
-* [Creating links](creating-links.md)
 * [Adding more pages](adding-more-pages.md)
 * [Making a menu](making-a-menu.md)
 
