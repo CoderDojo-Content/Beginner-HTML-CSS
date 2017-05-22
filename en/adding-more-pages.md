@@ -7,7 +7,7 @@
 6. Change the text in between the `<title> </title>` tags so your new page has the right title.
 7. Repeat the steps above for each new page that you want to add. When you are done, go to the index.html file. You are going to create links so that you can visit the new pages!
 8. Inside your list of pages, you will put the text of each list item in between `<a> </a>` tags. These are special tags: to use them you need to include an extra piece of information called an **attribute**. The attribute you include is `href` and it tells the browser the address of the page to link to. The address of the page must go inside quotation marks. It looks like this: `<a href="attractions.html">Attractions</a>`
-9. Add the &lt;a&gt; &lt;/a&gt; tags to each item on the list of pages, so that it looks like this. Change the text inside the quotation marks so that it matches the names of your new files that you created!
+9. Add the &lt;a&gt; &lt;/a&gt; tags to each item on the list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created!
    ```
    <ul>
      <li><a href="attractions.html">Attractions</a></li>
