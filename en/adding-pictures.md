@@ -1,4 +1,4 @@
-1. To add a picture to your page, you need to do two things. First, you need a picture! For now you can use the one included with the project. Click on the image icon next to the plus sign. This is where you can see the pictures that can be used on your website.
+1. To add a picture to your page, you need to do two things. First, you need a picture! For now you can use the one included with the project. Click on the image icon next to the plus sign. This is where you can see the pictures that can be used on your website. 
 2. Second, you need some html code that tells the browser to put your picture on the web page: the &lt;img&gt; tag! "img" is short for **image**. Go to the index.html file in the code window. After the `</ul>` tag, write the following: `<img src="tito.png" alt="Tito the tourguide dog" width="200px">`
 3. Notice that the `<img>` tag is different from the other tags you've used so far: 
    1. There is no closing `</img>` tag. This is because there is no "start" and "end" like there is when you are putting text on the page. 
