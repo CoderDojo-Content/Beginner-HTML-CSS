@@ -47,4 +47,5 @@
    }
 ```
 Choose whatever colours you like! You can make the border thicker by using a higher number for the `border-width` property.
+9. Here's an example of what your stylesheet and web pages should look like by now. [SCREENSHOT]
 
