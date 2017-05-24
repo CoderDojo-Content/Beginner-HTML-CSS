@@ -1,6 +1,7 @@
 1. Now that you have more pages, you need to create links so you can get to them.
-2. Go to the index.html file. Inside your list of pages, you will put the text of each list item in between `<a> </a>` tags. This tag has an **attribute** called `href` that tells the browser the address of the page to link to. Just like when you used the `<img>` tag, the value you give the attribute, in this case the address of the page, must go inside quotation marks. It looks like this: `<a href="attractions.html">Attractions</a>`
-3. Add the tags to each item on the list, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created! Add in a list item with a link for the Homepage as well.
+2. To turn some text into a link, you put it in between `<a> </a>` tags. It looks like this: `<a href="attractions.html">Attractions</a>`
+ * The **href** attribute tells the browser the address of the page to link to. As with all attributes, the value you give it must go inside quotation marks.
+3. Go to the index.html file and add the tags to each item on your list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created! Add in a list item with a link for the Homepage as well.
    ```
    <ul>
       <li><a href="index.html">Home</a></li>
