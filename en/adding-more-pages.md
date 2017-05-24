@@ -7,7 +7,7 @@ a1. So you've decided what pages you'd like to have in your website, now let's m
 6. Change the text in between the `<title> </title>` tags so your new page has  descriptive title.
 7. In between the `<body> </body>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
 8. Repeat the steps above for each new page that you want to add. 
-9. When there are too many tabs to be able to see them al, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
+9. When there are too many tabs to be able to see them all, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
 
 
 
