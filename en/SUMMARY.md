@@ -7,8 +7,9 @@
 * [Adding pictures](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
 * [Creating links](creating-links.md)
-* [Making a menu](making-a-menu.md)
+* [Navigating your website](making-a-menu.md)
+* [Making a menu bar](making-a-menu-bar.md)
 * [Styling the menu bar](styling-the-menu-bar.md)
 * [Adding a map or video](adding-a-map-or-video.md)
-* [Download your code](downloading-your-code.md)
+* Making a menu bar
 
