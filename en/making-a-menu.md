@@ -16,10 +16,9 @@
       </nav>
    </header>
    ```
-7. You are going to put the same code at the top of each of your files for your other pages, so that you have a navigation menu at the top of every page on your website. 
+7. To make the navigation menu appear at the top of every page on your website, you put the same code at the top of each new file that you created.
 8. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and paste the code exactly like you did in Step 6.
-10. Finally go to the stylesheet file. Remember it is in the styles.css tab.
-11. Add the following rule at the end of the file.
+10. Finally go to the stylesheet file. Remember it is in the styles.css tab. Add the following rule at the end of the file.
    ```
    nav ul {
      border-style: solid;
