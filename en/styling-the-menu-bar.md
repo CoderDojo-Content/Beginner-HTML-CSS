@@ -1,6 +1,8 @@
-Each time you make a change to the styles.css file, click Run to see what the website looks like.
 
-7. So far, so good. But it can get better! Find your `nav ul` selector and add more rules so that it looks like this:
+7. So far, so good. But you can make the menu bar look even more awesome with more css rules. Open the styles.css file again (the place where the magic happens! Each time you make a change, click Run to see what the website looks like.
+
+
+Find your `nav ul` selector and add more rules so that it looks like this:
 ```
    nav ul {
      border-style: solid;
