@@ -16,7 +16,7 @@ The `padding` property adds space. Can you work out what each of the other prope
       text-decoration: none;
    }
 ```
-The above rule applies to links (`<a>` tags) inside list items in an unordered list inside a `nav` section. Wow! That's four selectors!
+The above rule applies to links (`<a>` tags) inside list items in an unordered list inside a `nav` section. Wow! That's _four selectors_!
 4. Here's an example of what your stylesheet and web pages should look like by now. ![](/assets/menuStyledAll.png)
 5. **TODO** Bonus: Rounded corners and non link font colour on menu list items
 
