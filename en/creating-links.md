@@ -1,5 +1,4 @@
-1. Now that you have more pages, you need to create links so you can get to them.
-2. To turn some text into a link, you put it in between `<a> </a>` tags. It looks like this: `<a href="attractions.html">Attractions</a>`
+1. To turn some text into a link, you put it in between `<a> </a>` tags. It looks like this: `<a href="attractions.html">Attractions</a>`
  * The **href** attribute tells the browser the address of the page to link to. As with all attributes, the value you give it must go inside quotation marks.
 3. Go to the index.html file and add the tags to each item on your list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created! Add in a list item with a link for the Homepage as well.
    ```
@@ -10,7 +9,7 @@
       <li><a href="food.html">Food</a></li>
    </ul>
    ```
-4. Click Save and then click Run to see your links and try them out.
+4. Now you can navigate to your new pages! Click Save and then click Run to see your links and try them out.
 5. Links are a different colour from the text. Just like the other text, you can make links be any colour you like in the stylesheet.
 6. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want! Make it a different colour to the other text colours you have used. To see your changes, click Run.
    ```
