@@ -24,11 +24,10 @@
      border-style: solid;
    }
    ```
-12. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags. Click Run to see what it looks like. tags. Click Run to see what it looks like.(/assets/navMenuBorder.png)
-10. Remember to click Save when you're done! ![](/assets/navMenuBorder.png)
+12. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
+10. Click Run to see what it looks like. Remember to click Save when you're done! ![](/assets/navMenuBorder.png)
 13. Bonus: How about making the menu change to to tell you which page you are on? You could disable the link for that page so it just looks like text.
 14. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this `<li>Home</li>`.
-15. Now go to each of your other pages, and do the same thing, each time removing the link tags for the page you are editing. E.g. on the attractions.html page, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
-16. Remember to click Save when you're done! ![]
+15. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the attractions.html file, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
 
 
