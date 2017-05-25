@@ -17,7 +17,8 @@ The `padding` property adds space. Can you work out what each of the other prope
    }
 ```
 The above rule applies to links (`<a>` tags) inside list items in an unordered list inside a `nav` section. Wow! That's _four selectors_!
-  **TODO** Rounded corners and non link font colour on menu list items
+3. Remember how you removed the link tags in your list items so you could easily see what page was clicked? Now you can set a `color` property to change the colour of the nav list items which are not links. Find your `nav ul li` selector, and add the line `color: PapayaWhip;`  
+* You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
 4. How about some rounded corners?  Try adding the following rule to the `nav ul` rules like this and see what happens `border-radius: 10px;`
  * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
 5. 
