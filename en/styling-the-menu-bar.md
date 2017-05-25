@@ -2,7 +2,7 @@
 10. Go to the stylesheet file. Remember it is in the styles.css tab. Add the following rule at the end of the file.
    ```
       nav ul {
-         border-style: solid;
+         background-color: tomato;
       }
    ```
 12. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
