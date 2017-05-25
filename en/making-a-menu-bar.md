@@ -1,4 +1,4 @@
-1. By adding more rules in the stylesheet, you can transform your menu into a cool looking menu bar! Each time you make a change to the styles.css file, click Run to see what the website looks like.
+1. By adding more rules in the stylesheet, you can transform your menu into a cool looking menu bar! 
 2. Go to the stylesheet file. Remember it is in the styles.css tab. Add the following rule at the end of the file.
    ```
       nav ul {

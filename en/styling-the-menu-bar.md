@@ -1,3 +1,4 @@
+Each time you make a change to the styles.css file, click Run to see what the website looks like.
 
 7. So far, so good. But it can get better! Find your `nav ul` selector and add more rules so that it looks like this:
 ```
