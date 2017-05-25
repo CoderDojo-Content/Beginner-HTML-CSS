@@ -13,7 +13,7 @@
       list-style-type: none;
    }
    ```
-Notice this set of rules has three selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section.
+Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section.
 3. Now let's make the list horizontal instead of vertical. Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
    ```
    nav ul li {
@@ -26,7 +26,7 @@ Notice this set of rules has three selectors! It selects all `li` elements that 
    Remember `10px` means 10 **pixels**.
 
 
-13. How about making the menu change to to tell you which page you are on? You could disable the link for that page so it just looks like text.
+13. How about making the menu change to to tell you which page you are on? You could disable the link for that page so it just looks like text. This part won't be in the stylesheet.
 14. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this `<li>Home</li>`.
 15. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the attractions.html file, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
 7. So far, so good. But it can get better! Find your `nav ul` selector and add more rules so that it looks like this:
