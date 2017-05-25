@@ -16,8 +16,11 @@
       </nav>
    </header>
    ```
-6. Now go to each of your files for your other pages, and **paste** in the same block of code in between the `<header> </header>` tags, so that you have a navigation menu at the top of every page.
-
+7. You are going to put the same code at the top of each of your files for your other pages, so that you have a navigation menu at the top of every page on your website. 
+8. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and paste the code exactly like you did in Step 6.
+9. Now when you click Run, you will be able to click the links no matter which page you are on.
+10. Bonus: How about making the links appear different to tell you which page you are on? Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this `<li>Home</li>`.
+11. Now go to each of your other pages, and do the same thing, each time removing the link tags for the page you are editing. E.g. on the attractions.html page, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
 
 
 4. You are going to **cut** this time instead of **copy**. Press and hold the Ctrl \(or cmd\) key and while holding it press the **X** key. The list will disappear but don't panic!
@@ -36,6 +39,8 @@
 7. It would be good to have these links on every page, right? To save typing it all out again, you can **copy** and **paste**. Select your entire list by clicking just before the opening `<ul>` tag and dragging the mouse all the way until just after the closing `</ul>` tag, so that all of the list including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](/assets/ulSelected.png)
 8. Press **Ctrl** \(or **cmd**\) and **C** together on your keyboard, like you did before. Then go to each of your new files, and click just below the opening `<body>` tag. Press **Ctrl** \(or **cmd**\) and V together to paste in the code.
 9. Now when you click Run, you will be able to click the links no matter which page you are on.
+
+
 10. How about making the links appear different to tell you which page you are on? Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this `<li>Home</li>`.
 11. Now go to each of your other pages, and do the same thing, each time removing the link tags for the page you are editing. E.g. on the attractions.html page, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
 
