@@ -1,7 +1,7 @@
 1. Now that you've got a bunch of pages, a homepage, and links to get around, let's move the links to a menu bar at the top of the page, like many websites have.
 2. Just before the opening `<ul>` tag, press enter to create a new blank line, then on the new line type the following tag: `<nav>`. Notice how Trinket automatically adds in the closing tag for you? You can delete that for now.
 3. Just _after_ the _closing_ `</ul>` tag, press enter to go onto a new line, and type in the closing tag `</nav>`. 
-4. Select your entire `nav` section and list by clicking just before the opening `<nav>` tag and dragging the mouse all the way until just after the closing `</nav>` tag, so that all of the text including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](/assets/ulSelected.png)
+4. Now, select your entire `nav` section and list by clicking just before the opening `<nav>` tag and dragging the mouse all the way until just after the closing `</nav>` tag, so that all of the text including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](/assets/ulSelected.png)
 5. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy**. Then at the top of the file, click in the space between the `<header> </header>` tags. Make sure you see the cursor flashing there. Now **paste** in the list by pressing **Ctrl** \(or **cmd**\) and **V** together like before. Click Run to see your changes! The code should look something like this:
    ```
    <header>
