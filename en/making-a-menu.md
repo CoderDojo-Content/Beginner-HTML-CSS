@@ -1,5 +1,6 @@
 1. Now that you've got a bunch of pages, a homepage, and links to get around, let's move the links to a menu bar at the top of the page, like many websites have.
-2. Just below the opening &lt;body&gt; tag, type the following:
+2. 
+2. Just before the opening &lt;ul&gt; tag, press enter to create a new blank line, then on the new line type the following tag `<nav>`.
 
    ```
    <nav>
@@ -23,6 +24,12 @@
    </nav>
   ```
 6. Repeat the steps above on each of your pages.
+7. It would be good to have these links on every page, right? To save typing it all out again, you can **copy** and **paste**. Select your entire list by clicking just before the opening `<ul>` tag and dragging the mouse all the way until just after the closing `</ul>` tag, so that all of the list including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](/assets/ulSelected.png)
+8. Press Ctrl (or cmd) and C together on your keyboard, like you did before. Then go to each of your new files, and click just below the opening `<body>` tag. Press Ctrl (or cmd) and V together to paste in the code.
+9. Now when you click Run, you will be able to click the links no matter which page you are on.
+10. How about making the links appear different to tell you which page you are on? Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this `<li>Home</li>`.
+11. Now go to each of your other pages, and do the same thing, each time removing the link tags for the page you are editing. E.g. on the attractions.html page, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
+
 7. Now go to the stylesheet file. Remember it is in the styles.css tab.
 8. Add the following rule at the end of the file.
    ```
