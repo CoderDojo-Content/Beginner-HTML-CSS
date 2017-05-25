@@ -1,4 +1,16 @@
 1. By adding more rules in the stylesheet, you can transform your menu into a cool looking menu bar! Each time you make a change to the styles.css file, click Run to see what the website looks like.
+10. Go to the stylesheet file. Remember it is in the styles.css tab. Add the following rule at the end of the file.
+   ```
+      nav ul {
+         border-style: solid;
+      }
+   ```
+12. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect all unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
+10. Click Run to see what it looks like. 
+13. How about making the menu change to to tell you which page you are on? You could disable the link for that page so it just looks like text.
+14. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this `<li>Home</li>`.
+15. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the attractions.html file, remove the link tags in the "Attractions" list item, and so on. ![](/assets/ulLinkRemoved.png)
+
 2. Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following at the end of the file.
    ```
    nav ul li {
@@ -24,13 +36,6 @@ Notice this set of rules has three selectors! It selects all `li` elements that 
    }
 ```
 The above rule applies to links (`<a>` tags) inside list items in an unordered list inside a `nav` section. Wow! That's four selectors!
-6. Let's go one step further and add rules for when the mouse is hovering over a link. To do this you add a special `:hover` selector together with the selectors for the element you want to style, in this case `nav ul li a`. Add the following to the end of the css file:
-``` 
-   nav ul li a:hover {
-      text-decoration: underline;
-      color: fuchsia;
-   }
-```
 7. So far, so good. But it can get better! Find your `nav ul` selector and add more rules so that it looks like this:
 ```
    nav ul {
