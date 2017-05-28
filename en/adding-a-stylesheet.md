@@ -11,7 +11,6 @@
 
 5. What's going on? If you look at the top of the index.html file, you will see the following line:
 `<link type="text/css" rel="stylesheet" href="styles.css"/>` This tells the browser to look for a special file named styles.css. This file is a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
- * **CSS** is the code that describes what a website looks like.
  * Each rule is made up of a **property** with a `:` symbol (**colon**) after it and then a **value** for the property, followed by a `;` symbol (**semi-colon**).
  * **CSS** is the code that describes what a website looks like.
 
