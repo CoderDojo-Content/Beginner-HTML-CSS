@@ -12,6 +12,7 @@
 7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](/assets/h2andtitle.png)
 8. Click the blue Save button at the top right to save your changes.
 9. So a web page is just made up of text, with tags to control it!
+ * You have `p` tags for paragraphs and `h` tags for headings. The headings go from `<h1>` all they way up to `<h6>`: try changing your tags to see the different sizes you get!
 
 
 
