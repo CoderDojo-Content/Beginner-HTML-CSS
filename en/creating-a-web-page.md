@@ -3,7 +3,7 @@
 3. Now on the same line, change the `<p>` and `</p>` to `<h1>` and `</h1>`, and click Run. What happens?
 4. When you want to put text on a page, you need to put it in between two **tags** that tell your browser how to display your text. For example, the `<p>` tag tells the browser it is a paragraph of text. The `<h1>` tag tells it that the text is a heading.
    * A **browser** is the program you use to look at websites, for example Chrome or Firefox.
-   * The **.html** in the filename tells the browser that the file is a web page, so it looks for the tags telling it what to display. HTML is what the code is called that makes a web page.
+   * The **.html** in the filename tells the browser that the file is a web page, so it looks for the tags telling it what to display. HTML is the code that makes a web page.
 5. Why do you need two tags? You have an **opening** and a **closing** tag to tell the browser where things start and end. So for a paragraph, the opening `<p>` tag tag says "here comes some text that I want you to display as a paragraph". The closing `</p>` tag tells the browser where the paragraph ends. Everything in between the `<body>` and `</body>` tags is your web page. 
    * Notice how the** closing **tag always has a forward slash, `/`.
    * The different pieces of a page defined by tags, for example paragraphs and headings, or the body, are called **elements**.
