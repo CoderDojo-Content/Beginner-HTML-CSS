@@ -4,6 +4,7 @@
 3. Go the the file blank\_page.html in the code window \(by clicking on the tab with that name\). Select all of the text in the code window by doing the following: Click anywhere inside the code window, then press and hold the **Ctrl** key \(or if you are using a Mac, the **cmd** key\) and while holding it, press the **A** key at the same time. Notice how all the text becomes selected.![](/assets/AllSelected.png)
 4. Now, with the text selected, press and hold the **Ctrl** \(or **cmd**\) key again and then while holding it press the **C** key. This **copies** everything that was selected.
 5. Go to your new file and click inside the code window \(which is blank at the moment\). Press and hold the **Ctrl** \(or **cmd**\) key and then while holding it, press the **V** key. This **pastes** everything that was copied into your new page.
+ * You can use these keyboard shortcuts in most programs to **copy** and **paste** stuff!
 6. Change the text in between the `<title> </title>` tags so your new page has  descriptive title.
 7. In between the `<body> </body>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
 8. Repeat the steps above for each new page that you want to add. 
