@@ -23,7 +23,7 @@
       <li>Lists!</li>
    </ol>
    ```
-5. Click Run. Here's what it should look like now ![](/assets/olist.png)
+5. Click Run. Here's what it should look like now ![](/assets/OrderedList.png)
 
 
 
