@@ -1,4 +1,4 @@
-1. Go to trinket.io and click "Sign Up For Your Free Account" if you do not already have an account. You will need an email address to sign up. 
+1. Go to dojo.soy/trinket and click "Sign Up For Your Free Account" if you do not already have an account. You will need an email address to sign up. 
 2. Enter your email address and choose a password.
 3. Creating an account allows you to save your work and access it from any computer. It also allows you to make a copy of a project somebody else has shared with you so you can make your own changes to it!
 4. Go to \(trinket link - website draft - soy?\). You will see a box containing an example website project. On the right hand side is the website, and on the left hand side is the code that makes the website.
