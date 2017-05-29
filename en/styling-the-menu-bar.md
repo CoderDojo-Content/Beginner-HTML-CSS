@@ -2,9 +2,10 @@
 2. Find your `nav ul` selector and add more rules so that it looks like this:
 ```
    nav ul {
+     background-color: tomato;
      border-style: solid;
-     border-color: PaleVioletRed;
-     border-width: 1px;
+     border-color: MediumVioletRed;
+     border-width: 2px;
      background-color: tomato;
      padding: 10px;
    }
