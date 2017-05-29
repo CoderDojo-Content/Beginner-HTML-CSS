@@ -21,4 +21,4 @@ The above rule applies to _links_ \(`<a>` tags\) inside _list items_ in an _unor
  * You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
 4. How about some rounded corners? Try adding the following rule to the `nav ul` rules to see what happens: `border-radius: 10px;`
  * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
-5. Here's an example of what your stylesheet and web pages should look like by now. ![](/assets/menuStyledAll.png)
+5. Here's an example of what your stylesheet and web pages should look like by now. ![](assets/MenuBarFullStyles.png)
