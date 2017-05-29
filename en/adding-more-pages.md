@@ -6,7 +6,7 @@
 5. Go to your new file and click inside the code panel \(which is blank at the moment\). Press and hold the **Ctrl** \(or **cmd**\) key and then while holding it, press the **V** key. This **pastes** everything that was copied into your new page.
  * You can use these keyboard shortcuts in most programs to **copy** and **paste** stuff, including text and files!
 6. Change the text in between the `<title> </title>` tags so your new page has a descriptive title.
-7. In between the `<body> </body>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
+7. In between the `<main> </main>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
 8. Repeat the steps above for each new page that you want to add. 
 9. When there are too many tabs to be able to see them all, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
 
