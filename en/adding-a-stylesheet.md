@@ -8,7 +8,7 @@
    ```
 3. The curly braces `{ }` and the text in between them is a set of rules. The word `body` means that the set of rules is for the `<body>` tags on your web page. We call the bit outside the curly braces a **selector**. So in this case, it is the selector for the body tags.
 
-4. Change the colour to `LightGreen`, and click Run \(Remember, this is the button that says "Click To Run"\). Your website should now have a green background!
+4. Change the colour to `LightSkyBlue`, and click Run \(Remember, this is the button that says "Click To Run"\). Your website should now have a blue background!
 
 5. What's going on? If you look at the top of the index.html file, you will see the following line:
 `<link type="text/css" rel="stylesheet" href="styles.css"/>` This tells the browser to look for a special file named styles.css. This file is a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
@@ -16,7 +16,7 @@
 6. Lets add a rule to change the text. Add two new lines inside the curly braces, so that your rule looks like this:
    ```
    body {
-      background-color: LightGreen;
+      background-color: LightSkyBlue;
       font-family: "Helvetica", sans-serif;
       color: purple;
    }
@@ -27,7 +27,7 @@
    ```
    h1 {
       color: orange;
-      font-family: "Verdana", sans-serif;
+      font-family: "Times New Roman", serif;
    }
    ```
 9. Click Run. Your heading should be orange now, with the paragraph purple as before. ![](/assets/colorfonth1.png)
