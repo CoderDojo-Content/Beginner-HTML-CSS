@@ -1,4 +1,4 @@
-1. Now that you've got a bunch of pages, a homepage, and links to get around, let's move the links to a menu bar at the top of the page, like many websites have.
+1. Many websites have a **navigation** menu to make it easy to get around the website. Now that you've got a bunch of pages, a homepage, and links to get around, let's move the links to a navigation section at the top of the page.
 2. Just before the opening `<ul>` tag, press enter to create a new blank line, then on the new line type the following tag: `<nav>`. Trinket automatically adds in the closing tag for you, you can delete that for now.
 3. Just _after_ the _closing_ `</ul>` tag, press enter to go onto a new line, and type in the closing tag `</nav>`. 
  * "nav" stands for **navigation**. The `nav` section is a set of tools for getting around a website.
