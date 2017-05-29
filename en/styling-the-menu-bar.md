@@ -6,7 +6,6 @@
      border-style: solid;
      border-color: MediumVioletRed;
      border-width: 2px;
-     background-color: tomato;
      padding: 10px;
    }
 ```
