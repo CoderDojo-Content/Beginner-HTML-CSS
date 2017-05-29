@@ -1,4 +1,4 @@
-1. Click on the image icon next to the plus sign. This is where you can see the pictures that can be used on your website. For now you can use the picture included with the project. 
+1. Click on the image icon next to the **+** sign. This is where you can see the pictures that can be used on your website. For now you can use the picture included with the project. 
 2. Go to the index.html file in the code window. After the `</ul>` tag, type the following: `<img src="tito.png" alt="Tito the tourguide dog" width="200px">`![](/assets/imgtito.png)
 3. Notice that the `<img>` tag is different from the other tags you've used so far: 
    * There is no closing `</img>` tag. This is because there is no "start" and "end" like there is when you are putting text on the page. 
