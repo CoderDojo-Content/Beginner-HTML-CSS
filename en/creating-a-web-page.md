@@ -9,7 +9,7 @@
    * The different pieces of a page defined by tags, for example paragraphs and headings, or the body, are called **elements**.
 
 6. Try changing the `p` to `h2` in the last paragraph, the one that says "Coding websites is fun!" Remember to change it in both the **opening** `<p>` and the **closing** `</p>` tag.
-7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](/assets/h2andtitle.png)
+7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](/assets/FirstTagsAndRun.png)
 8. Click the blue Save button at the top right to save your changes.
 9. So a web page is just made up of text, with tags to control it!
  * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
