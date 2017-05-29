@@ -16,7 +16,7 @@
 6. Lets add a rule to change the text. Add two new lines inside the curly braces, so that your rule looks like this:
    ```
    body {
-      background-color: PaleTurqoise;
+      background-color: LightGreen;
       font-family: "Helvetica", sans-serif;
       color: purple;
    }
