@@ -9,10 +9,10 @@
    <header>
       <nav>
          <ul>
-         <li><a href="index.html">Home</a></li>
-         <li><a href="attractions.html">Attractions</a></li>
-         <li><a href="music.html">Music</a></li>
-         <li><a href="food.html">Food</a></li>
+            <li><a href="index.html">Home</a></li>
+            <li><a href="attractions.html">Attractions</a></li>
+            <li><a href="music.html">Music</a></li>
+            <li><a href="food.html">Food</a></li>
          </ul>
       </nav>
    </header>
