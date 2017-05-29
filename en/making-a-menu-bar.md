@@ -1,4 +1,4 @@
-1. By adding more **CSS** rules in the stylesheet, you can transform your menu into a cool looking menu bar! 
+1. By adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! 
 2. Go to the stylesheet file. Remember it is in the styles.css tab. Add the following rule at the end of the file.
    ```
       nav ul {
