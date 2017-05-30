@@ -5,8 +5,11 @@
 4. Leave the browser window open, and go back to the window with the list of files. Find index.html again. This time right click it \(to "right click" on a Mac, either click and hold, or click with two fingers!\), select "Open With &gt;" and choose a plain text editor such as Notepad, Notepad++ or Sublime Text. You should see all the tags, like in the code window on Trinket.
  * If you are using a Mac, you may need to install a plain text editor first
 5. As you know, a web page is just made up of text, with tags to control it. Now you can see that the web page and the code are in fact the same file: depending on whether you open it in a browser or a plain text editor, you will see either the code \(text and tags\) or the web page \(just text\).
-6. Congratulations! You have made your first website! Why not claim your digital badge?
-7. You can also share your project with other people by clicking the Share button (next to the Save button) and selecting one of the options.
+6. Congratulations! Why not share your project with other people to show it off? Click the Share button (next to the Save button) and select one of the options.
+
+
+
+![](assets/badge-footer-image-html-beginner.png)
 
 
 
