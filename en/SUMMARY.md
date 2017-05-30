@@ -12,4 +12,5 @@
 * [Styling the menu bar](styling-the-menu-bar.md)
 * [Adding a map or video](adding-a-map-or-video.md)
 * [Download your project!](downloading-your-code.md)
+* [Adding a table](adding-a-table.md)
 

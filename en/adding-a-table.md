@@ -1,0 +1,2 @@
+1. Sometimes it can be useful to show information in a table. For example if you want to list member information on a website for a local sports club or school. Or, in this example, songs!
+2. A table is made up of **rows** and **columns**. Most tables also include titles at the top of each column, called the **header**.
