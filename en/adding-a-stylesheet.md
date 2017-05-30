@@ -33,4 +33,3 @@
 12. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/html-colors](https://www.w3schools.com/colors/colors_names.asp)
 
 
-
