@@ -20,7 +20,7 @@
    }
    ```
 7. Click Run to see how it changed the web page. 
-8. You can also add rules to make the headings a different color from the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
+8. You can also add rules to make the headings look different to the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
    ```
    h1 {
       color: orange;
