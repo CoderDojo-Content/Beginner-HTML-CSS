@@ -7,7 +7,7 @@
  * The first row contains `<th> </th>` tags. These are used for the **headers**, so the column titles go in between them. There is one pair for each column you have in your table.
  * The `<td> </td>` tags stand for **table data**, and that's what goes in all the other rows. These are like the list item `<li> </li>` tags in a list: everything in between them is one item in your table row.
 6. Here's an example of a table filled with information
- ```
+  ```
     <table>
       <tr>
         <th>Artist</th>
@@ -35,8 +35,7 @@
         <td>2006</td>
       </tr>
     </table>
- ```
- 
+  ```
 7. And here's what it looks like on the website ![](assets/TableResult.png)
 
 6. To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
