@@ -11,7 +11,7 @@
 5. What's going on? If you look at the top of the index.html file, you will see the following line:
 `<link type="text/css" rel="stylesheet" href="styles.css"/>` This tells the browser to look for a special file named styles.css. This file is a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
  * Each rule is made up of a **property** with a `:` symbol \(**colon**\) after it and then a **value** for the property, followed by a `;` symbol \(**semi-colon**\).
-6. Lets add a rule to change the text. Add two new lines inside the curly braces, so that your rule looks like this:
+6. Lets add rules to change the text. Add two new lines inside the curly braces like this:
    ```
    body {
       background-color: LightSkyBlue;
@@ -20,7 +20,7 @@
    }
    ```
 7. Click Run to see how it changed the web page. 
-8. Let's add a set of rules to make the heading a different color from the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, after the last curly brace.
+8. You can also add rules to make the headings a different color from the paragraphs! For this, you will use  the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
    ```
    h1 {
       color: orange;
