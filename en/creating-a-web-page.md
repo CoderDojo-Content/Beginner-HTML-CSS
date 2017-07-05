@@ -10,6 +10,13 @@
 
 6. Try changing the `p` to `h2` in the last paragraph, the one that says "Coding websites is fun!" Remember to change it in both the **opening** `<p>` and the **closing** `</p>` tag.
 7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](/assets/FirstTagsAndRun.png)
+8. Find the code for the paragraph that says "My website is about Ireland" and change it so that it looks like this:
+   ```
+      <p>
+         <em>My website</em> is about <strong>Ireland</strong>. It is going to have the following pages: Attractions, Music, Food
+      </p>
+  ```
+  * Can you work out what the `<em> </em>` and `<strong> </strong>` tags do? Note: "em" is short for "emphasis".
 8. Click the blue Save button at the top right to save your changes.
 9. So a web page is just made up of text, with tags to control it!
  * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
