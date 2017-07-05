@@ -20,7 +20,7 @@
    }
    ```
 7. Click Run to see how it changed the web page. 
- * The `color` property is for text.
+ * The `color` property is always for text.
 8. You can also add rules to make the headings look different to the paragraphs! For this, you use the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
    ```
    h1 {
