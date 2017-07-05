@@ -29,7 +29,7 @@
    }
    ```
 9. Click Run. Your heading should be orange now, with the paragraph purple as before. ![](/assets/StyleColorsFonts.png)
-10. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at dojo.soy/font-families
+10. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at [dojo.soy/font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 11. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
 12. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/html-colors](https://www.w3schools.com/colors/colors_names.asp)
 
