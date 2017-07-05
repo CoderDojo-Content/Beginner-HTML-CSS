@@ -61,4 +61,4 @@
       color: purple;
     }
   ```
-12. Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to `<th>` elements _and_ `<td>` elements. It saves typing out the same set of rules again for each selector!
+12. Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to _all_ `<th>` elements _and all_ `<td>` elements. It saves typing out the same set of rules again for each selector!
