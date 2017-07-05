@@ -10,7 +10,7 @@
    }
 ```
 The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. 
-3. To get rid of the underline on the links, add the following code on a new line after the closing curly brace `}` for the `nav ul` rules.
+3. To get rid of the underline on the links, add the following code on a new line after the closing curly brace `}` for the `nav ul li` rules.
 ``` 
    nav ul li a {
       text-decoration: none;
