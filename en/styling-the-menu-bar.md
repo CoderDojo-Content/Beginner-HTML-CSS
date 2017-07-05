@@ -17,7 +17,11 @@ The `padding` property adds space. Can you work out what each of the other prope
    }
 ```
 The above rule applies to _links_ \(`<a>` tags\) inside _list items_ in an _unordered list_ inside a _navigation_ \(`nav`\) section. Wow! That's _four selectors_!
-3. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line `color: PapayaWhip;`. Choose any colour you like! 
+3. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line 
+   ```
+      color: PapayaWhip;
+   ``` 
+   inside the curly braces. Choose any colour you like! 
  * You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
 4. How about some rounded corners? Try adding the following rule to the `nav ul` rules to see what happens: `border-radius: 10px;`
  * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
