@@ -29,14 +29,9 @@
         <td>Linger</td>
         <td>1994</td>
       </tr>
-      <tr>
-        <td>Snow Patrol</td>
-        <td>Chasing Cars</td>
-        <td>2006</td>
-      </tr>
     </table>
   ```
-7. And here's what it looks like on the website ![](assets/TableResult.png)
+7. And here's what it looks like on the website ![](assets/TableResult2.png)
 8. Try filling your table with anything you like! Simply put text in between the `<td> </td>` tags and also in between the `<th> </th>` tags. You can add more tags if you need to.
 9. To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
 10. To add another **column** you add an extra **data** item with a set of `<td> </td>` tags onto every row. You also add an extra **header** item to the first row, using `<th> </th>` tags.
