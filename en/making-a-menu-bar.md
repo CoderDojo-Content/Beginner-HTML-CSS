@@ -26,5 +26,5 @@ Notice this set of rules has _three_ selectors! It selects all `li` elements tha
    Remember `10px` means 10 **pixels**.
 7. How about making the menu change to to tell you which page you are on? This part won't be in the stylesheet.
 8. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this: `<li>Home</li>`.
-9. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on. ![](assets/MenuPageLinkRemoved.png)
+9. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on. ![](assets/MenuPageLinkRemoved2.png)
 10. Click Run and explore your pages. See how the menu bar shows the page you're on as plain text instead of a link?
