@@ -49,5 +49,5 @@ body {
 
 4. Cambie el color a LightSkyBlue y haga clic en Run \(Recuerde, este es el botón que dice "Click To Run"\). Su sitio web ahora debe tener un fondo azul!
 
-
+5. 
 
