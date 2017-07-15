@@ -15,9 +15,9 @@
    }
    ```
 
-   Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section. Phew!
+   このルールには**3つのセレクタ**があることに注意してください！`nav`セクション内にある`ul`リスト内にあるすべての`li`要素を選択します。ふう～！Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section. Phew!
 
-6. Now let's make the list horizontal \(across\) instead of vertical \(down\). Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
+6. では、リストを垂直（上下）方向の並びではなく、水平（左右）方向の並び順にしましょう。新しい行を追加します。`display：inline;`と、`margin-right`と`margin-left`プロパティを追加して、メニュー項目のスペースを少し空けてみましょう。ルールは次のようになります。Now let's make the list horizontal \(across\) instead of vertical \(down\). Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
 
    ```
    nav ul li {
@@ -28,11 +28,11 @@
    }
    ```
 
-   Remember `10px` means 10 **pixels**.
+   `10px`は 10 **ピクセル**を表します。
 
-7. How about making the menu change to to tell you which page you are on? This part won't be in the stylesheet.
+7. どのページを表示しているのか分かるようにメニューを変えてみませんか？　これはスタイルシートには書きません。How about making the menu change to to tell you which page you are on? This part won't be in the stylesheet.
 
-8. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this: `<li>Home</li>`.
+8. 「home」ページから変えていきましょう。 `index.html`ファイルに移動します。リストの中で、「Home」ページのリスト項目が`<li> </ li>`タグの間で、ただのテキストになるように、 "Home"という単語の前後にあるリンクタグを削除します。こんなように。`<li> Home </ li>` Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this: `<li>Home</li>`.
 
 9. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on. ![](assets/MenuPageLinkRemoved2.png)
 
