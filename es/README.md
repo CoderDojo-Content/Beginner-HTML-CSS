@@ -12,17 +12,20 @@
 10. Click the triangle icon next to the  button that says "Autorun" and select "Click To Run". ![](/assets/ClickToRunWide.png)
 11. You are ready to start coding!
 
-------------------------------------------------------
+---
 
 1. Entrar [dojo.soy/trinket](https://www.gitbook.com/book/coderdojo/beginner-html-css/edit#) y clic "Sign Up For Your Free Account" si no ya tienes una cuenta. Ustedes necesitará una dirección de correo electrónico para registrarse.
 
 2. Entrar su dirección de correo electrónico y elije una contraseña, o pedirle a alguien que haga esto por usted.
+
 3. La creación de una cuenta le permite guardar su trabajo y accederlo desde cualquier computadora. También le permite hacer una copia de un proyecto que alguien más ha compartido con usted para que pueda hacer sus propios cambios en l!
 4. Entrar [dojo.soy/html-sushi-project](https://www.gitbook.com/book/coderdojo/beginner-html-css/edit#). Verá una caja que contiene un proyecto de ejemplo página web. En el lado derecho está el Web site, y en el lado izquierdo es el código que hace el Web site.
-   1. Si no ha iniciado sesión, deberá introducir su dirección de correo electrónico y contraseña para poder remixar el proyecto.
+   * Si no ha iniciado sesión, deberá introducir su dirección de correo electrónico y contraseña para poder remixar el proyecto.
 5. Clic  el botón "Remix" en la parte superior derecha del proyecto \(si no es verde, tiene que iniciar sesión y volver a hacer clic en él\). Esto crea una copia del proyecto para que pueda trabajar. Debe decir "remixado" después de hacer clic en él.
 6. Junto al botón "Cerrar sesión" en la esquina superior derecha de la página, deberías ver tu nombre de usuario y un menú desplegable \(el pequeño triángulo indica que hay un menú desplegable\). Haga clic en él para mostrar el menú y luego seleccione "My Trinkets".
-   1. En Trinket \(este sitio web\), los proyectos se llaman "trinkets"
-7. 
+   * En Trinket \(este sitio web\), los proyectos se llaman "trinkets"
+7.  El proyecto que acaba de remezclar se mostrará junto con algunos proyectos de ejemplo para otros lenguajes de programación. Se llamará "My First Website Remix". Clic en él para comenzar a editar!
+
+8. 
 
 
