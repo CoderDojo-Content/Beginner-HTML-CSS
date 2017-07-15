@@ -1,4 +1,4 @@
-1. By adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! 
+1. スタイルシートにCSSルールを追加することで、ナビゲーションメニューをクールなデザインのメニューバーに変えることができます。By adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! 
 2. Go to the stylesheet file. Remember it is in the styles.css tab. Click _after_ a closing curly brace `}` and press enter to go onto a new line. Add the following rule.
    ```
       nav ul {
@@ -13,8 +13,9 @@
       list-style-type: none;
    }
    ```
-Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section. Phew!
-6. Now let's make the list horizontal (across) instead of vertical (down). Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
+
+   Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section. Phew!
+6. Now let's make the list horizontal \(across\) instead of vertical \(down\). Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
    ```
    nav ul li {
       list-style-type: none;
@@ -23,8 +24,12 @@ Notice this set of rules has _three_ selectors! It selects all `li` elements tha
       margin-left: 10px;
    }
    ```
+
    Remember `10px` means 10 **pixels**.
 7. How about making the menu change to to tell you which page you are on? This part won't be in the stylesheet.
 8. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this: `<li>Home</li>`.
 9. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on. ![](assets/MenuPageLinkRemoved2.png)
 10. Click Run and explore your pages. See how the menu bar shows the page you're on as plain text instead of a link?
+
+
+
