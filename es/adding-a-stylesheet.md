@@ -45,11 +45,9 @@ body {
 }
 ```
 
-   3. Los rizadores `{}` y el texto entre ellos es un conjunto de** reglas CSS**. El `body` palabra significa que las reglas son para todos los elementos` <body>` en su sitio web. Llamamos a la broca fuera de las llaves un **selector**. Así que en este caso, es el **selector **de los elementos del cuerpo.
+3. Los rizadores `{}` y el texto entre ellos es un conjunto de** reglas CSS**. El `body` palabra significa que las reglas son para todos los elementos`<body>` en su sitio web. Llamamos a la broca fuera de las llaves un **selector**. Así que en este caso, es el **selector **de los elementos del cuerpo.
 
-   4.
-
-
+4. Cambie el color a LightSkyBlue y haga clic en Run \(Recuerde, este es el botón que dice "Click To Run"\). Su sitio web ahora debe tener un fondo azul!
 
 
 
