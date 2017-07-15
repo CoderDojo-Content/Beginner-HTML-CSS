@@ -7,7 +7,7 @@
    ```
 3. 1つではなく**2つのセレクタ**を使ったことに気づきましたか？ `ul`セレクターだけを指定すると、そのルールはWebサイトの「すべての順序無しリスト\(ul\)」に影響します。 `nav`セレクタをあわせて指定すると、「`nav`タグにはさまれた部分にあるリスト\(ul\)」にのみ適用されます。Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect _all_ unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
 4. どんな表示になるか「Click to Run」を押して確認します。 
-5. 弾丸を取り除きましょう。これらは各リスト項目の前にあるスポットです。 styles.cssタブに移動し、ファイルに以下を追加します。もう一度、aの後に改行して入力してください。そうすれば、誤って他のルールブロック内に入ることはありません。Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following to the file. Again, type it on a new line after a `}` so it's not accidentally inside any other block of rules.
+5. "弾丸マーク"\(・\)を消しましょう。\(各リスト項目の前にある点のことです。\) `styles.css`タブに移動して、こちらのコードを追加します。追加したら、もう一度`｝`の後に改行しておきましょう。そうすると、まちがって他のルールのところに書いてしまうことがなくなります。Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following to the file. Again, type it on a new line after a `}` so it's not accidentally inside any other block of rules.
 
    ```
    nav ul li {
