@@ -26,6 +26,7 @@
 9. Click the blue Save button at the top right to save your changes.
 
 10. So a web page is just made up of text, with tags to control it!
+
     * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
 
 ---
@@ -39,7 +40,7 @@
 5. Por qué necesita dos etiquetas? Tiene una etiqueta de **apertura** y una etiqueta de **cierre **para indicarle al navegador dónde empiezan y terminan las cosas. Así que para un párrafo, la etiqueta de apertura `<p>` dice "aquí viene un texto que quiero que muestre como un párrafo". La etiqueta de cierre`</ p>` indica al navegador dónde termina el párrafo. Todo entre las etiquetas `<body>` y `</ body>` es su página web.
    * Observe cómo la etiqueta de **cierre **siempre tiene una barra diagonal, `/`.
    * Las etiquetas definen diferentes partes de una página, por ejemplo, párrafos y encabezados, o el cuerpo; estas piezas se llama **elementos** . Piense en ellos como bloques de construcción.
-6. Trate de cambiar la` p `a `h2` en el último párrafo, el que dice "Coding websites is fun!" Recuerde que debe cambiarlo tanto en la **apertura **`<p>` y la etiqueta de **cierre **`</ p>`.
+6. Trate de cambiar la`p`a `h2` en el último párrafo, el que dice "Coding websites is fun!" Recuerde que debe cambiarlo tanto en la **apertura **`<p>` y la etiqueta de **cierre **`</ p>`.
 
 7. Busque las etiquetas `<title>` y `</ title>` y cambie el texto entre ellas a "Home". A continuación, haga clic en el botón "Run".
 
@@ -52,6 +53,14 @@
 `</p>`
 
 * Puedes averiguar qué hacen las etiquetas &lt;em&gt; &lt;/ em&gt; y &lt;strong&gt; &lt;/ strong&gt;? Nota: "em" es el término "énfasis".
+
+   9. Clic en el botón Save azul en la parte superior derecha para guardar los cambios.
+
+  10. Así que una página web se compone de texto, con etiquetas para controlarlo!
+
+* Tiene etiquetas p para los párrafos y etiquetas h para los encabezados. Trate de añadir algunos títulos más, cambiando los números en sus etiquetas para ver los diferentes tamaños que obtiene! Pueden pasar de &lt;h1&gt; hasta &lt;h6&gt;. ¡Agregue un poco más de texto entre las nuevas etiquetas &lt;p&gt; &lt;/ p&gt; también si usted quiere!
+
+
 
 
 
