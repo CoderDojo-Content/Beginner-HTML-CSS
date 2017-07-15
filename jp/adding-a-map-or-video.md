@@ -1,10 +1,10 @@
-1. Bonus: add a video! YouTube provides an easy way to **embed** (put) videos from it onto your website. Find a video on YouTube that you want to show on your website. 
-2. Look for the "Share" button and click it. Select the option "Embed".
-3. You will see a textbox with all the text selected \(if you accidentally unselect the text, you can select it all again by clicking on it and pressing the **Ctrl** \(or **cmd**\) and **A** keys together on your keyboard, just like before\). Press the **Ctrl** \(or **cmd**\) and **C** keys together on your keyboard to **copy** the text.![](assets/EmbedYouTube.png)
-4. Then go to your code, and click in the place where you want to put the video, for example after a heading or paragraph. Paste the code by pressing **Ctrl** \(or **cmd**\) and **V** on your keyboard at the same time, as usual. Don't worry about understanding all the code you just pasted! ![](assets/EmbedYouTube2.png)
-5. Click Run to see the video appear on your web page.
-6. The same technique works for Google maps as well. Give it a go! Go to [dojo.soy/google-maps](maps.google.com) and search for a place you want to show on your website. Click on the result, then find the Share button and get the code and add it to your website as above. ![](assets/EmbedGoogleMap.png)
-7. If you look carefully you should be able to find `width` and `height` attributes in the pasted code. You can change the values to make the map appear bigger or smaller.![](assets/EmbeddedGoogleMapCode.png)
+1. ボーナス: ビデオを追加しましょう。YouTubeは、ウェブサイトに動画を**埋め込む \(embed\) **ための簡単な方法を用意しています。あなたのサイトに埋め込みたいビデオを探しましょう。
+2. "共有" ボタンボタンをクリックして、"埋め込みコード" を選びます。
+3. 選択済みのテキストボックスを見ることが出来ます。\(もし、テキストが選択されていなければ、テキストエリアをクリックして **Ctrl** \(もしくは **cmd**\) を押しながら、**A** キーを事前に押してください。\) そして、**Ctrl** \(もしくは **cmd**\) を **C**キーと一緒に押します。クリップボードにテキストがコピーされます。![](assets/EmbedYouTube.png)
+4. HTMLコードに戻ります。そして、ビデオを挿入したい場所をクリックします。例えば、見出しや段落の後などです。**Ctrl** \(もしくは **cmd**\) と **V** キーを一緒に押して、テキストをペーストしてください。今回、ペーストしたコードの中身については理解する必要はありません!![](assets/EmbedYouTube2.png)
+5. Run をクリックして、ビデオが表示されているかを確認しましょう。
+6. 同じようなテクニックをGoogle Mapでも利用することができます。やってみましょう。[dojo.soy/google-maps](maps.google.com)  に行き、ウェブサイトで表示したい場所を探します。そして、共有ボタンを押してコードを手に入れてあなたのウェブサイトに同じように埋め込みます。 ![](assets/EmbedGoogleMap.png)
+7. よくみると貼り付けたタグの中に`width` と `height` 属性を見るけることが出来ます。 この値を変更することで、マップを大きくしたり小さくしたりすることができます。![](assets/EmbeddedGoogleMapCode.png)
 
 
 

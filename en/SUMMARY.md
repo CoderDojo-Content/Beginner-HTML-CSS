@@ -9,8 +9,8 @@
 * [Creating links](creating-links.md)
 * [Navigating your website](making-a-menu.md)
 * [Making a menu bar](making-a-menu-bar.md)
-* [メニューバーのスタイリング](styling-the-menu-bar.md)
-* [ビデオと地図の埋め込み](adding-a-map-or-video.md)
-* [テーブルの追加](adding-a-table.md)
+* [Styling the menu bar](styling-the-menu-bar.md)
+* [Adding a map or video](adding-a-map-or-video.md)
+* [Adding a table](adding-a-table.md)
 * [Download your project!](downloading-your-code.md)
 
