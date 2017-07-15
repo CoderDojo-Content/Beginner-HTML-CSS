@@ -1,27 +1,41 @@
+a
 
 
-1. Lets add rules to change the text. Add two new lines inside the curly braces like this:
-   ```
-   body {
-      background-color: LightSkyBlue;
-      font-family: "Helvetica", sans-serif;
-      color: purple;
-   }
-   ```
-2. Click Run to see how it changed the web page. 
+
+
+
+
+
+
+
+
+
+
+
+Lets add rules to change the text. Add two new lines inside the curly braces like this:
+
+```
+body {
+   background-color: LightSkyBlue;
+   font-family: "Helvetica", sans-serif;
+   color: purple;
+}
+```
+
+1. Click Run to see how it changed the web page. 
    * The `color` property is always for text.
-3. You can also add rules to make the headings look different to the paragraphs! For this, you use the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
+2. You can also add rules to make the headings look different to the paragraphs! For this, you use the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
    ```
    h1 {
       color: orange;
       font-family: "Times New Roman", serif;
    }
    ```
-4. Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Clic enddebe ser naranja ahora, con el párrafo púrpuraparrafo purpura como antes.
-5. 6. 7. 8. 9. 10.  ![](/assets/StyleColorsFonts.png)
-11. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at [dojo.soy/font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
-12. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
-13. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/html-colors](https://www.w3schools.com/colors/colors_names.asp)
+3. Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Clic enddebe ser naranja ahora, con el párrafo púrpuraparrafo purpura como antes.
+4. 1. 1. 1. 1. 1. ![](/assets/StyleColorsFonts.png)
+5. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at [dojo.soy/font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
+6. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
+7. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/html-colors](https://www.w3schools.com/colors/colors_names.asp)
 
 ---
 
@@ -39,7 +53,7 @@
 
    * Cada regla se compone de una **propiedad **con un `:` símbolo \(**dos puntos**\) después de ella y luego un **valor **para la propiedad, seguido de un; Símbolo \(**punto y coma**\).
 
-6. Permite agregar reglas para cambiar el texto. Añadir dos nuevas líneas dentro de los rizadores como este: 
+6. Permite agregar reglas para cambiar el texto. Añadir dos nuevas líneas dentro de los rizadores como este:
 
 7. ```
    body {
@@ -49,43 +63,23 @@
    }
    ```
 
-    Haga clic en Run para ver cómo cambió la página web.
+   Haga clic en Run para ver cómo cambió la página web.
+
    * La propiedad de color siempre es para texto.
-8. También puede agregar reglas para que los encabezados parezcan diferentes a los párrafos. Para ello, utilice el selector` h1`. Agregue el siguiente código al archivo styles.css, debajo de la llave de cierre.
+
+8. También puede agregar reglas para que los encabezados parezcan diferentes a los párrafos. Para ello, utilice el selector`h1`. Agregue el siguiente código al archivo styles.css, debajo de la llave de cierre.
    ```
    h1 {
       color: orange;
       font-family: "Times New Roman", serif;
-   } 
+   }
    ```
 
-
-
-
-
-
-
-
-
 \`\`\`
 
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-
-\`\`\`
+```
+    
+```
 
 
 
