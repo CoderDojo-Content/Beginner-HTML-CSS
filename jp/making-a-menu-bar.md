@@ -34,9 +34,9 @@
 
 8. 「home」ページから変えていきましょう。 `index.html`ファイルに移動します。リストの中で、「Home」ページのリスト項目が`<li> </ li>`タグの間で、ただのテキストになるように、 "Home"という単語の前後にあるリンクタグを削除します。こんなように。`<li> Home </ li>` Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this: `<li>Home</li>`.
 
-9. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on. ![](assets/MenuPageLinkRemoved2.png)
+9. 他のファイルにも移動して、同じことをしていきます。編集するページそれぞれのリストについて、リンクタグを削除します。たとえば、`music.html`ファイルでは` "Music"`のリスト項目のリンクタグを削除します。Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on. ![](assets/MenuPageLinkRemoved2.png)
 
-10. Click Run and explore your pages. See how the menu bar shows the page you're on as plain text instead of a link?
+10. 「Click To Run」を押して、ページを確認しましょう。. メニューバーでいまどこのページにいるかを表すために、リンクの代わりにプレーンテキストになっていることがわかるでしょう。See how the menu bar shows the page you're on as plain text instead of a link?
 
 
 
