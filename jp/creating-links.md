@@ -1,26 +1,35 @@
-1. To turn some text into a link, you put it in between `<a> </a>` tags. It looks like this: `<a href="attractions.html">Attractions</a>`
- * The **href** attribute tells the browser the address of the page to link to. As with all attributes, the value you give it must go inside quotation marks.
-2. Go to the index.html file and add the tags to each item on your list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created! Add in a list item with a link for the Homepage as well.
+1. 文字をリンク付きテキストに変えるには、`<a> </a>` タグではさみます。 例えば `<a href="attractions.html">アトラクション</a>`といった感じです。 **href**属性は、リンク先のページのアドレスをブラウザに通知します。 すべての属性と同様に、値は引用符で囲む必要があります。
+
+1. index.htmlファイルに移動して、ページのリストの各項目にタグを追加して、下のようにします。 作成した新しいファイルの名前と同じ名前になるように、`” ”`で囲んだ文字を変更してください。 ホームページへのリンクも付いたリスト項目を追加します。
+
    ```
    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="attractions.html">Attractions</a></li>
-      <li><a href="music.html">Music</a></li>
-      <li><a href="food.html">Food</a></li>
+      <li><a href="index.html">ホーム</a></li>
+      <li><a href="attractions.html">アトラクション</a></li>
+      <li><a href="music.html">音楽</a></li>
+      <li><a href="food.html">食べ物</a></li>
    </ul>
    ```
-3. Now you can navigate to your new pages! Click Save and then click Run to see your links and try them out.
-4. Links to other websites look the same. Type in the code for another set of link tags on your page, leaving the **href** value blank for now. 
+
+2. さあ、新しいページに移動できますよ。 \[保存\]を\[実行\]したあと、リンクをクリックして試してみてください。
+
+3. 他のウェブサイトへのリンクも同じようにできます。 今作ったページに別のリンクタグを入力してください。hrefの中は今のところ空白のままで大丈夫です。
+
    ```
    <p>
       <a href="">Visit the Irish Tourism website</a> to learn more about Ireland!
    </p>
    ```
-5. Go to a website that you want to link to. Click in the address bar and select all of the text. That's the whole address of the page you're on. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. ![](assets/AddressBarURL.png)
-6. Now go back to your code. Click in between the quotation marks \(make sure you see the cursor flashing there\) and **paste** in the address by pressing **Ctrl** \(or **cmd**\) and **V** together. Click Run to try out the link! ![](assets/LinkTagWithURL.png)
-7. Just like the other text, you can make links be any colour you like in the stylesheet. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want! Make it a different colour to the other text colours you have used. To see your changes, click Run.
+
+4. リンク先のウェブサイトに移動します。 アドレスバーをクリックし、すべてのテキストを選択します。 それがリンク先のページのアドレスです。 **Ctrl**（または**cmd**）と**C**キーを一緒に押してコピーします。![](assets/AddressBarURL.png)
+
+5. コピーしたデータが消えないうちに、コードに戻りましょう。 引用符の間をクリックして（カーソルが点滅していることを確認してください）、**Ctrl**キー（または**cmd**キー）と**V**キーを同時に押してアドレスを貼り付けます。 リンクを試すには\[実行\]をクリックしてください！![](assets/LinkTagWithURL.png)
+6. 他の文字と同じように、スタイルシートで好きな色にすることができます。 styles.cssファイルに移動し、次のルールセットを追加します。 リンクのセレクタが`a`であることに注意してください。 好きな色を選んでください！ リンクであることが分かるように、他の文字の色とは違う色にしましょう。 変更した内容を確認するには、\[実行\]をクリックします。
    ```
    a {
       color: Brown;
    }
    ```
+
+
+
