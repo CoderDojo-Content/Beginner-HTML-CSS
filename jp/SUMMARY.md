@@ -4,7 +4,7 @@
 * [Creating a web page](creating-a-web-page.md)
 * [CSS（スタイルシート）を設定しよう](adding-a-stylesheet.md)
 * [リストをつくってみよう](making-a-list.md)
-* [Adding pictures](adding-pictures.md)
+* [画像を追加する](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
 * [Creating links](creating-links.md)
 * [Navigating your website](making-a-menu.md)
