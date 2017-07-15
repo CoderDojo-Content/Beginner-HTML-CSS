@@ -11,13 +11,13 @@
 
 5. 独自の画像をウェブサイトに追加するには、画像アイコンをもう一度クリックして、"Add Image"をクリックします。"Upload"をクリック、"Click To Select Files"を選択します。アップロードしたい画像をあなたのコンピューターから選択して"Open"をクリックします。アップロードが終われば、"Done"をクリックします。
 
-6. Once you have uploaded a picture you can add it to your website using the `<img>` tag as before. Change the value of the `src` attribute so that it exactly matches the name of the file with your picture.
+6. 画像がアップロードできれば、以前と同じように&lt;img&gt;タグであなたのウェブサイトに画像を追加できます。その画像と一致するファイル名にsrc属性を変更します。
 
-7. Change the value of the `alt` attribute to a short description of the picture.
+7. alt属性の値を画像の短い説明分に変更します。
 
-   * _Important:_ Attribute values like the filename and the alt text must be inside quotation marks!
+   * 重要：ファイル名や代替テキストは、引用符で囲む必要があります。
 
-8. Click Save to save your work and Run to see how it looks.
+8. Saveをクリックして、作業を保存し、どのように見えるかを確認します。
 
 
 
