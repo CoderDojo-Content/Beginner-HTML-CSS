@@ -1,9 +1,9 @@
 1. たくさんのウェブサイトがページを簡単にページ間を行ったり来たり出来るようにナビゲーションメニューがあります。では、ホームページと中のページ が出来て、行き来できるリンクがはれたら、それらのリンクをセクションのトップにあるナビゲーション部分に動かしましょう。　
 2. &lt;ul&gt;タグの直前でEnterキーを押して、空の行を作り、その行に&lt;nav&gt;タグを打ち込みます。 トリンケットが自動的に閉じタグをつけてくれます。今は自動的に入った終了タグを削除して、終了タグ&lt;/ ul&gt;の直後にEnterキーを押して新しい行に移動し、終了タグ&lt;/ nav&gt;を入力します。「nav」はナビゲーションを表します。 navセクションは、ウェブサイトを回るためのツールセットです
 3. 今度は、&lt;nav&gt;タグの直前をクリックし、&lt;/ nav&gt;タグの直後までマウスをドラッグすると、開始タグと終了タグを含むすべてのテキストが選択されます。開始と終了の山カッコ&lt;と&gt;がすべて選択されていることを確認してください！![](assets/SelectTextYayWhoops.png)
-4. You are going to **cut** this time instead of **copy**. Press and hold the **Ctrl** \(or **cmd**\) key and while holding it press the **X** key. The code will disappear but don't panic!
+4. 今回はコピーする代わりにカット（切り取り）をします。 Ctrl（またはcommand）キーを押したままにして、Xキーを押します。コードは消えますが、パニックにならなくても大丈夫！
 
-5. At the top of the file, click in the space between the `<header> </header>` tags. Make sure you see the cursor flashing there. Now **paste** in the code by pressing **Ctrl** \(or **cmd**\) and **V** together as usual. Click Run to see your changes! The code should look something like this:
+5. ファイルの上部にある&lt;header&gt; &lt;/ header&gt;タグの間をクリックします。カーソルが点滅していることを確認してください。 そのままCtrlキー（またはcommand）とVキーを同時に押してコードを貼り付けます。変更を確定してしてください。コードは次のようになっているはずです。
 
    ```
    <header>
