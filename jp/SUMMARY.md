@@ -10,7 +10,7 @@
 * [メニューバーを作ろう　Making a menu bar](making-a-menu-bar.md)
 * [メニューバーのスタイリング](styling-the-menu-bar.md)
 * [ウェブサイトを案内しよう](making-a-menu.md)
-* [Adding a map or video](adding-a-map-or-video.md)
-* [Adding a table](adding-a-table.md)
+* [マップとビデオの追加](adding-a-map-or-video.md)
+* [テーブルの追加](adding-a-table.md)
 * [Download your project!](downloading-your-code.md)
 
