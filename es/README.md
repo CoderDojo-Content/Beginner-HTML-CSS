@@ -14,3 +14,18 @@
 
 
 
+1. Entrar [dojo.soy/trinket](https://www.gitbook.com/book/coderdojo/beginner-html-css/edit#) y clic "Sign Up For Your Free Account" si no ya tienes una cuenta. Ustedes necesitará una dirección de correo electrónico para registrarse.
+2. Entrar su dirección de correo electrónico y elije una contraseña, o pedirle a alguien que haga esto por usted.
+3. La creación de una cuenta le permite guardar su trabajo y accederlo desde cualquier computadora. También le permite hacer una copia de un proyecto que alguien más ha compartido con usted para que pueda hacer sus propios cambios en él!
+   1. Entrar [dojo.soy/html-sushi-project](https://www.gitbook.com/book/coderdojo/beginner-html-css/edit#). Verá una caja que contiene un proyecto de ejemplo página web.       En el lado derecho está el Web site, y en el lado izquierdo es el código que hace el Web site
+4. 
+
+
+
+
+
+
+
+
+
+
