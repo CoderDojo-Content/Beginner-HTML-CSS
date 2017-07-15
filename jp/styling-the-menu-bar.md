@@ -1,21 +1,21 @@
 1. CSSは、メニューバーの見ためをよいものにすることができます。 styles.cssファイルをもう一度開きます（魔法が起きる場所！）変更するたびに、RunをクリックしてWebサイトの外観を確認します。
-2.  `nav ul` セレクタを見つけて、次のようにルールを追加します。
+2. `nav ul` セレクタを見つけて、次のようにルールを追加します。
 
    ```
    nav ul {
-     background-color: tomato;
-     border-style: solid;
-     border-color: MediumVioletRed;
-     border-width: 2px;
-     padding: 10px;
+    background-color: tomato;
+    border-style: solid;
+    border-color: MediumVioletRed;
+    border-width: 2px;
+    padding: 10px;
    }
    ```
 
-   `padding` プロパティは、スペースを追加します。それぞれのプロパティで何をしているのかを考えることができますか? 色やピクセル数について、別の値を入れて試してみてください。.
+   `padding` プロパティは余白を追加します。 他のプロパティのそれぞれが何をしているのか考えることができますか？ いろいろな色とピクセル数で試してみてください。
 
-3. リンクの下線を取り除くには、nav ul li のルールの閉じカッコ \( `}` \) の後に、以下のコードを追加してください。
+3. リンクの下線を取り除くには、nav ul li のルールを \`{}\` の中に次のコードを追加します。
 
-   * `}` の後であれば、どこでも以下のコードを追加することができますが、関係したものを近くに置いたほうが探しやすいです。
+   * 関連するものは、まとめておくほうがいいですね！
 
      ```
      nav ul li a {
