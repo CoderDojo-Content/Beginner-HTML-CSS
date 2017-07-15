@@ -37,17 +37,14 @@
 
 1. En tu Trinket, mira las pestañas en el panel de código y ve al archivo **styles.css** haciendo clic en la pestaña con ese nombre.
    * **CSS **es el código que describe cómo se ve un sitio web.
-2. El archivo contiene el siguiente text:
+2. El archivo contiene el siguiente text:\`\`\`html body {background-color: white;}
 
-```html
-body {
-    background-color: white;
-}
-```
 
-3. Los rizadores `{}` y el texto entre ellos es un conjunto de** reglas CSS**. El `body` palabra significa que las reglas son para todos los elementos`<body>` en su sitio web. Llamamos a la broca fuera de las llaves un **selector**. Así que en este caso, es el **selector **de los elementos del cuerpo.
 
-4. Cambie el color a LightSkyBlue y haga clic en Run \(Recuerde, este es el botón que dice "Click To Run"\). Su sitio web ahora debe tener un fondo azul!
+1. Los rizadores `{}` y el texto entre ellos es un conjunto de** reglas CSS**. El `body` palabra significa que las reglas son para todos los elementos`<body>` en su sitio web. Llamamos a la broca fuera de las llaves un **selector**. Así que en este caso, es el **selector **de los elementos del cuerpo.
 
-5. 
+2. Cambie el color a LightSkyBlue y haga clic en Run \(Recuerde, este es el botón que dice "Click To Run"\). Su sitio web ahora debe tener un fondo azul!
+
+3. 
+
 
