@@ -18,7 +18,7 @@
    </header>
    ```
 
-   もし失敗していたら、Ctrlキー（またはcommand）とZキーを同時に押して前の状態に戻すことができます。何度か押し続けると最後にした作業か何度か前に戻すことができます。この方は、This is another handy shortcut that you can use in many programs!
+   もし失敗していたら、Ctrlキー（またはcommand）とZキーを同時に押して前の状態に戻すことができます。何度か押し続けると最後にした作業から何度か前に戻すことができます。この方法は、他にもたくさんのプログラムで使える便利なショートカットです。
 
 6. To make the navigation menu appear at the top of every page on your website, you put the same code into each new file that you created. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and **paste** the code exactly like you did in Step 6.
 
