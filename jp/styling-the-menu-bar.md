@@ -1,6 +1,9 @@
-1. With CSS, the possibilities for making your menu bar look great are endless. Open the styles.css file again \(the place where the magic happens!\) Each time you make a change, click Run to see what the website looks like.
-2. Find your `nav ul` selector and add more rules so that it looks like this:
-```
+1. CSSを使うことによる、あなたは無限にメニューバーを良くすることができます。再び style.css を開きましょう。\(魔法が置きた場所です！\)  
+   変更したら、Runをクリックしてウェブサイトがどうなったのかをみてください。
+
+2. `nav ui` セレクターを探し、以下のようなルールを追加してください::
+
+   ```
    nav ul {
      background-color: tomato;
      border-style: solid;
@@ -8,22 +11,38 @@
      border-width: 2px;
      padding: 10px;
    }
-```
-The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. 
-3. To get rid of the underline on the links, add the following code on a new line after the closing curly brace `}` for the `nav ul li` rules.
- * You could put it after any `}` but it's a good idea to keep related stuff together so it's easier to find!
-``` 
-   nav ul li a {
+   ```
+
+   `padding` プロパティは、スペースを追加します。それぞのプロパティが何をしているのかを考えることができますか？  
+   色やピクセル数などについて、別の値を入れて試してみてください。
+
+3. リンク上の下線を取り除くには、`nav ul li` のルールの閉じかっこ \(`}`\) の後に、以下のコードを追加してください。
+
+   * `}` の後であれば、どこでも以下のコードを追加することができますが、関係したものを近くに置いたほうが探しやすいです。
+
+     ```
+     nav ul li a {
       text-decoration: none;
-   }
-```
-The above rule applies to _links_ \(`<a>` tags\) inside _list items_ in an _unordered list_ inside a _navigation_ \(`nav`\) section. Wow! That's _four selectors_!
-3. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line 
+     }
+     ```
+
+     上のルールは、ナビゲーション\(`nav`\)セクション中にある、番号なしリスト\(`ul`\)中の item \(`li`\)にある、リンク\(`a`\)に対して反映されます！_4つ_のセレクタを組み合わせています！
+
+4. nav ul li セレクタを探して以下の行をカッコ \(`{ }` の中\)追加しましょう。
+
+1. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line
+
    ```
       color: PapayaWhip;
-   ``` 
-   inside the curly braces. Choose any colour you like! 
- * You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
-4. How about some rounded corners? Try adding the following rule to the `nav ul` rules to see what happens: `border-radius: 10px;`
- * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
-5. Here's an example of what your stylesheet and web pages should look like by now. ![](assets/MenuBarFullStyles.png)
+   ```
+
+   あなたの好きな色を入れてください。
+
+   * `nav ul li a` の `color` プロパティを追加することにより、メニューのリンク文字の色を変えることができます。
+
+2. カドはどうでしょうか? `nav ul` に、`border-radius: 10px;` を追加してどうなるか試してみましょう。
+   * border-radius プロパティは、とても簡単にカドをカッコよくすることができます! さらに、このルールを画像にも適用することができます。`img` セレクタに、`border-radius` ルールを追加してください。
+3. 以下は、今回のスタイルシートとウェブページがどのように見えるかの例になります。 ![](assets/MenuBarFullStyles.png)
+
+
+
