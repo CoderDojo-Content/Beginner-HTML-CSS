@@ -4,24 +4,35 @@
 4. When you want to put text on a page, you need to put it in between two **tags** that tell your browser how to display your text. For example, the `<p>` tag tells the browser it is a paragraph of text. The `<h1>` tag tells it that the text is a heading.
    * A **browser** is the program you use to look at websites, for example Chrome or Firefox.
    * The **.html** in the filename tells the browser that the file is a web page, so it looks for the tags telling it what to display. **HTML** is the code that makes a web page.
-5. Why do you need two tags? You have an **opening** and a **closing** tag to tell the browser where things start and end. So for a paragraph, the opening `<p>` tag says "here comes some text that I want you to display as a paragraph". The closing `</p>` tag tells the browser where the paragraph ends. Everything in between the `<body>` and `</body>` tags is your web page. 
+5. Why do you need two tags? You have an **opening** and a **closing** tag to tell the browser where things start and end. So for a paragraph, the opening `<p>` tag says "here comes some text that I want you to display as a paragraph". The closing `</p>` tag tells the browser where the paragraph ends. Everything in between the `<body>` and `</body>` tags is your web page.
+
    * Notice how the** closing **tag always has a forward slash, `/`.
    * The tags define different pieces of a page, for example paragraphs and headings, or the body; these pieces are all called **elements**. Think of them as building blocks.
 
 6. Try changing the `p` to `h2` in the last paragraph, the one that says "Coding websites is fun!" Remember to change it in both the **opening** `<p>` and the **closing** `</p>` tag.
+
 7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](/assets/FirstTagsAndRun.png)
 8. Find the code for the paragraph that says "My website is about Ireland" and change it so that it looks like this:
    ```
       <p>
          <em>My website</em> is about <strong>Ireland</strong>. It is going to have the following pages: Attractions, Music, Food
       </p>
-  ```
-  * Can you work out what the `<em> </em>` and `<strong> </strong>` tags do? Note: "em" is short for "emphasis".
-8. Click the blue Save button at the top right to save your changes.
-9. So a web page is just made up of text, with tags to control it!
- * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
+   ```
 
+   * Can you work out what the `<em> </em>` and `<strong> </strong>` tags do? Note: "em" is short for "emphasis".
+9. Click the blue Save button at the top right to save your changes.
+10. So a web page is just made up of text, with tags to control it!
+    * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
 
+-------------------------------------------------------------
+
+1. En el panel izquierdo, el panel de códigos, clic en la pestaña que se llama "index.html".
+2. Encuentra la línea que dice "Welcome to Ireland!" Y cambielo a su propio país o ciudad, teniendo cuidado de no borrar el texto &lt;p&gt; al principio de la línea y &lt;/ p&gt; al final de la línea. Por continuar, clic en el botón que dice "Click to Run". Este es el botón Ejecutar. Verá su página web actualizada en el panel derecho.
+3. Ahora en la misma línea, cambie &lt;p&gt; y &lt;/ p&gt; a &lt;h1&gt; y &lt;/ h1&gt; y haga clic en Run. ¿Lo que pasa?
+4. Cuando desee insertar texto en una página, debe colocarla entre dos etiquetas que indican a su navegador cómo mostrar el texto. Por ejemplo, la etiqueta &lt;p&gt; indica al navegador que es un párrafo de texto. La etiqueta &lt;h1&gt; indica que el texto es un titulo.
+   * Un navegador es el programa que usa para buscar sitios web, por ejemplo, Chrome o Firefox.
+   * El archivo .html en el nombre de archivo indica al navegador que el archivo es una página web, por lo que busca las etiquetas que le indican qué mostrar. HTML es el código que hace una página web.
+5. ¿Por qué necesita dos etiquetas? Tiene una etiqueta de apertura y una etiqueta de cierre para indicarle al navegador dónde empiezan y terminan las cosas. Así que para un párrafo, la etiqueta de apertura &lt;p&gt; dice "aquí viene un texto que quiero que muestre como un párrafo". La etiqueta de cierre &lt;/ p&gt; indica al navegador dónde termina el párrafo. Todo entre las etiquetas &lt;body&gt; y &lt;/ body&gt; es su página web
 
 
 
