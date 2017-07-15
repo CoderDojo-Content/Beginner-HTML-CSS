@@ -1,31 +1,4 @@
-a
 
-Lets add rules to change the text. Add two new lines inside the curly braces like this:
-
-```
-body {
-   background-color: LightSkyBlue;
-   font-family: "Helvetica", sans-serif;
-   color: purple;
-}
-```
-
-1. Click Run to see how it changed the web page. 
-   * The `color` property is always for text.
-2. You can also add rules to make the headings look different to the paragraphs! For this, you use the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
-   ```
-   h1 {
-      color: orange;
-      font-family: "Times New Roman", serif;
-   }
-   ```
-3. Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.
-4. 1. 1. 1. 1. 1. ![](/assets/StyleColorsFonts.png)
-5. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at [dojo.soy/font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
-6. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
-7. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/html-colors](https://www.w3schools.com/colors/colors_names.asp)
-
----
 
 1. En tu Trinket, mira las pestañas en el panel de código y ve al archivo **styles.css** haciendo clic en la pestaña con ese nombre.
    * **CSS **es el código que describe cómo se ve un sitio web.
@@ -67,6 +40,10 @@ body {
 9. Clic en Run. Su título debe ser naranja ahora, con el párrafo púrpura como antes
 
 10. Observe cómo las letras también se ven diferentes, así como ser de un color diferente? Esto se debe a que cambió la familia de fuentes. Puede ver más fuentes en dojo.soy/font-families
-11. 
+
+11. Intente agregar un conjunto de reglas para los encabezados `<h2>`, utilizando el selector `h2`.
+
+12. Por qué no experimentas con diferentes combinaciones de colores para el texto y el fondo? Hay un montón de colores disponibles para su uso. Para una lista completa de ellos, vaya a dojo.soy/html-colors
+
 
 
