@@ -1,12 +1,12 @@
-1. Lets download your code and look at it! At the top left corner of the code panel, click on the menu icon that looks like three lines, and click Download. ![](assets/DownloadMenuCircled.png)
-2. A zip file will be downloaded. It contains all the files for your website. 
-3. Open up the zip file and find the file called index.html. Remember this file is your homepage. Double click on it to open it up in a **browser**. Click the links and explore your website in all its glory!
-4. Can you see the page title at the top of the tab or window? Notice the title on each page. This is the text you put in between the `<title> </title>` tags.![](assets/LocalFileWindowTitle.png)
-5. Leave the browser window open, and go back to the window with the list of files. Find index.html again. This time right click it \(to "right click" on a Mac, either click and hold, or click with two fingers!\), select "Open With &gt;" and choose a plain text editor such as Notepad, Notepad++ or Sublime Text. You should see all the HTML tags, like in the code panel on Trinket.
- * If you are using a Mac, you may need to install a plain text editor first
-6. As you know, a web page is just made up of text, with tags to control it. Now you can see that the web page and the code are in fact the same file: depending on whether you open it in a **browser** or a **plain text editor**, you will see either the **code** \(text and tags\) or the **web page** \(just text\).
-7. Congratulations! Why not share your project with other people to show it off? Click the Share button (next to the Save button) and select one of the options.
- ![](assets/badge-footer-image-html-beginner.png)
+1. 作ったコードをダウンロードしましょう。コードパネルの左上にある3つの線のあるボタンをクリックしてください。そしてダウンロードをクリックします。 ![](assets/DownloadMenuCircled.png)
+2. A zip file will be downloaded. It contains all the files for your website. コンピューターに zip ファイルがダウンロードされます。 このファイルには、作成したすべてのファイルが入っています。
+3. zipファイルを開き、その中にある index.html というファイルを見つけることができます。知っての通り、このファイルはホームページです。ダブルクリックすると、**ブラウザ**により開かれます。リンクをクリックしてあなたの作った素晴らしい成果を探検してみましょう!
+4. ブラウザの画面の上部にページのタイトルを見つけることができますか? これは、それぞれのページのタイトルになります。この文字列は、`<title> </title>` タグの中身です。![](assets/LocalFileWindowTitle.png)
+5. 開いている画面を閉じて、ファイル一覧の画面に戻りましょう。index.html を再び探します。そして、今度は右クリックをして \(Macで"右クリック"をするには、Ctrlを押しながらクリックするか、2本指でクリックしてください!\), "プログラムから開く &gt;" を選択し、Notepad, Notepad++, Sublime Text といったエディタを選択してください。Trinketのコードパネルにあった、すべてのHTMLタグを見ることが出来ます。
+   * Mac を使っている場合は、テキストエディタを先にインストールする必要があります。
+6. 知っての通り、ウェブページはただのタグによって作られたテキストによって作られています。ウェブページとコードが実際のところ同じファイルであることがわかります。ただし、**ブラウザ**で見るとテキストデータが見えて、**テキストエディタ**で見ると**コード** \(テキストやタグ\)が見えるのです。
+7. おめでとうございます。プロジェクトを他の人にぜひシェアしてください! Save ボタンの右に、Share ボタンがあります。
+   ![](assets/badge-footer-image-html-beginner.png)
 
 
 
