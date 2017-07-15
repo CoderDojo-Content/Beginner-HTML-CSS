@@ -54,15 +54,10 @@
 
 * Puedes averiguar qué hacen las etiquetas &lt;em&gt; &lt;/ em&gt; y &lt;strong&gt; &lt;/ strong&gt;? Nota: "em" es el término "énfasis".
 
-   9. Clic en el botón Save azul en la parte superior derecha para guardar los cambios.
-
-  10. Así que una página web se compone de texto, con etiquetas para controlarlo!
+  9 .Clic en el botón Save azul en la parte superior derecha para guardar los cambios
+  10.Así que una página web se compone de texto, con etiquetas para controlarlo!
 
 * Tiene etiquetas p para los párrafos y etiquetas h para los encabezados. Trate de añadir algunos títulos más, cambiando los números en sus etiquetas para ver los diferentes tamaños que obtiene! Pueden pasar de &lt;h1&gt; hasta &lt;h6&gt;. ¡Agregue un poco más de texto entre las nuevas etiquetas &lt;p&gt; &lt;/ p&gt; también si usted quiere!
-
-
-
-
 
 
 
