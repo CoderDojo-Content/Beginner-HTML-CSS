@@ -1,17 +1,5 @@
 a
 
-
-
-
-
-
-
-
-
-
-
-
-
 Lets add rules to change the text. Add two new lines inside the curly braces like this:
 
 ```
@@ -31,7 +19,7 @@ body {
       font-family: "Times New Roman", serif;
    }
    ```
-3. Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.Clic enddebe ser naranja ahora, con el párrafo púrpuraparrafo purpura como antes.
+3. Haga clic en Ejecutar. Su título debe ser naranja ahora, con el párrafo púrpura como antes.
 4. 1. 1. 1. 1. 1. ![](/assets/StyleColorsFonts.png)
 5. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at [dojo.soy/font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp)
 6. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
@@ -68,6 +56,7 @@ body {
    * La propiedad de color siempre es para texto.
 
 8. También puede agregar reglas para que los encabezados parezcan diferentes a los párrafos. Para ello, utilice el selector`h1`. Agregue el siguiente código al archivo styles.css, debajo de la llave de cierre.
+
    ```
    h1 {
       color: orange;
@@ -75,11 +64,9 @@ body {
    }
    ```
 
-\`\`\`
+9. Clic en Run. Su título debe ser naranja ahora, con el párrafo púrpura como antes
 
-```
-    
-```
-
+10. Observe cómo las letras también se ven diferentes, así como ser de un color diferente? Esto se debe a que cambió la familia de fuentes. Puede ver más fuentes en dojo.soy/font-families
+11. 
 
 
