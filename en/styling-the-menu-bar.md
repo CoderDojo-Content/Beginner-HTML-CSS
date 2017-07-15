@@ -25,7 +25,7 @@
 
      上のルールは、ナビゲーション\(`<nav>`\)セクション中にある、番号なしリスト中の item にある、リンク\(`<a>`\)に対して反映されます！4つのセレクタを組み合わせています！
 
-4. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! `nav ul li a` の color プロパティを追加することにより、メニューのリンク文字の色を変えることができます。
+4. Remember how you removed the link tags in some list items so you could easily see what page was clicked? リンクした後に、文字色が変わらないと嫌ですよね！ `nav ul li a` の `color` プロパティを追加することにより、メニューのリンク文字の色を変えることができます。
 
    ```
       color: PapayaWhip;
