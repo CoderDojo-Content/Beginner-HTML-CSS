@@ -18,7 +18,7 @@
    </header>
    ```
 
-   * If you make a mistake, you can **undo** it by pressing **Ctrl** \(or **cmd**\) and **Z** together. You can usually press it a few times to undo the last couple of changes. This is another handy shortcut that you can use in many programs!
+   もし失敗していたら、Ctrlキー（またはcommand）とZキーを同時に押して前の状態に戻すことができます。何度か押し続けると最後にした作業か何度か前に戻すことができます。この方は、This is another handy shortcut that you can use in many programs!
 
 6. To make the navigation menu appear at the top of every page on your website, you put the same code into each new file that you created. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and **paste** the code exactly like you did in Step 6.
 
