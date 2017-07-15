@@ -1,13 +1,13 @@
-1. スタイルシートにCSSルールを追加することで、ナビゲーションメニューをクールなデザインのメニューバーに変えることができますBy adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! 
-2. スタイルシートファイルに移動します。これはstyles.cssタブにあります。閉じた中かっこ`}`の後をクリックして Enterキーを押すと、新しい行に移動します。次のルールを追加します。Go to the stylesheet file. Remember it is in the styles.css tab. Click _after_ a closing curly brace `}` and press enter to go onto a new line. Add the following rule.
+1. スタイルシートに**CSS**ルールを追加することで、ナビゲーションメニューをクールなデザインのメニューバーに変えることができます！By adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! 
+2. スタイルシートファイルに移動します。これは「styles.css」タブにあります。閉じるほうの中かっこ`}`のすぐ後をクリックして からEnterキーを押すと、新しい行に移動します。次のルールを追加します。Go to the stylesheet file. Remember it is in the styles.css tab. Click _after_ a closing curly brace `}` and press enter to go onto a new line. Add the following rule.
    ```
       nav ul {
          background-color: tomato;
       }
    ```
-3. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect _all_ unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
-4. Click Run to see what it looks like. 
-5. Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following to the file. Again, type it on a new line after a `}` so it's not accidentally inside any other block of rules.
+3. 1つではなく**2つのセレクタ**を使ったことに気づきましたか？ `ul`セレクターだけを指定すると、そのルールはWebサイトの「すべての順序無しリスト\(ul\)」に影響します。 `nav`セレクタをあわせて指定すると、「`nav`タグにはさまれた部分にあるリスト\(ul\)」にのみ適用されます。Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect _all_ unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
+4. どんな表示になるか「Click to Run」を押して確認します。 
+5. 弾丸を取り除きましょう。これらは各リスト項目の前にあるスポットです。 styles.cssタブに移動し、ファイルに以下を追加します。もう一度、aの後に改行して入力してください。そうすれば、誤って他のルールブロック内に入ることはありません。Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following to the file. Again, type it on a new line after a `}` so it's not accidentally inside any other block of rules.
 
    ```
    nav ul li {
