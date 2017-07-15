@@ -9,9 +9,10 @@
 7. リミックスしたプロジェクトはその他のプログラミング言語のプロジェクトと一緒に表示される。"My First Website Remix"と書かれています。クリックすると編集ができます！
 8. ページの主要部分は2つのパネルに分割されています。左側はコードを書くところです。違うコードファイルはタブとして表示されます。右側はWEBサイトです！間にある灰色のバーは、ドラッグしてウェブサイトとコードパネルの幅を調整するためのスライダーです。
 
-1. To the top left above the code panel is the name of your project. If you want to change the name, click on it and type in a new name, then press Enter. The website in these Sushi Cards is about Ireland, but yours can be about anything you like.
-2. Click the triangle icon next to the  button that says "Autorun" and select "Click To Run". ![](/assets/ClickToRunWide.png)
-3. You are ready to start coding!
+9. To the top left above the code panel is the name of your project. If you want to change the name, click on it and type in a new name, then press Enter. The website in these Sushi Cards is about Ireland, but yours can be about anything you like.
+
+10. Click the triangle icon next to the  button that says "Autorun" and select "Click To Run". ![](/assets/ClickToRunWide.png)
+11. You are ready to start coding!
 
 
 
