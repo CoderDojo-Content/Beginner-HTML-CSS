@@ -33,27 +33,21 @@
 11. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
 12. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/html-colors](https://www.w3schools.com/colors/colors_names.asp)
 
-
-
-----------------------------------------------------
+---
 
 1. En tu Trinket, mira las pestañas en el panel de código y ve al archivo **styles.css** haciendo clic en la pestaña con ese nombre.
-   1. 
+   * **CSS **es el código que describe cómo se ve un sitio web.
 2. El archivo contiene el siguiente text:
 
 ```html
 body {
     background-color: white;
-} 
+}
 ```
 
-  
+   3. Los rizadores `{}` y el texto entre ellos es un conjunto de** reglas CSS**. El `body` palabra significa que las reglas son para todos los elementos` <body>` en su sitio web. Llamamos a la broca fuera de las llaves un **selector**. Así que en este caso, es el **selector **de los elementos del cuerpo.
 
-  3. Los rizadores `{}` y el texto entre ellos es un conjunto de** reglas CSS**. El cuerpo palabra significa que las reglas son para todos los elementos &lt;body&gt; en su sitio web. Llamamos a la broca fuera de las llaves un selector. Así que en este caso, es el selector de los elementos del cuerpo.
-
-
-
-
+   4.
 
 
 
