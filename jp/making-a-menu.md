@@ -20,7 +20,7 @@
 
    もし失敗していたら、Ctrlキー（またはcommand）とZキーを同時に押して前の状態に戻すことができます。何度か押し続けると最後にした作業から何度か前に戻すことができます。この方法は、他にもたくさんのプログラムで使える便利なショートカットです。
 
-6. To make the navigation menu appear at the top of every page on your website, you put the same code into each new file that you created. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and **paste** the code exactly like you did in Step 6.
+6. 自分のウェブサイの全てのページ上部にナビゲーションメニューを表示させるために、新しく作った各ページのページ上部に同じコードを入れましょう。 Select the entire `nav` セクション丸ごと、先ほどのように選択して、Ctrlキー（またはcommand）とCキーを同時に押してコピーします。そして、他のファイル（ページ）の中の&lt;header&gt; &lt;/ header&gt;タグの間をクリックし、ちょうどステップ６でしたように、コードを貼り付けます。
 
 7. Now when you click Run, you will be able to click the links no matter which page you are on. Remember to  click Save when you're done!
 
