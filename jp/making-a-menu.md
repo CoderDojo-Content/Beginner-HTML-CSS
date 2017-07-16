@@ -22,7 +22,7 @@
 
 6. 自分のウェブサイの全てのページ上部にナビゲーションメニューを表示させるために、新しく作った各ページのページ上部に同じコードを入れましょう。 Select the entire `nav` セクション丸ごと、先ほどのように選択して、Ctrlキー（またはcommand）とCキーを同時に押してコピーします。そして、他のファイル（ページ）の中の&lt;header&gt; &lt;/ header&gt;タグの間をクリックし、ちょうどステップ６でしたように、コードを貼り付けます。
 
-7. Now when you click Run, you will be able to click the links no matter which page you are on. Remember to  click Save when you're done!
+7. これで、\[実行\]をクリックすると、どのページにいたとしても、リンクをクリックすることができます。完了したら\[保存\]をクリックすることを忘れないでください！
 
 
 
