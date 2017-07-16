@@ -7,10 +7,10 @@
    * ブラウザは、ChromeやFirefoxなどのウェブサイトを閲覧するために使用するアプリケーションです。
    * ファイル名の.htmlは、ファイルがWebページであることをブラウザに知らせるので、表示するタグを探します。 HTMLはウェブページを作るコードです。
 
-5. なぜ２つのタグが必要なのか? 開始と終了の場所をブラウザに伝えるための開始タグと終了タグがあります. 段落の場合、&lt;p&gt;タグには「段落として表示したいテキストがあります」と書いてあります。 閉じる&lt;/ p&gt;タグは、ブラウザに段落が終了する場所を伝えます. Everything in between the `<body>` and `</body>` tags is your web page.
+5. なぜ２つのタグが必要なのか? 開始と終了の場所をブラウザに伝えるための開始タグと終了タグがあります. 段落の場合、&lt;p&gt;タグには「段落として表示したいテキストがあります」と書いてあります。 閉じる&lt;/ p&gt;タグは、ブラウザに段落が終了する場所を伝えます. &lt;body&gt;タグと&lt;/ body&gt;タグの間の内容がウェブサイトに表示されます。
 
-   * Notice how the** closing **tag always has a forward slash, `/`.
-   * The tags define different pieces of a page, for example paragraphs and headings, or the body; these pieces are all called **elements**. Think of them as building blocks.
+   * 閉じタグが常にスラッシュ（/）をどのように持つかに注目してください。
+   * タグは、段落や見出しや本文など、ページの異なる部分を定義します。これらはすべて要素と呼ばれます。 ビルディングブロックと考えます.
 
 6. Try changing the `p` to `h2` in the last paragraph, the one that says "Coding websites is fun!" Remember to change it in both the **opening** `<p>` and the **closing** `</p>` tag.
 
@@ -29,6 +29,7 @@
 9. Click the blue Save button at the top right to save your changes.
 
 10. So a web page is just made up of text, with tags to control it!
+
     * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
 
 
