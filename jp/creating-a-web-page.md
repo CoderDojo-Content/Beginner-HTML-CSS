@@ -12,11 +12,11 @@
    * 閉じタグが常にスラッシュ（/）をどのように持つかに注目してください。
    * タグは、段落や見出しや本文など、ページの異なる部分を定義します。これらはすべて要素と呼ばれます。 ビルディングブロックと考えます.
 
-6. Try changing the `p` to `h2` in the last paragraph, the one that says "Coding websites is fun!" Remember to change it in both the **opening** `<p>` and the **closing** `</p>` tag.
+6. 最後の段落「コーディングWebサイトは楽しいです！」のpをh2に変更してみてください。開始&lt;p&gt;タグと終了&lt;/ p&gt;タグの両方で変更することを忘れないでください。
 
-7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](/assets/FirstTagsAndRun.png)
+7. &lt;title&gt;タグと&lt;/ title&gt;タグを探し、それらの間のテキストを "Home"に変更します。次に、実行ボタンをクリックします。 ![](/assets/FirstTagsAndRun.png)
 
-8. Find the code for the paragraph that says "My website is about Ireland" and change it so that it looks like this:
+8. 「My website is about Ireland」という段落のコードを探し、それを次のように変更します:
 
    ```
       <p>
@@ -24,13 +24,13 @@
       </p>
    ```
 
-   * Can you work out what the `<em> </em>` and `<strong> </strong>` tags do? Note: "em" is short for "emphasis".
+   * &lt;em&gt; &lt;/ em&gt;タグと&lt;strong&gt; &lt;/ strong&gt;タグは何をしていますか？ メモ: "em"は"emphasis"の略で。
 
-9. Click the blue Save button at the top right to save your changes.
+9. 変更を保存するには、右上の青い\[SAVE\]ボタンをクリックします。
 
-10. So a web page is just made up of text, with tags to control it!
+10. だから、Webページは、それを制御するためのタグ付きのテキストで構成されています！
 
-    * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
+    * 段落のpタグと見出しのhタグがあります。いくつかの見出しを追加して、タグ内の数字を変更してさまざまなサイズを表示してみてください！ `<h1>` から `<h6>` まで変更できます。必要に応じて、新しい&lt;p&gt; &lt;/ p&gt;タグの間にさらにテキストを追加してください。
 
 
 
