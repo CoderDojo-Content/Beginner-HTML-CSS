@@ -1,2 +1,0 @@
-1. A **table** is a useful way of displaying information. For example if your website is about your local sports club or school, you might us a table to list the members and their contact information.
-2. 
