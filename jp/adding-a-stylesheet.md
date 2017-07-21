@@ -28,7 +28,7 @@
       font-family: "Times New Roman", serif;
    }
    ```
-9. 「Click To Run」をクリックします。見出しむらさき色からオレンジ色になるはずです。 ![](blob:https://www.gitbook.com/d251ea7b-e872-450c-8c9c-fa912d15f82a)
+9. 「Click To Run」をクリックします。見出しむらさき色からオレンジ色になるはずです。![](/assets/StyleColorsFonts.png)
 10. 文字の色と同じように、文字の形（フォント）も変わりました。これは、`font-family`を変更したからです。
     [dojo.soy/font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp) のサイトからたくさんのフォントの種類（フォントファミリー）を見ることができます。
 11. `h2`セレクタを作成して、`<h2>`見出しのCSSルールセットを追加してみてください。
