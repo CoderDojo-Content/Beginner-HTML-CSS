@@ -14,7 +14,7 @@
 
 6. 最後の段落「コーディングWebサイトは楽しいです！」のpをh2に変更してみてください。開始&lt;p&gt;タグと終了&lt;/ p&gt;タグの両方で変更することを忘れないでください。
 
-7. &lt;title&gt;タグと&lt;/ title&gt;タグを探し、それらの間のテキストを "Home"に変更します。次に、実行ボタンをクリックします。 ![](/assets/FirstTagsAndRun.png)
+7. &lt;title&gt;タグと&lt;/ title&gt;タグを探し、それらの間のテキストを "Home"に変更します。次に、実行ボタンをクリックします。 ![](/jp/assets/FirstTagsAndRun.png)
 
 8. 「My website is about Ireland」という段落のコードを探し、それを次のように変更します:
 
