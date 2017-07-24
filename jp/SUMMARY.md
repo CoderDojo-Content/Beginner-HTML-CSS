@@ -7,7 +7,7 @@
 * [画像を追加する](adding-pictures.md)
 * [さらにページをつくろう](adding-more-pages.md)
 * [リンクをつくろう](creating-links.md)
-* [ウェブサイトをナビゲートしよう](making-a-menu.md)
+* [ウェブページにナビゲーションをつけよう](making-a-menu.md)
 * [メニューバーを作ろう](making-a-menu-bar.md)
 * [メニューバーのスタイリング](styling-the-menu-bar.md)
 * [マップとビデオの追加](adding-a-map-or-video.md)
