@@ -1,6 +1,6 @@
 1. By adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! 
 2. Go to the stylesheet file. Remember it is in the styles.css tab. Click _after_ a closing curly brace `}` and press enter to go onto a new line. Add the following rule.
-   ```
+   ```css
       nav ul {
          background-color: tomato;
       }
@@ -8,14 +8,14 @@
 3. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect _all_ unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
 4. Click Run to see what it looks like. 
 5. Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following to the file. Again, type it on a new line after a `}` so it's not accidentally inside any other block of rules.
-   ```
+   ```css
    nav ul li {
       list-style-type: none;
    }
    ```
 Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section. Phew!
 6. Now let's make the list horizontal (across) instead of vertical (down). Inside the new set of rules, add the following line: `display: inline;` Let's also add the properties `margin-right` and `margin-left` to space the menu items out a bit. The rules should look like this now:
-   ```
+   ```css
    nav ul li {
       list-style-type: none;
       display: inline;
