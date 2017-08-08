@@ -1,5 +1,5 @@
 1. When writing a list, wouldn't it be nice if the text looked more like a proper list? Well, there are html tags that do just that! Go back to the tab named index.html and change the paragraph code so that it looks like this: 
-   ```
+   ```html
     <p>
        My website is about Ireland. It is going to have the following pages:
     </p>
@@ -13,7 +13,7 @@
 3. The `<ul> </ul>` tags go around the whole list, and they turn it into the nice looking list you now have. "ul" stands for **unordered list**. This means a list with no numbers. Each thing in the list must be in between `<li> </li>` tags. "li" stands for **list item**. 
  * Change the text in the list items to some pages that you would like to have in your website. Your website can be about anything you want, it doesn't have to be about your home country!
 4. How about if you wanted a numbered list? It's almost the same, but instead of `ul`, you use `ol`, which stands for **ordered list**. Add the following code after the last `</p>` tag in the file:
-   ```
+   ```html
    <p>
       These are the things I have learned to use in my website so far:
    </p>
