@@ -19,8 +19,9 @@
       <a href="">Visit the Irish Tourism website</a> to learn more about Ireland!
    </p>
    ```
-5. Go to a website that you want to link to. Click in the address bar and select all of the text. That's the whole address of the page you're on. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. ![](assets/AddressBarURL.png)
-6. Now go back to your code. Click in between the quotation marks \(make sure you see the cursor flashing there\) and **paste** in the address by pressing **Ctrl** \(or **cmd**\) and **V** together. Click Run to try out the link! ![](assets/LinkTagWithURL.png)
+5. Go to a website that you want to link to. Click in the address bar and select all of the text. That's the whole address of the page you're on. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. ![](assets/addressBarWikiHttps.png)
+ * **Note:** In Trinket, only links that start with **https://** will work. If your link starts with **http://** it won't work in Trinket but it will work when you download your project and run the files in a browser (the **s** stands for **secure**).
+6. Now go back to your code. Click in between the quotation marks \(make sure you see the cursor flashing there\) and **paste** in the address by pressing **Ctrl** \(or **cmd**\) and **V** together. Click Run to try out the link! ![](assets/tktHttpsLink.png)
 7. Just like the other text, you can make links be any colour you like in the stylesheet. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want! Make it a different colour to the other text colours you have used. To see your changes, click Run.
    ```css
    a {
