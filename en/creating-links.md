@@ -16,7 +16,7 @@
 4. Links to other websites look the same. Type in the code for another set of link tags on your page, leaving the **href** value blank for now. 
    ```html
    <p>
-      <a href="">Visit the Irish Tourism website</a> to learn more about Ireland!
+      <a href="">Visit the Wikipedia page</a> to learn more about Ireland!
    </p>
    ```
 5. Go to a website that you want to link to. Click in the address bar and select all of the text. That's the whole address of the page you're on. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. ![](assets/addressBarWikiHttps.png)
