@@ -1,4 +1,4 @@
-1. In your Trinket, look at the tabs in the code panel and go to the file **styles.css** by clicking on the tab with that name.
+1. In your Trinket, look at the tabs in the code panel and go to the file **styles.css** by clicking on the tab with that name. If you can't see **styles.css**, use the **<** and **>** icons to scroll through the tabs until you find it.
 
    * **CSS** is the code that describes what a website looks like.
 
