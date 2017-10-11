@@ -11,9 +11,10 @@
 5. To add a picture of your own to the website, click on the image icon again, and click "Add Image". Click "Upload" and then select "Click To Select Files". Select the file on your computer that you want to upload and click "Open". Click "Done" when you are finished uploading files.
  **Note:** Check the name of your file before uploading it and **rename** it first if you need to. It's a good idea to have filenames that don't contain any spaces. Plus if you've downloaded a picture from the internet, it may be called something like "177823k-iewnf8832n2-3dkewnfwe512.png" which is not very easy to type!
  ![](/assets/UploadFilesWider.png)
-6. Once you have uploaded a picture you can add it to your website using the `<img>` tag as before. Change the value of the `src` attribute so that it exactly matches the name of the file with your picture. 
-7. Change the value of the `alt` attribute to a short description of the picture. Click Save to save your work and Run to see how it looks.
+6. Once you have uploaded a picture you can add it to your website using the `<img>` tag as before. Change the value of the `src` attribute so that it exactly matches the name of the file with your picture. Change the value of the `alt` attribute to a short description of the picture. 
  * _Important:_ Attribute values like the filename and the alt text must be inside quotation marks!
+
+  Click Save to save your work and Run to see how it looks.
 
 
 
