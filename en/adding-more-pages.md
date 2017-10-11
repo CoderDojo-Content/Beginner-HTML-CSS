@@ -8,7 +8,10 @@
 6. Change the text in between the `<title> </title>` tags so your new page has a descriptive title.
 7. In between the `<main> </main>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
 8. Repeat the steps above for each new page that you want to add. 
-9. When there are too many tabs to be able to see them all, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
+ * Remember, when there are too many tabs to be able to see them all, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
+
+  ![](assets/egMorePagesAttractionsPage.png)
+10. On the next card you're going to learn how to make **links** so that you have a way to get to the new pages.
 
 
 
