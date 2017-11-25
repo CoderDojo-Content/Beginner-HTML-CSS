@@ -32,17 +32,17 @@
 
 5. Laten we even kijken naar die tags. Het lijkt een beetje op de code voor een lijst \(herinner je je`<ul>` en `<ol>`?\) maar met meer niveaus.
 
-   * Each pair of `<tr> </tr>` tags is a **row**. So everything in between them will be displayed on one line.
-   * The first row contains `<th> </th>` tags. These are used for the **headers**, so the column titles go in between them. There is one pair for each column you have in your table.
-   * The `<td> </td>` tags stand for **table data**, and that's what goes in all the other rows. These are like the list item `<li> </li>` tags in a list: everything in between them is one item in your table row.
+   * Elk paar van `<tr> </tr>` tags is een **rij**, dus alles ertussen zal op dezelfde lijn getoond worden..
+   * De eerste lijn gebruikt `<th> </th>` tags. Deze worden gebruikt voor de **hoofdingen**, dus de kolomtitels worden ertussen gezet. Er zijn evenveel hoofdingen als kolommen.
+   * De `<td> </td>` tags bevatten de inhoud voor de gewone cellen in de tabel: "td" staat voor **table data**\). Deze tags werken zoals `<li> </li>` tags in een lijst: wat ertussen staat is een vakje in je tabel.
 
-6. Try filling your table with anything you like! Simply put text in between the `<td> </td>` tags and also in between the `<th> </th>` tags. You can add more tags if you need to.
+6. Probeer je tabel op te vullen met wat je maar wil! Zet eenvoudigweg de tekst tussen de `<td> </td>` tags en tussen de  `<th> </th>` tags. Je kan meer tags toevoegen als je wil, voor meer kolommen en/of meer rijen.
 
-   To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
+   Om een rij toe te voegen, voeg je een extra koppel `<tr> </tr>` tags toe. Tussen deze tags zet je hetzelfde aantal **data** items als in de andere rijen met `<td> </td>` tags.
 
-   To add another **column** you add an extra **data** item with a set of `<td> </td>` tags onto every row. You also add an extra **header** item to the first row, using `<th> </th>` tags.
+   Om een **kolom** toe te voegen, voeg je in elke rij een extra **data** item toe met een koppel `<td> </td>` tags. Je kan natuurijk ook **hoofding** items toevoegen met `<th> </th>` tags.
 
-7. If you look at the end of the styles.css file, you will see the CSS code that describes how the table should look. You don't have to understand all of it! But you can experiment with changing the text, border and background colours to design your own style.
+7. Als je naar het einde van het styles.css bestand kijkt, zal je de CSS code zien die beschrijft hoe de tabel eruit moet zien. Je moet er niet alles van begrijpen, maar je kan ermee experimenteren om de tekst, de randen, en de achtergrond kleuren van de tabel te veranderen om je eigen stijl te maken.
 
    ```css
     table, th, td {
@@ -65,7 +65,7 @@
     }
    ```
 
-   Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to _all_ `<th>` elements _and all_ `<td>` elements. It saves typing out the same set of rules again for each selector!
+   In sommige van deze definities worden komma's gebruikt, zoals "table, th, td". Dit is een lijst van selectors: wat hier gedefinieerd wordt, slaat op alle &lt;th&gt; en &lt;td&gt; elementen. Het bespaart je het herhalen van dezelfde regels voor elke selector!
 
 
 
