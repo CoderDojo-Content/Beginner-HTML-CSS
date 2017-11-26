@@ -1,19 +1,23 @@
-1. When writing a list, wouldn't it be nice if the text looked more like a proper list? Well, there are html tags that do just that! Go back to the tab named index.html and change the paragraph code so that it looks like this: 
+1. Keď máme v texte zoznam, nebolo by lepšie, ak by naozaj vyzeral ako zoznam? Existujú HTML tagy, ktoré slúžia presne na to! Choď naspať na záložku index.html a zmeň odstavec, tak aby vyzeral takto:
    ```html
-    <p>
-       My website is about Ireland. 
-       It is going to have the following pages:
-    </p>
-    <ul>
-       <li>Attractions</li>
-       <li>Music</li>
-       <li>Food</li>
-    </ul>
-   ```
+   <p>
+     My website is about Ireland. 
+     It is going to have the following pages:
+   </p>
+   <ul>
+     <li>Attractions</li>
+     <li>Music</li>
+     <li>Food</li>
+   </ul>
+```
 2. Click Run. See how the text got put into a nice list? ![](/assets/egUnorderedList.png)
-3. The `<ul> </ul>` tags go around the whole list, and they turn it into the nice looking list you now have. "ul" stands for **unordered list**. This means a list with no numbers. Each thing in the list must be in between `<li> </li>` tags. "li" stands for **list item**. 
- * Change the text in the list items to some pages that you would like to have in your website. Your website can be about anything you want, it doesn't have to be about your home country!
-4. How about if you wanted a numbered list? It's almost the same, but instead of `ul`, you use `ol`, which stands for **ordered list**. Add the following code just above the line with the closing `</main>` tag:
+
+2. Klikni na Run. Vidíš ako sa tvoj text usporiadal do pekného zoznamu? ![](assets/egUnorderedList.png)
+
+3. Tagy `<ul> </ul>` obklopujú celý zoznam. "ul" znamená **unordered list**, čiže zoznam bez poradia. To znamená zoznam bez čísel. Každá položka v zozname musí byť medzi tagmi `<li> </li>`. "li" znamená **list item**, čiže položka zoznamu.
+  * Zmeň položky zoznamu na názvy stránok, ktoré by si chcel/a mať na svojej webovej stránke. Tvoja webová stránka môže byť o čomkoľvek chceš, nemusí byť o tvojej krajine!
+
+4. Ak by sme chceli zoznam s číslami, vytvára sa skoro rovnako, len namiesto `ul`, použijeme `ol`. "ol" znamená **ordered list**, alebo zoradený zoznam. Pridaj tento kód pred uzatvárací tag `</main>`:
    ```html
    <p>
       These are the things I have learned to use in my website so far:
@@ -25,7 +29,7 @@
       <li>Lists!</li>
    </ol>
    ```
-5. Click Run. Here's what it should look like now ![](/assets/egOrderedList.png)
+5. Klikni na Run. Tvoja stránka by teraz mala vyzerať približne takto: ![](assets/egOrderedList.png)
 
 
 
