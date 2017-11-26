@@ -10,7 +10,6 @@
      <li>Food</li>
    </ul>
 ```
-2. Click Run. See how the text got put into a nice list? ![](/assets/egUnorderedList.png)
 
 2. Klikni na Run. Vidíš ako sa tvoj text usporiadal do pekného zoznamu? ![](assets/egUnorderedList.png)
 
