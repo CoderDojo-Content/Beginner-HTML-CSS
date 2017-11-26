@@ -12,20 +12,19 @@
    * Tagy označujú rôzne časti stránky, napríklad odstavce, nadpisy, alebo telo. Tieto časti sa nazývajú **elementy**. Môžeš si ich predstaviť ako časti skladačky.
 
 6. Skús zmeniť `p` na `h2` v poslednom odstavci, kde je napísané "Coding websites is fun!". Nezabudni, že treba zmeniť **otvárací** tag `<p>` a aj **zatvárací ** tag `</p>`.
-6. Try changing the `p` to `h2` in the last paragraph, the one that says "Coding websites is fun!" Remember to change it in both the **opening** `<p>` and the **closing** `</p>` tag.
-7. Find the `<title>` and `</title>` tags and change the text in between them to "Home". Then click the run button. ![](assets/FirstTagsAndRun.png)
- * The title is that text that you normally see on the tab or at the top of your browser window. Trinket won't display it but when you download your code later you will see it.
-8. Find the code for the paragraph that says "My website is about Ireland" and change it so that it looks like this:
+7. Nájdi tagy `<title>` a `</title>` a zmeň text medzi nimi na "Domov". Potom klikni na ► Run. ![](assets/FirstTagsAndRun.png)
+  * Titulok `title` označuje text, ktorý sa zobrazuje na záložke prehliadača alebo v hornom okraji tvojho prehliadača. V Trinkete sa titulok nezobrazuje, ale uvidíš ho neskôr, keď si svoj kód stiahneš.
+8. Nájdi kód pre odstavec, v ktorom sa píše "My website is about Ireland" a zmeň ho na toto:
    ```html
       <p>
          <em>My website</em> is about <strong>Ireland</strong>. 
          It is going to have the following pages: Attractions, Music, Food
       </p>
   ```
-  * Can you work out what the `<em> </em>` and `<strong> </strong>` tags do? Note: "em" is short for "emphasis".
-8. Click the blue Save button at the top right to save your changes.
-9. So a web page is just made up of text, with tags to control it!
- * You have `p` tags for paragraphs and `h` tags for headings. Try adding some more headings, changing the numbers in your tags to see the different sizes you get! They can go from `<h1>` all the way up to `<h6>`. Add some more text in between new `<p> </p>` tags too if you want!
+  * Vidíš, čo robia tagy `<em> </em>` a `<strong> </strong>`? Poznámka: "em" je skratka pre "emphasis", teda zdôraznenie alebo prízvuk.
+8. Nájdi vpravo hore modré tlačidlo Save a ulož svoje zmeny.
+9. Takže web stránka sa skladá z textu a z tagov, ktorými sa tvaruje!
+  * Existujú tagy `p` pre odstavce a `h` pre nadpisy. Skús pridať viac nadpisov. Zmeň čísla v `h` tagoch a všimni si ako sa mení veľkosť tvojho nadpisu. Idú od `<h1>` až po `<h6>`. Alebo pridaj nové tagy `<p> </p>`!
 
 
 
