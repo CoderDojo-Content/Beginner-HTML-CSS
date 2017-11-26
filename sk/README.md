@@ -10,7 +10,7 @@
 8. Hlavná časť tejto stránky je rozdelená na dva panely. Vľavo môžeš písať svoj kód. Súbory sú hore vyznačené ako záložky. Vpravo je tvoja stránka! Medzi panelmi je úzky predeľovač, ktorý môžeš posúvať doľava a doprava. ![](/assets/TrinketProjectEditingShorter.png)
 9. Vľavo hore uvidíš názov svojho projektu. Ak chceš zmeniť jeho meno, klikni na názov a zadaj nový názov. Na potvrdenie stlač Enter na klávesnici. Stránka na týchto Sushi kartách je o Írsku a po anglicky, no tvoja stránka môže byť o čomkoľvek inom a v slovenčine.
 10. Klikni na trojuholník vedľa tlačidla "Autorun" vľavo hore, a vyber "Click To Run". ![](/assets/ClickToRunWide.png)
-11. Hotovo! Si pripravený/á písať svoj kód!
+11. Hotovo! Si pripravený/á začať písať kód!
 
 
 
