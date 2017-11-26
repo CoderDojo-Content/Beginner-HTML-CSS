@@ -1,7 +1,7 @@
 # Summary
 
-* [Getting Setup](README.md)
-* [Creating a web page](creating-a-web-page.md)
+* [Začíname](README.md)
+* [Vytvorenie webovej stránky](creating-a-web-page.md)
 * [Adding a stylesheet](adding-a-stylesheet.md)
 * [Making a list](making-a-list.md)
 * [Adding pictures](adding-pictures.md)
