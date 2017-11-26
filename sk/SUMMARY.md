@@ -2,7 +2,7 @@
 
 * [Začíname](README.md)
 * [Vytvorenie webovej stránky](creating-a-web-page.md)
-* [Adding a stylesheet](adding-a-stylesheet.md)
+* [Pridávame štýly](adding-a-stylesheet.md)
 * [Making a list](making-a-list.md)
 * [Adding pictures](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
