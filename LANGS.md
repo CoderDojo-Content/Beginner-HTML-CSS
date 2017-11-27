@@ -3,7 +3,7 @@
 * [Español](es/)
 * [Nederlands](nl/)
 * [Français](fr/)
-* [日本語](jp/)
+* [日本語](ja/)
 
 
 
