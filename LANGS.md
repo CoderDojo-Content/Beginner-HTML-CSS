@@ -4,11 +4,6 @@
 * [Nederlands](nl/)
 * [Français](fr/)
 * [日本語](ja/)
-
-
-
-
-
 * [русский](ru/)
 * [Polskie](pl/)
 * [Português](pt/)
