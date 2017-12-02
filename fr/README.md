@@ -1,16 +1,16 @@
-1. Go to [dojo.soy/trinket](http://dojo.soy/trinket) and click "Sign Up For Your Free Account" if you do not already have an account. You will need an email address to sign up. 
-2. Enter your email address and choose a password, or ask somebody to do this for you.
-3. Creating an account allows you to save your work and access it from any computer. It also allows you to make a copy of a project somebody else has shared with you so you can make your own changes to it!
-4. Go to [dojo.soy/html-b-start](http://dojo.soy/html-b-start). You will see a box containing an example website project. On the right hand side is the website, and on the left hand side is the code that makes the website.
-   * If you are not signed in, you will need to enter your email address and password to be able to **Remix** the project.
-5. Click the "Remix" button at the top right of the project \(if it is not green, you have to sign in and then click it again\). This creates a copy of the project for you to work with. It should say "remixed" after you click it ![](/assets/remixedWide.png)
-6. Next to the "Sign Out" button at the very top right corner of the page you should see your username and a drop-down menu \(the tiny triangle tells you there is a drop-down\). Click on it to show the menu and then select "My Trinkets". ![](/assets/MyTrinketsMenuWide.png)
-   * In Trinket \(this website\), projects are called "Trinkets"
-7. The project you just remixed will be shown together with some example projects for other programming languages. It will be called "My First Website Remix". Click on it to begin editing!
-8. The main part of the page is broken into two panels. On the left is where you write your code. The different code files appear as tabs. On the right is your website! The grey bar in between them is a slider that you can drag to adjust the width of the website and code panels. ![](/assets/TrinketProjectEditingShorter.png)
-9. To the top left above the code panel is the name of your project. If you want to change the name, click on it and type in a new name, then press Enter. The website in these Sushi Cards is about Ireland, but yours can be about anything you like.
-10. Click the triangle icon next to the  button that says "Autorun" and select "Click To Run". ![](/assets/ClickToRunWide.png)
-11. You are ready to start coding!
+1. Navigue à la page [dojo.soy/trinket](http://dojo.soy/trinket) et click "Sign Up For Your Free Account" ("Créer un compte gratuitement") si tu ne possèdes pas déjà un compte. Tu auras besoin d'une adresse email pour créer le compte. 
+2. Entre ton adress email et choisis un mot de passe; ou demande à quelqu'un de faire tout cela à ta place.
+3. Créer un compte te permet de sauvegarder ton travail et d'y acceder depuis n'importe quel ordinateur. Cela te permet aussi de faire des copies de projets que d'autres personnes ont partagé avec toi, de manière à ce que tu puisses y faire tes propres modifications!
+4. Navigue à la page [dojo.soy/html-b-start](http://dojo.soy/html-b-start). Tu y verras un cadre contenant un exemple de project de site web. Tu peux voir le site web sur le côté droite, tandis que le code à la source de ce site est sur le côté gauche.
+   * Si tu n'es pas connecté, il te faudra entrer ton adresse email et ton mot de passe afin de pouvoir **Remix** le projet.
+5. Click le boutton "Remix" en haut à droite du projet \(si le boutton n'est pas vert, il faut que tu te connectes puis re-essayer de cliquer\). Cela créé une copie du projet que tu peux modifier. Cela devrait afficher "remixed" une fois que tu as cliqué. ![](/assets/remixedWide.png)
+6. A côté du bouton "Sign Out" ("Se déconnecter") dans le coin tout en haut à droite se trouve ton nom d'utilisateur et un menu déroulant \(le petit triangle t'indiques qu'il peut être déroulé\). Click dessus afin d'afficher le menu puis choisis "My Trinkets" ("Mes Trinkets"). ![](/assets/MyTrinketsMenuWide.png)
+   * Dans Trinket \(ce site web\), les projets sont nommés "Trinkets"
+7. Le projet que tu viens de remixer sera visible avec un ensemble d'exemples dans différents langages de programmation. Ton projet est nommé "My First Website Remix" ("Mon premier site web remixé"). Click dessus afin de commencer à le modifier!
+8. La partie principale de la page est composé de 2 panneaux. Tu peux écrire ton code dans la partie de gauche. Les fichiers apparaissent comme des onglets. Le site web est quand à lui visible sur la droite! La bar grise entre les 2 panneaux est ajustable, tu peux la glisser afin d'ajuster la taille de prévisualisation de ton site ou la taille de ton éditeur de code. ![](/assets/TrinketProjectEditingShorter.png)
+9. Le nom de ton projet se trouve en haut à gauche de l'éditeur de code. Si tu souhaites changer le nom, click dessus, entre un nouveau nom et presse la touche "Entrer". Le site web dans ces Sushi Cards est au sujet de l'Irlande, mais tu peux le changer pour n'importe quoi qui te plait!
+10. Click sur l'icone triangulaire à côté du boutton "Autorun" et choisis "Click to Run". ![](/assets/ClickToRunWide.png)
+11. Tu es prêt pour commencer à coder!
 
 
 
