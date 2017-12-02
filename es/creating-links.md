@@ -1,6 +1,6 @@
-1. To turn some text into a link, you put it in between `<a> </a>` tags. It looks like this: `<a href="attractions.html">Attractions</a>`
- * The **href** attribute tells the browser the address of the page to link to. As with all attributes, the value you give it must go inside quotation marks.
-2. Go to the index.html file and add the tags to each item on your list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created! Add in a list item with a link for the Homepage as well.
+1. Para convertir un texto en un enlace, ponlo entre los tags `<a> </a>` . Se ve así: `<a href="attractions.html">Attractions</a>`
+   * El atributo **href **le dice al navegador la dirección de la página a la que enlazará. Al igual que con todos los atributos, el valor que le des debe ir entre comillas.
+2. Ve al fichero index.html y adiciona los tags a cada elemento en su lista de páginas, de manera que se vea así.  ¡Cambia el texto dentro de las comillas para que coincida exactamente con los nombres de los nuevos archivos que creaste! Adiciona un elemento de la lista con un enlace para la página de inicio también.
    ```
    <ul>
       <li><a href="index.html">Home</a></li>
@@ -9,7 +9,7 @@
       <li><a href="food.html">Food</a></li>
    </ul>
    ```
-3. Now you can navigate to your new pages! Click Save and then click Run to see your links and try them out.
+3. ¡Ahora puedes navegar a tus nuevas páginas! Haz clic en Guardar y luego en Ejecutar para ver tus enlaces y probarlos.
 4. Links to other websites look the same. Type in the code for another set of link tags on your page, leaving the **href** value blank for now. 
    ```
    <p>
@@ -24,3 +24,6 @@
       color: Brown;
    }
    ```
+
+
+
