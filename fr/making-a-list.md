@@ -13,7 +13,7 @@ dex.html et change le code de ton paragraphe afin qu'il ressemble à cela :
    ```
 2. Click Run. As-tu vu la façon dont le texte s'organise en tant que liste? 
 ![](/assets/egUnorderedList.png)
-3. La base `<ul> </ul>` se met autour de toute la liste, et la transforme en cette belle liste que tu vois. "ul" représente une **liste non-ordonnée** ("Unordered-List" en anglais). Cela décrit une liste sans nu
+3. La balise `<ul> </ul>` se met autour de toute la liste, et la transforme en cette belle liste que tu vois. "ul" représente une **liste non-ordonnée** ("Unordered-List" en anglais). Cela décrit une liste sans nu
 méro. Chaque élement de la liste doit être entre des balises `<li> </li>`. "li" représente un **élement de liste** (abbréviation de "List Item" en anglais).
  * Change le texte dans les élements de la liste pour le contenu que tu voudrais avoir sur ton site web. Ton site web peut parler de n'importe quoi, il n'est pas nécessaire qu'il soit au sujet de la France!
 4. Et si on veut une liste numérotée ? C'est presque la même chose, mais au lieu d'utilise `ul`, utilise `ol` (Ordered List en anglais). Ajoute le code suivant juste au dessus de la ligne contenant la balise fer
