@@ -1,5 +1,5 @@
 1. 左側のコードパネルの"index.html"タブをクリック。
-2. "Welcome to Ireland!"の文字を探します！そしてあなたの街の名前に変更します。行頭のテキスト&lt;p&gt;と行末の&lt;/ p&gt;を削除しないように注意してください。次に、 "Click To Run"ボタンをクリックします。これは実行ボタンです。右側のパネルのWEBページが更新されます。![](/ru/assets/egFirstHtmlCodeRun.png)
+2. "Welcome to Ireland!"の文字を探します！そしてあなたの街の名前に変更します。行頭のテキスト&lt;p&gt;と行末の&lt;/ p&gt;を削除しないように注意してください。次に、 "Click To Run"ボタンをクリックします。これは実行ボタンです。右側のパネルのWEBページが更新されます。![](assets/egFirstHtmlCodeRun.png)
 3. 今度は同じ行で&lt;p&gt;と&lt;/ p&gt;を&lt;h1&gt;と&lt;/ h1&gt;に変更し、\[RUN\]をクリックします。何が起こりましたか？
    `<h1>Welcome to Ireland!</h1>`
 
@@ -16,7 +16,7 @@
 
 6. 最後の段落「コーディングWebサイトは楽しいです！」のpをh2に変更してみてください。開始&lt;p&gt;タグと終了&lt;/ p&gt;タグの両方で変更することを忘れないでください。
 
-7. &lt;title&gt;タグと&lt;/ title&gt;タグを探し、それらの間のテキストを "Home"に変更します。次に、"Click To Run"をクリックします。 ![](/jp/assets/FirstTagsAndRun.png)
+7. &lt;title&gt;タグと&lt;/ title&gt;タグを探し、それらの間のテキストを "Home"に変更します。次に、"Click To Run"をクリックします。 ![](assets/FirstTagsAndRun.png)
 
 8. 「My website is about Ireland」という段落のコードを探し、それを次のように変更します:
 

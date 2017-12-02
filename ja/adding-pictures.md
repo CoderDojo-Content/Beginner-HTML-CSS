@@ -1,7 +1,7 @@
 1. ＋マークの次の画像アイコンをクリックしてください。ウェブサイトで使用する画像が探せます。プロジェクトに含まれる画像を使えます。
 
 2. コードパネルでindex.htmlのファイルを開きます。&lt;/ul&gt;タグの後に、以下のコードを書きます。  
-   `<img src="tito.png" alt="Tito the dog" width="100px" />`![](/assets/ImageTito2.png)
+   `<img src="tito.png" alt="Tito the dog" width="100px" />`![](assets/ImgTito2.png)
 
 3. `<img>` タグは今まで使ったタグと使い方が違う事に気をつけてください。
 
