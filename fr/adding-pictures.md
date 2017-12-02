@@ -1,18 +1,19 @@
-1. Click on the image icon next to the **+** sign. This is where you can see the pictures that can be used on your website. For now you can use the picture included with the project. 
-2. Go to the index.html file in the code panel. After the `</ul>` tag, type the following: 
+1. Click sur l'icone image à coté du signe **+**. C'est ici que tu peux voir les images que tu peux utiliser pour ton site web. Pour l'instant, tu peux utiliser l'image fournie avec ton projet.
+2. Ouvre la page index.html dans ton panneau de code. Après la balise `</ul>`, tape le code suivant : 
    ```html
-      <img src="tito.png" alt="Tito the dog" width="100px" />
+      <img src="tito.png" alt="Tito le chien" width="100px" />
    ```
    ![](/assets/ImgTito2.png)
- Notice that the `<img>` tag is different from the other tags you've used so far: 
-   * There is no closing `</img>` tag. Instead it is **self closing**: the opening tag has `/>` at the end. This is because there is no "start" and "end" like there is when you are putting text on the page. 
-   * The tag contains three extra pieces of information inside it called **attributes**. The `src` attribute tells the browser what file to use for the picture. The `alt` attribute is a short description that the browser will show if it cannot display the picture. 
-4. What do you think the `width` attribute does? \(Hint: **px** is short for **pixels**, the teeny-tiny dots that make up your screen\) Try experimenting with different numbers! Don't delete the letters `px`. 
-5. To add a picture of your own to the website, click on the image icon again, and click "Add Image". Click "Upload" and then select "Click To Select Files". Select the file on your computer that you want to upload and click "Open". Click "Done" when you are finished uploading files, and then click Save to save your work.
+ Note que la balise `<img>` est différente des autres balises que tu as utilisé jusqu'à maintenant :     
+   * Il n'y a pas de balise fermante `</img>`. A la place, elle est **auto-fermante**: la balise ouvrante se termine avec `/>`. C'est parce qu'il n'y a pas de début ni de fin à l'opposé du texte que tu mets dans
+ ta page web.
+   * La balise contient trois informations supplémentaires à l'interieur, appelés **attributs**. L'attribut `src` (abbréviation de "source") indique au navigateur quel fichier utiliser pour cette image. L'attrib
+ut `alt` est une courte description que le navigateur montrera s'il ne peut pas afficher l'image.
+4. D'après toi, à quoi sert l'attribut `width`? Essaie de changer la valeur. N'enlève pas les caractères **px**, il s'agit d'une unité, comme les centimètres, mais pour les écrans. 
+5. Pour ajouter une image à ton site web, click l'icone image une nouvelle fois puis click sur "Add Image"("Ajouter une image"). Click "Upload"("Envoyer") puis choisis "Click to Select Files" ("Click pour selectionner des fichiers"). Choisis le fichier à partir de ton ordinateur que tu souhaites utiliser et click "Open". Click "Done" lorsque tu as fini d'envoyer des fichiers, puis click "Save" pour sauvegarder ton travail.  
 
-  **Note:** Check the name of your file before uploading it and **rename** it first if you need to. It's a good idea to have filenames that don't contain any spaces. Plus if you've downloaded a picture from the internet, it may be called something like "177823k-iewnf8832n2-3dkewnfwe512.png" which is not very easy to type!
+  **Note:** Verifie le nom de ton fichier avant de l'envoyer et **renomme**-le auparavant si tu en as besoin. C'est une bonne idée d'avoir un nom de fichier qui ne contient pas d'espaces. En plus, si tu l'as téléchargé sur Internet, il y a de grandes chances qu'il s'appelle quelquechose comme "177823k-iewnf8832n2-3dkewnfwe512.png", ce qui n'est pas vraiment facile à taper! 
  ![](/assets/UploadFilesWider.png)
-6. Once you have uploaded a picture you can add it to your website using the `<img>` tag as before. Change the value of the `src` attribute so that it exactly matches the name of the file with your picture. Change the value of the `alt` attribute to a short description of the picture. _Important:_ Attribute values like the filename and the alt text must be inside quotation marks!
-
-
-
+6. Une fois que tu as envoyé une image, tu peux l'ajouter à ton site en utilisant la balise `<img>` comme avant. Change la valeur de l'attribut `src` de manière à ce qu'il corresponde exactement au nom du fichie
+r de ton image. Change la valeur de l'attribut `alt` pour qu'il ait une description qui corresponde à l'image. _Important:_ Les valeurs des attributs comme le nom de fichier et la description doivent être entre 
+les guillemets!
