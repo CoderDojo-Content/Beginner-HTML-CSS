@@ -1,12 +1,12 @@
-1. Bonus: add a video! YouTube provides an easy way to **embed** (put) videos from it onto your website. Find a video on YouTube that you want to show on your website. 
-2. Look for the "Share" button and click it. Select the option "Embed".
-3. You will see a text box with all the text selected \(if you accidentally unselect the text, you can select it all again by clicking on it and pressing the **Ctrl** \(or **cmd**\) and **A** keys together on your keyboard, just like before\). Press the **Ctrl** \(or **cmd**\) and **C** keys together on your keyboard to **copy** the text.![](assets/EmbedYouTube.png)
-4. Then go to your code, and click in the place where you want to put the video, for example after a heading or paragraph. Paste the code by pressing **Ctrl** \(or **cmd**\) and **V** on your keyboard at the same time, as usual. Don't worry about understanding all the code you just pasted! ![](assets/EmbedYouTube2.png)
- * **Note:** Depending on your browser's settings the video might be blocked. Ask a mentor to help you adjust the settings to enable content from external sites (sometimes called "unsafe content") to be shown.
-5. Click Run to see the video appear on your web page.
-6. The same technique works for Google maps as well. Give it a go! Go to [dojo.soy/google-maps](http://dojo.soy/google-maps) and search for a place you want to show on your website. Click on the result, then find the Share button, click "Embed map" to get the code and add it to your website as above. ![](assets/EmbedGoogleMap.png)
- * **Note:** It's a good idea _not_ to put personal information like your home address on a website!
-7. If you look carefully you should be able to find `width` and `height` attributes in the pasted code. You can change the values to make the map appear bigger or smaller.![](assets/EmbeddedGoogleMapCode.png)
-
-
+1. Bonus: ajoute une video! Youtube offre une façon facile d'**intégrer**(embed en anglais) des vidéos dans ton site web. Cherche une vidéo sur YouTube que tu voudrais ajouter à ton site.
+2. Cherche le bouton "Partager" et click-le. Selectionne l'option "Intégrer". 
+3. Tu verras un cadre contenant du texte selectionné. **Copie** ce texte en utilisant le raccourci que tu as appris (qui utilise la touche **C**). ![](assets/EmbedYouTube.png)
+4. Retourne à ton code et click là où tu souhaites mettre ta vidéo, par exemple après un en-tête ou un paragraphe.  **Colle** le code en utilisant le raccourci que tu as appris (qui utilise la touche **V**). Ne 
+t'inquiètes pas au sujet de ce que fait ce code pour l'instant! ![](assets/EmbedYouTube2.png)
+ * **Note:** Suivant la configuration de ton navigateur, les vidéos peuvent être bloquées. Demande à un mentor de t'aider pour ajuster les paramètres pour acceder au contenu de sites externes.
+5. Click Run pour voir la vidéo s'afficher sur ta page web. 
+6. La même technique fonctionne pour Google Maps. Essaie! Ouvre [dojo.soy/google-maps](http://dojo.soy/google-maps) et cherche pour un endroit que tu veux montrer sur ton site web. Click sur le résultat et cherc
+he le bouton "Partager", click sur "Intégrer la carte" pour récuperer le code et ajoute-le à ton site web comme auparavant. ![](assets/EmbedGoogleMap.png)
+ * **Note:** C'est une bonne idée de ne _pas_ inclure d'informations personnelles (comme l'adresse de ta maison) sur ton site web!
+7. Si tu regardes attentivement, tu peux remarquer que le code que tu as collé contient les attributs `width` et `height`. Tu peux changer ces valeurs pour afficher ta carte plus grande, ou plus petite. ![](assets/EmbeddedGoogleMapCode.png)
 
