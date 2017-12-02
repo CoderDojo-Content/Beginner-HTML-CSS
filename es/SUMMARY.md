@@ -5,7 +5,7 @@
 * [Adición de una hoja de estilo](adding-a-stylesheet.md)
 * [Creación de una lista](making-a-list.md)
 * [Creación de imágenes](adding-pictures.md)
-* [Adding more pages](adding-more-pages.md)
+* [Adicionar más páginas](adding-more-pages.md)
 * [Creating links](creating-links.md)
 * [Navigating your website](making-a-menu.md)
 * [Making a menu bar](making-a-menu-bar.md)

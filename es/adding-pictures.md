@@ -1,4 +1,4 @@
-1. Haz clic en el ícono de la imagen al lado del signo **+**. Aquí es donde puedes ver las imágenes que se pueden usar en tu sitio web. Por ahora puedes usar la imagen incluida con el proyecto. 
+1. Haz clic en el icono de la imagen al lado del signo **+**. Aquí es donde puedes ver las imágenes que se pueden usar en tu sitio web. Por ahora puedes usar la imagen incluida con el proyecto. 
 2. Ve al fichero index.html en el panel de código. Detrás del tag`</ul>`, escribe lo siguiente: `<img src="tito.png" alt="Tito the dog" width="100px" />`![](/assets/ImageTito2.png)
 3. Ten en cuenta que el tag `<img>`es diferente de los otros tags que has usado hasta ahora: 
    * No existe  el tag de cierre`</img>`. En cambio es de **cierre automático**: el tag de apertura tiene `/>` al final. Esto es porque no hay un "comienzo" y un "fin" como hay cuando tu estás poniendo un texto en la página. 
