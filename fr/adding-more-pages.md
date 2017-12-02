@@ -1,17 +1,17 @@
-1. So you've decided what pages you'd like to have in your website, now let's make them! To create a new web page, you create a new file with a name that ends in **.html**. At the top of the code panel, click on the **+** symbol next to the tabs. This will create a new file. Give it a name. Remember, it must end in **.html** \(including the dot!\) so that the browser knows it's a web page.
-   * If you want to change the name of a file, click on the cog icon to the right of the filename, and click the pencil. Type in the new name and press Enter. You can also delete a file by clicking the bin icon instead of the pencil.![](/assets/EditFilename.png)
-2. You might be wondering why you can't change the name of the index.html file. "index.html" is a special name used for the **homepage** of a website. That's the first page you land on when you visit a website. When you go to a website's homepage, the browser looks for the file called "index.html" and displays it on your screen.
-3. Go the the file blank\_page.html in the code panel \(by clicking on the tab with that name\). Select all of the text in the file by doing the following: Click anywhere inside the code panel, then press and hold the **Ctrl** key \(or if you are using a Mac, the **cmd** key\) and while holding it, press the **A** key at the same time. Notice how all the text becomes highlighted.![](/assets/SelectAll.png)
-4. Now, with the text selected, press and hold the **Ctrl** \(or **cmd**\) key again and then while holding it press the **C** key. This **copies** everything that was selected.
-5. Go to your new file and click inside the code panel \(which is blank at the moment\). Press and hold the **Ctrl** \(or **cmd**\) key and then while holding it, press the **V** key. This **pastes** everything that was copied into your new page.
- * You can use these keyboard shortcuts in most programs to **copy** and **paste** stuff, including text and files!
-6. Change the text in between the `<title> </title>` tags so your new page has a descriptive title.
-7. In between the `<main> </main>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
-8. Repeat the steps above for each new page that you want to add. 
- * Remember, when there are too many tabs to be able to see them all, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
+1. Maintenant que tu as decidé quelles pages tu voudrais avoir dans ton site web, il est temps de s'en occuper! Pour créer une nouvelle page web, créé un fichier avec un nom se terminant en **.html**. En haut du panneau de code, clcik sur le caractère **+** à coté des onglets. Cela créera un nouveau fichier. Donne-lui un nom. Souviens-toi qu'il doit finir en **.html** \(avec le point!\) afin que le navigateur puisse le reconnaitre en tant que page web.
+   * Si tu veux changer le nom d'un fichier, click sur l'icone d'engrenage à droite du nom du fichier, et click sur le stylo. Tape le nouveau nom et presse la touche Entrer. Tu peux aussi supprimer un fichier en cliquant sur l'icone de poubelle à la place du stylo.![](/assets/EditFilename.png)
+2. Tu dois te demander pourquoi tu ne peux pas changer le nom du fichier index.html. "index.html" est un nom spécial utilisé pour les **pages d'acceuil** des sites web. C'est la première page qui est chargée lor
+sque tu visites un site web. Lorsque tu visites la page d'accueil d'un site web, le navigateur cherche le fichier appelé "index.html" et l'affiche sur ton écran.
+3. Ouvre le fichier blank\_page.html dans le panneau de code \(en cliquant sur l'onglet qui a ce nom\). Selectionne tout le texte dans ce fichier en executant les étapes suivantes: Click n'importe où dans le pan
+neau de code, puis presse la touche **Ctrl** et maintiens-la appuyée \(ou si tu utilises un mac, la touche **cmd**\) en pendant que tu la maintiens appuyée, appuye sur la touche **A** en même temps. tu peux voir que tout le texte est désormais surligné.![](/assets/SelectAll.png)
+4. Maintenant, avec le texte selectionné, appuie et maintiens appuyé la touche **Ctrl** \( ou **cmd**\) et tout en maintenant cette touche appuyée, presse la touche **C**. Cela va **copier** tout le texte qui es
+t selectionné.
+5. Ouvre ton nouveau fichier et click dans le panneau de code \(qui est vide pour le moment\). Appuie et maintiens la touche **Ctrl** \(ou **cmd**\) et en la maintenant appuyée, presse la touche **V**. Cela va **coller** tout ce qui a été copié. 
+ * Tu peux utiliser ces raccourcis dans la plupart des logiciels afin de **copier** et **coller** des choses, comme du texte ou des images!
+6. Change le texte entre les balises `<title> </title>` afin que ta page ait un titre descriptif. 
+7. Entre les balises `<main> </main>` du nouveau fichier, utilise les balises que tu as appris pour ajouter du contenu à ta page, comme des paragraphes, des en-têtes, des images ou des listes!
+8. Répète toutes ces étapes pour chacune des nouvelles pages que tu souhaites créer.  
+ * N'oublie pas, si tu as trop d'onglets pour toutes les voir, tu peux utiliser les icones **<** et **>** pour naviguer entre les onglets.
 
   ![](assets/egMorePagesAttractionsPage.png)
-10. On the next card you're going to learn how to make **links** so that you have a way to get to the new pages.
-
-
-
+10. Sur la prochaine card, tu apprendras comment faire des **liens** afin que tu puisses acceder à ces nouvelles pages.   
