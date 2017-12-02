@@ -5,10 +5,10 @@
 4. Ahora, con el texto seleccionado, presiona y sostiene la tecla **Ctrl** \(o **cmd**\) de nuevo y luego mientras la estás sosteniendo presiona la tecla **C**. Esto **copia** todo lo que fue seleccionado.
 5. Ve a tu nuevo fichero y haz clic dentro del panel de código \(el cual está en blanco en este momento\). Presiona y sostiene la tecla **Ctrl** \(o **cmd**\)  y luego mientras la estás sosteniendo, presiona la tecla **V** . Esto **pega** todo lo que fue copiado en tu nueva página.
    * Puedes usar estos  keyboard shortcuts en la mayoría de los programas para **copiar** y **pegar** cosas, incluyendo texto y ficheros!
-6. Cambia el texto entre los tags `<title> </title> `de manera que tu nueva página tenga un título descriptivo.
+6. Cambia el texto entre los tags `<title> </title>`de manera que tu nueva página tenga un título descriptivo.
 7. Entre los tags `<main> </main>` en el nuevo fichero, usa los tags que has aprendido para añadir cosas a tu página, como párrafos, encabezados, imágenes y listas!
 8. Repite los pasos anteriores para cada página nueva que desees agregar.
-9. Cuando hay demasiadas pestañas para poder verlas todas, puedes usar los iconos **&lt;** y**&gt;** in the top left corner of the tabs to scroll between them.
+9. Cuando hay demasiadas pestañas para poder verlas todas, puedes usar los iconos **&lt;** y**&gt;** en la esquina superior izquierda de las pestañas para desplazarse entre ellas.
 
 
 
