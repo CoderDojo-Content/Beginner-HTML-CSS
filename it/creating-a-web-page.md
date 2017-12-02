@@ -1,5 +1,5 @@
 1. Nel pannello di sinistra, il **pannello del codice**, clicca sulla linguetta dove è scritto "index.html".
-2. Trova la linea dove è scritto "Welcome to Ireland!" e modificala in modo che contenga il nome della tua nazione o città. Per esempio scrivi "Benvenuti in Italia"; fai attenzione a non cancellare i caratteri `<p>` all'inizio della linea e i caratteri `</p>` alla fine. Se è selezionata la modalità "Autorun", il pannello di destra si aggiornerà automaticamente, altrimenti clicca sul pulsante "Click To Run". Il pannello di destra \(la pagina web\) si aggiornerà. ![](assets/egFirstHtmlCodeRun.png)
+2. Trova la linea dove è scritto "Welcome to Ireland!" e modificala in modo che contenga il nome della tua nazione o città. Per esempio scrivi "Benvenuto in Italia!"; fai attenzione a non cancellare i caratteri `<p>` all'inizio della linea e i caratteri `</p>` alla fine. Se è selezionata la modalità "Autorun", il pannello di destra si aggiornerà automaticamente, altrimenti clicca sul pulsante "Click To Run". Il pannello di destra \(la pagina web\) si aggiornerà. ![](assets/egFirstHtmlCodeRun.png)
 3. Adesso, nella stessa linea, cambia i caratteri `<p>` e `</p>` in `<h1>` e `</h1>`. Cosa succede?
    ```html
     <h1>Benvenuto in Italia!</h1>
