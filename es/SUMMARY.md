@@ -4,7 +4,7 @@
 * [Creación de una página web](creating-a-web-page.md)
 * [Adición de una hoja de estilo](adding-a-stylesheet.md)
 * [Creación de una lista](making-a-list.md)
-* [Adding pictures](adding-pictures.md)
+* [Creación de imágenes](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
 * [Creating links](creating-links.md)
 * [Navigating your website](making-a-menu.md)
