@@ -6,7 +6,7 @@
 * [Zoznamy](making-a-list.md)
 * [Pridávanie obrázkov](adding-pictures.md)
 * [Pridávanie ďalších stránok](adding-more-pages.md)
-* [Creating links](creating-links.md)
+* [Vytváranie odkazov](creating-links.md)
 * [Navigating your website](making-a-menu.md)
 * [Making a menu bar](making-a-menu-bar.md)
 * [Styling the menu bar](styling-the-menu-bar.md)
