@@ -1,0 +1,17 @@
+{
+    "direction": "ltr",
+    "language": "sk",
+    "pdf": {
+        "margin": {
+            "bottom": 35,
+            "left": 0,
+            "right": 0,
+            "top": 100
+        },
+        "paperSize": "a4"
+    },
+    "title": "Beginner HTML",
+    "variables": {
+        "seriesTitle": "Beginner HTML"
+    }
+}
