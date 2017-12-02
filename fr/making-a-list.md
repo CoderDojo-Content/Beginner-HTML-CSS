@@ -1,31 +1,33 @@
-1. When writing a list, wouldn't it be nice if the text looked more like a proper list? Well, there are html tags that do just that! Go back to the tab named index.html and change the paragraph code so that it looks like this: 
+1. Lorsque l'on écrit une liste, est-ce que ça ne serait pas mieux si elle ressemblait plus à une vraie liste? Et bien, sache qu'il existe une balise html qui fait exactement ça! Retourne dans l'onglet appelé in
+dex.html et change le code de ton paragraphe afin qu'il ressemble à cela : 
    ```html
     <p>
-       My website is about Ireland. 
-       It is going to have the following pages:
+       Mon site web est au sujet de la France.
+       Il aura les pages suivante:
     </p>
     <ul>
        <li>Attractions</li>
-       <li>Music</li>
-       <li>Food</li>
+       <li>Musique</li>
+       <li>Cuisine</li>
     </ul>
    ```
-2. Click Run. See how the text got put into a nice list? ![](/assets/egUnorderedList.png)
-3. The `<ul> </ul>` tags go around the whole list, and they turn it into the nice looking list you now have. "ul" stands for **unordered list**. This means a list with no numbers. Each thing in the list must be in between `<li> </li>` tags. "li" stands for **list item**. 
- * Change the text in the list items to some pages that you would like to have in your website. Your website can be about anything you want, it doesn't have to be about your home country!
-4. How about if you wanted a numbered list? It's almost the same, but instead of `ul`, you use `ol`, which stands for **ordered list**. Add the following code just above the line with the closing `</main>` tag:
+2. Click Run. As-tu vu la façon dont le texte s'organise en tant que liste? 
+![](/assets/egUnorderedList.png)
+3. La base `<ul> </ul>` se met autour de toute la liste, et la transforme en cette belle liste que tu vois. "ul" représente une **liste non-ordonnée** ("Unordered-List" en anglais). Cela décrit une liste sans nu
+méro. Chaque élement de la liste doit être entre des balises `<li> </li>`. "li" représente un **élement de liste** (abbréviation de "List Item" en anglais).
+ * Change le texte dans les élements de la liste pour le contenu que tu voudrais avoir sur ton site web. Ton site web peut parler de n'importe quoi, il n'est pas nécessaire qu'il soit au sujet de la France!
+4. Et si on veut une liste numérotée ? C'est presque la même chose, mais au lieu d'utilise `ul`, utilise `ol` (Ordered List en anglais). Ajoute le code suivant juste au dessus de la ligne contenant la balise fer
+mante `</main>`:
    ```html
    <p>
-      These are the things I have learned to use in my website so far:
+      Ceci est la liste des élements que j'ai appris!
    </p>
    <ol>
-      <li>Headings</li>
-      <li>Paragraphs</li>
-      <li>A stylesheet</li>
-      <li>Lists!</li>
+      <li>En-têtes</li>
+      <li>Paragraphes</li>
+      <li>Une feuille de style</li>
+      <li>Listes!</li>
    </ol>
    ```
-5. Click Run. Here's what it should look like now ![](/assets/egOrderedList.png)
-
-
+5. Click Run. Ca devrait ressembler à ça désormais! ![](/assets/egOrderedList.png)
 
