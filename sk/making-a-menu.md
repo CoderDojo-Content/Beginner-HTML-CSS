@@ -2,11 +2,13 @@
 
 2. Pred tag `<ul>` vlož nový riadok a napíš doň tento tag: `<nav>`. Trinket ti automaticky doplní zatvárací tag `</nav>`. Zatvárací tag, teraz nepotrebujeme, možeš ho zmazať.
    * "nav" označuje **navigáciu**. Sekcia `nav` pozostáva s elementov pomocou ktorých sa dá pohybovať medzi podstránkami webovej stránky.
+   
+4. Teraz označ všetok kód tvojej sekcie `nav` od otváracieho tagu `<nav>` až po zatvárací tag `</nav>`. Uisti sa, že máš označené aj všetky zátvorky `<` a`>`. ![](assets/SelectTextYayWhoops.png)
 
+5. Namiesto kopírovania budeš teraz **vystrihovať**. Použi na to klávesovú skratku **Ctrl+X**. Tvoj kód potom zmizne, ale nie nadlho!
 
-4. Now, select your entire `nav` section and list by clicking just before the opening `<nav>` tag and dragging the mouse all the way until just after the closing `</nav>` tag, so that all of the text including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](assets/SelectTextYayWhoops.png)
-5. You are going to **cut** this time instead of **copy**. Press and hold the **Ctrl** \(or **cmd**\) key and while holding it press the **X** key. The code will disappear but don't panic!
-6. At the top of the file, click in the space between the `<header> </header>` tags. Make sure you see the cursor flashing there. Now **paste** in the code by pressing **Ctrl** \(or **cmd**\) and **V** together as usual. Click Run to see your changes! The code should look something like this:
+6. Vo vrchnej časti tvojho súboru, klikni na prázdne miesto medzi tagmi `<header> </header>`. Teraz **prilep** kód ktorý sme pred chvíľou vystrihli pomocou **Ctrl+V**. Klikni na Run a skontroluj zmeny. Tvoj kód by mal vyzerať približne takto:
+
    ```html
    <header>
       <nav>
@@ -19,10 +21,8 @@
       </nav>
    </header>
    ```
+   * Ak sa pomýliš, môžeš svoj posledný úkon **vrátiť späť** pomocou kombinácie **Ctrl+Z**. Pomocou tejto skratky sa dá vrátiť nazad aj niekoľkokrát.
+   
+7. Na to, aby mala každá podstránka rovnakú navigáciu, je treba kód navigácie prekopírovať do každej podstránky. Označ si celú sekciu `nav` tak ako predtým, stlač **Ctrl+C** na kopírovanie. Potom postupne vlož skopírovaný kód medzi tagy `<header> </header>` v každej podstránke (pomocou **Ctrl+V**).
 
-   * If you make a mistake, you can **undo** it by pressing **Ctrl** \(or **cmd**\) and **Z** together. You can usually press it a few times to undo the last couple of changes. This is another handy shortcut that you can use in many programs!
-7. To make the navigation menu appear at the top of every page on your website, you put the same code into each new file that you created. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and **paste** the code exactly like you did in Step 6.
-9. Now when you click Run, you will be able to click the links no matter which page you are on. Remember to  click Save when you're done!
-
-
-
+8. Keď teraz klikneš na Run, uvidíš rovnaké navigačné odkazy na každej podstránke. Nezabudni si svoju prácu uložiť pomocou Save.
