@@ -1,5 +1,6 @@
-1. With CSS, the possibilities for making your menu bar look great are endless. Open the styles.css file again \(the place where the magic happens!\) Each time you make a change, click Run to see what the website looks like.
-2. Find your `nav ul` selector and add more rules so that it looks like this:
+1. Grâce au CSS, les possibilitées pour rendre ta barre de menu superbe sont infini. Ouvre une nouvelle fois le fichier styles.css \(Là où la magie se passe! \). Chaque fois que tu fais un changement, click Run 
+pour voir à quoi cela ressemble. 
+2. Trouve ton selecteur `nav ul` et ajoute plus de règles afin qu'il ressemble à cela:  
    ```css
       nav ul {
         background-color: tomato;
@@ -9,21 +10,24 @@
         padding: 10px;
       }
    ```
-The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. ![](assets/egMenuBarMoreStyle.png)
-3. To get rid of the underline on the links, add the following code on a new line after the closing curly brace `}` for the `nav ul li` rules.
- * You could put it after any `}` but it's a good idea to keep related stuff together so it's easier to find!
+La propriété `padding` ajoute de l'espace. Es-tu capable de comprendre à quoi servent les autres propriétés? Experimente en changeant les différents nombres & couleurs des valeurs de propriétés. ![](assets/egMenuBarMoreStyle.png)
+3. Pour se débarasser du soulignement des liens, ajoute le code suivant sur une nouvelle ligne après une accolade fermante `}` pour les règles `nav ul li`.
+ * Tu peux les mettre après n'importe quel `}` mais c'est une bonne idée que de garder grouper tout ce qui sert à la même chose (par exemple le menu) afin que ça soit plus simple à retrouver.
    ```css
       nav ul li a {
          text-decoration: none;
       }
    ```
-The above rule applies to _links_ \(`<a>` tags\) inside _list items_ in an _unordered list_ inside a _navigation_ \(`nav`\) section. Wow! That's _four selectors_! ![](assets/egMenuBarNoUnderline.png)
-3. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line 
+Cette règle s'applique à tous les _liens_ \(balises `<a>`\) à l'interieur des _élements de listes_ dans les _listes non-numériques_  au sein d'une section de _navigation_ \(`nav`\). Wow! Ca fait _quatre selecteu
+rs_! ![](assets/egMenuBarNoUnderline.png)
+3. Te souviens-tu comment tu avais enlevé la balise lien de certains élements de liste, de manière à identifier plus facilement sur quel page tu étais? Pourquoi ne pas aussi changer la couleur de ces élements de
+ menu qui ne sont pas des liens? Trouve ton sélecteur `nav ul li` et ajoute la ligne                                                  
    ```css
       color: PapayaWhip;
    ```
-   inside the curly braces. Choose any colour you like! 
- * You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
-4. How about some rounded corners? Try adding the following rule to the `nav ul` rules to see what happens: `border-radius: 10px;`
- * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
-5. Here's an example of what your stylesheet and web pages should look like by now. ![](assets/MenuBarFullStyles.png)
+   à l'interieur des accolades. Choisis la couleur que tu veux ! 
+ * Tu peux aussi ajouter une propriété `color` aux règles `nav ul li a` si tu veux que les liens de tes menus soient d'une autre couleur que les autres liens dans ton site web.
+4. Pourquoi pas des coins arroundis? Essaie d'ajouter la règle suivante aux règles `nav ul` pour voir ce qu'il se passe : `border-radius: 10px;`
+ * La propriété `border-radius` est une façon vraiment facile de rendre ton site web plus cool! Pour ajouter un peu de difficulté, ajouter un nouveau jeu de règles dans ta feuille de style pour les images, utili
+sant le sélecteur `img` et utilise la règle `border-radius`.   
+5. Voilà à quoi ta feuille de style et ton site web devrait ressembler après tout cela. ![](assets/MenuBarFullStyles.png)                                                                                                                      
