@@ -16,7 +16,7 @@
 3. Tagy `<ul> </ul>` obklopujú celý zoznam. "ul" znamená **unordered list**, čiže zoznam bez poradia. To znamená zoznam bez čísel. Každá položka v zozname musí byť medzi tagmi `<li> </li>`. "li" znamená **list item**, čiže položka zoznamu.
   * Zmeň položky zoznamu na názvy stránok, ktoré by si chcel/a mať na svojej webovej stránke. Tvoja webová stránka môže byť o čomkoľvek chceš, nemusí byť o tvojej krajine!
 
-4. Ak by sme chceli zoznam s číslami, vytvára sa skoro rovnako, len namiesto `ul`, použijeme `ol`. "ol" znamená **ordered list**, alebo zoradený zoznam. Pridaj tento kód pred uzatvárací tag `</main>`:
+4. Ak by si chcel/a zoznam s číslami, vytvára sa skoro rovnako. Len namiesto `ul`, použi `ol`. "ol" znamená **ordered list**, alebo zoradený zoznam. Pridaj tento kód pred uzatvárací tag `</main>`:
    ```html
    <p>
       These are the things I have learned to use in my website so far:
