@@ -1,15 +1,15 @@
 1. Haz clic en el ícono de la imagen al lado del signo **+**. Aquí es donde puedes ver las imágenes que se pueden usar en tu sitio web. Por ahora puedes usar la imagen incluida con el proyecto. 
-2. Go to the index.html file in the code panel. After the `</ul>` tag, type the following: `<img src="tito.png" alt="Tito the dog" width="100px" />`![](/assets/ImageTito2.png)
-3. Notice that the `<img>` tag is different from the other tags you've used so far: 
-   * There is no closing `</img>` tag. Instead it is **self closing**: the opening tag has `/>` at the end. This is because there is no "start" and "end" like there is when you are putting text on the page. 
-   * The tag contains three extra pieces of information inside it called **attributes**. The `src` attribute tells the browser what file to use for the picture. The `alt` attribute is a short description that the browser will show if it cannot display the picture. 
-4. What do you think the `width` attribute does? \(Hint: **px** is short for **pixels**, the teeny-tiny dots that make up your screen\) Try experimenting with different numbers! Don't delete the letters `px`. 
-5. To add a picture of your own to the website, click on the image icon again, and click "Add Image". Click "Upload" and then select "Click To Select Files". Select the file on your computer that you want to upload and click "Open". Click "Done" when you are finished uploading files.
+2. Ve al fichero index.html en el panel de código. Detrás del tag`</ul>`, escribe lo siguiente: `<img src="tito.png" alt="Tito the dog" width="100px" />`![](/assets/ImageTito2.png)
+3. Ten en cuenta que el tag `<img>`es diferente de los otros tags que has usado hasta ahora: 
+   * No existe  el tag de cierre`</img>`. En cambio es de **cierre automático**: el tag de apertura tiene `/>` al final. Esto es porque no hay un "comienzo" y un "fin" como hay cuando tu estás poniendo un texto en la página. 
+   * El tag  dentro, contiene tres piezas adicionales de información, las llamó  **atributos**. El atributo`src` le dice al navegador que fichero usar para la imagen. El atributo `alt` es una descripción corta de lo que el navegador enseñara si no puede mostrar la imagen. 
+4. Qué crees hace el atributo `width`? \(Pista: **px** es el diminutivo de **pixels**, los diminutos puntos que componen tu pantalla\) Trata de experimentar con diferentes números! No borres las letras `px`. 
+5. Para añadir una imagen propia al sitio web, haz clic sobre el ícono de la imagen de nuevo, y haz clic en "Añadir Imagen". Click "Subir" luego selecciona "Clic en Seleccionar Ficheros".Selecciona en tu computadora el fichero que deseas subir y haz clic en "Abrir". haz clic en "Listo" cuando hayas terminado de subir los ficheros.
    ![](/assets/UploadFilesWider.png)
-6. Once you have uploaded a picture you can add it to your website using the `<img>` tag as before. Change the value of the `src` attribute so that it exactly matches the name of the file with your picture. 
-7. Change the value of the `alt` attribute to a short description of the picture. 
-   * _Important:_ Attribute values like the filename and the alt text must be inside quotation marks!
-8. Click Save to save your work and Run to see how it looks.
+6. Una vez hayas subido una imagen puedes añadirla a tu sitio web usando el tag `<img>`  como antes. Cambia el valor del atributo `src` de manera que coincida exactamente el nombre del fichero con el nombre de tu imagen. 
+7. Cambia el valor del atributo `alt` por la descripción corta de la imagen. 
+   * _Importante:_  Los valores de los atributos como el filename y el texto  alt  deben ir dentro de  comillas!
+8. Haz clic en Salvar para salvar tu trabajo y ejecuta para ver como luce.
 
 
 
