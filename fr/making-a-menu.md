@@ -1,26 +1,27 @@
-1. Many websites have a **navigation** menu to make it easy to get around the pages. Now that you've got a bunch of pages, a homepage, and links to get around, let's move the links to a navigation section at the top. ![](assets/egNavLinksAtTop.png)
-2. Just before the opening `<ul>` tag, press enter to create a new blank line, then on the new line type the following tag: `<nav>`. Trinket automatically adds in the closing tag for you, you can delete that for now.
-3. Just _after_ the _closing_ `</ul>` tag, press enter to go onto a new line, and type in the closing tag `</nav>`. 
-   * "nav" stands for **navigation**. The `nav` section is a set of tools for getting around a website.
-4. Now, select your entire `nav` section and list by clicking just before the opening `<nav>` tag and dragging the mouse all the way until just after the closing `</nav>` tag, so that all of the text including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](assets/SelectTextYayWhoops.png)
-5. You are going to **cut** this time instead of **copy**. Press and hold the **Ctrl** \(or **cmd**\) key and while holding it press the **X** key. The code will disappear but don't panic!
-6. At the top of the file, click in the space between the `<header> </header>` tags. Make sure you see the cursor flashing there. Now **paste** in the code by pressing **Ctrl** \(or **cmd**\) and **V** together as usual. Click Run to see your changes! The code should look something like this:
+1. Beaucoup de sites web ont un menu de **navigation** afin d'aider les utilisateurs à utiliser le site web. Maintenant que tu as un groupe de pages, une page d'accueil, et des liens pour naviguer, nous allong b
+ouger tous ces liens au début de la page. 
+![](assets/egNavLinksAtTop.png)
+2. Juste avant d'ouvrir la balise `<ul>`, appuie sur la touche Entrer pour créer une nouvelle ligne. Puis, sur la nouvelle ligne, tape la balise suivante : `nav`. Trinket ajoute automatiquement la balise fermante pour toi, que tu peux enlever pour l'instant.  
+3. Juste _après_ la balise _fermante_ `</ul>`, appuie sur Entrer pour aller à la ligne suivante et tape la balise fermante `</nav>`.
+   * "nav" signifie **navigation**. La section `nav` est un groupement d'outils pour naviguer au sein du site web.
+   
+4. Selectionne toute la section `nav` en cliquant juste avant la balise ouvrante `<nav>` et glisse jusqu'à la balise fermante `</nav>`, afin que tout le texte, balises ouvrantes et fermantes comprises, soient surlignées. Vérifie que tous les chevrons `<` et `>` au début et à la fin sont aussi surlignés!  ![](assets/SelectTextYayWhoops.png)
+5. Tu vas désormais **couper** au lieu de **copier**. Appuie et maintiens la touche **Ctrl** \(ou **cmd**\) puis presse la touche **X**. Le code va disparaitre, mais pas de panique!
+6. Au début de ton fichier, click dans l'espace entre les balises `<header> </header>`. Verifie que le curseur clignote au bon endroit. Puis **colle** le code en appuyant sur **Ctrl** \(ou **cmd**\) et **V** comme d'habitude. Click Run pour voir tes changements! Le code devrait ressembler à cela désormais :
    ```html
    <header>
       <nav>
          <ul>
-            <li><a href="index.html">Home</a></li>
+            <li><a href="index.html">Accueil</a></li>
             <li><a href="attractions.html">Attractions</a></li>
-            <li><a href="music.html">Music</a></li>
-            <li><a href="food.html">Food</a></li>
+            <li><a href="musique.html">Musique</a></li>
+            <li><a href="cuisine.html">Cuisine</a></li>
          </ul>
       </nav>
    </header>
    ```
 
-   * If you make a mistake, you can **undo** it by pressing **Ctrl** \(or **cmd**\) and **Z** together. You can usually press it a few times to undo the last couple of changes. This is another handy shortcut that you can use in many programs!
-7. To make the navigation menu appear at the top of every page on your website, you put the same code into each new file that you created. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and **paste** the code exactly like you did in Step 6.
-9. Now when you click Run, you will be able to click the links no matter which page you are on. Remember to  click Save when you're done!
-
-
+   * Si tu fais une erreur, tu peux revenir en arrière en appuyant sur **Ctrl** \(ou **cmd** \) et **Z**. Tu devrais pouvoir le faire suffisamment de fois pour revenir à un moment qui te plait. Il s'agit d'un autre raccourci que tu peux utiliser dans beaucoup d'autres logiciels!
+7. Pour faire apparaitre le menu en haut de chaque page, mets le même code and chaque nouveau fichier que tu as créé. Selectionne toute la section `nav` comme auparavant et appuie sur les touches **Ctrl** \(ou **cmd**\) et **C** ensemble pour **copier**.  Ensuite, dans chacun des autres fichiers, click à l'interieur de la section `<header> </header>` et **colle** le code exactement comme tu l'as fait à l'étape 6.
+9. Quand tu cliqueras sur Run, tu pourras clicker les liens quelque soit la page sur laquelle tu es. N'oublie pas de cliquer sur Save pour sauvegarder tout ce que tu as fait!
 
