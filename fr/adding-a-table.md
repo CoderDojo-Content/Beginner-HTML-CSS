@@ -1,13 +1,13 @@
-1. Sometimes it can be useful to show information in a table. For example if you want to list member information on a website for a local sports club or school. Or, in this example, songs! A table is a grid made up of **rows** and **columns**. Most tables also include titles at the top of each column, called the **header**.
-2. Go to the file page\_with\_table.html. There you will see a bunch of code in between `<table> </table>` tags. Select all of the code from the start of the `<table>` tag to the end of the closing `</table>` tag and **copy** it. Then go to one of your files where you would like to put a table and **paste** in the code.
+1. Parfois, il peut être utile d'afficher des informations dans une table. Par exemple, si tu veux lister les informations des membres d'un club ou d'une école. Ou comme dans cet exemple, des titres de musique! Une table est une grille composée de **lignes** (rows en anglais) et de **colonnes**(columns). La plupart des tables inclues aussi des titre au dessus de chaque colonne, appelées **en-têtes** (headers).
+2. Ouvre le fichier page\_with\_table.html. Là tu trouveras du code entre les balises `<table> </table>`. Selectionne tout le code depuis le début de la balise `<table>` jusqu'à la balise fermante `</table>` et **copie** tout cela. Puis ouvre l'une de tes pages où tu souhaiterais avoir une table et **colle** le code dans ta page. 
 
-3. At the moment your table is empty. Here's an example of a table filled with information:
+3. Pour le moment, ta table est vide. Voici un exemple d'une table remplie avec des informations : 
   ```html
     <table>
       <tr>
-        <th>Artist</th>
-        <th>Song</th>
-        <th>Year</th>
+        <th>Artiste</th>
+        <th>Titre</th>
+        <th>Année</th>
       </tr>
       <tr>
         <td>Thin Lizzy</td>
@@ -26,17 +26,17 @@
       </tr>
     </table>
   ```
-4. And here's what it looks like on the website: ![](assets/TableResult2.png)
-5. Let's have a look at all those tags. It's a bit like the code for a list \(remember `<ul>` and `<ol>`?\) but with more levels.
- * Each pair of `<tr> </tr>` tags is a **row**. So everything in between them will be displayed on one line.
- * The first row contains `<th> </th>` tags. These are used for the **headers**, so the column titles go in between them. There is one pair for each column you have in your table.
- * The `<td> </td>` tags stand for **table data**, and that's what goes in all the other rows. These are like the list item `<li> </li>` tags in a list: everything in between them is one item in your table row.
-6. Try filling your table with anything you like! Simply put text in between the `<td> </td>` tags and also in between the `<th> </th>` tags. You can add more tags if you need to.
+4. Et voici à quoi ça ressemble dans un site web: ![](assets/TableResult2.png)
+5. Jettons un oeil à toutes ces balises. C'est un peu comme pour une liste \(tu te souviens de `<ul>` et `<ol>` ?\) mais avec plus de niveaux de profondeur.
+ * Chaque paire de balise `<tr> </tr>` est une **ligne** (Table Row). Tout ce qui est entre ces balises est affiché sur la même ligne. 
+ * La première ligne contient les balises `<th> </th>`(Table Head). Ce sont des **en-têtes de colonne**, le texte au milieu de ces balises décrit ce qu'est cette colonne. Il y en a donc une pour chaque colonne de la table. 
+ * Les balises `<td> </td>` contient les **données de la table**(table data en anglais) et c'est ce qu'on trouve au sein des lignes de la table. Ces balises sont comme les élements de liste `<li> </li> `: tout ce qui est entre ces balises est un élement d'une ligne de la table.
+6. Essaie de remplir ta table avec quelquechose qui te plait! Mets du texte (les données) entre les balises `<td> </td>` et du texte (les en-têtes des données) entre les balises `<th> </th>`. Tu peux rajouter d'autres balises si tu as besoin.
  
-  To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
+  Pour ajouter une autre **ligne**, ajoute un duo de `<tr> </tr>` balises. Entre les deux, ajoute le même nombre de **données de table** avec les balises `<td> </td>` que tu as dans les autres lignes.
  
-  To add another **column** you add an extra **data** item with a set of `<td> </td>` tags onto every row. You also add an extra **header** item to the first row, using `<th> </th>` tags.
-7. If you look at the end of the styles.css file, you will see the CSS code that describes how the table should look. You don't have to understand all of it! But you can experiment with changing the text, border and background colours to design your own style.
+  Pour ajouter une autre **colonne**, ajoute une nouvelle balise `<td> </td>` dans chacune des lignes de ta table. Tu peux aussi ajouter une autre **en-tête de colonne** en utilisant la balise `<th> </th>`. 
+7. Si tu regardes à la fin de ton fichier styles.css, tu verras le code CSS qui décrit l'apparence des élements de table.Tu n'as pas besoin de tout comprendre! Mais tu peux experimenter en changeant le texte, les bordures et la couleur de fond pour personnaliser tes tables.
   ```css
     table, th, td {
       border: 1px solid HoneyDew;
@@ -57,4 +57,4 @@
       color: purple;
     }
   ```
-  Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to _all_ `<th>` elements _and all_ `<td>` elements. It saves typing out the same set of rules again for each selector!
+  As-tu remarqué que certains sélecteurs utilisent des **virgules**, comme par exemple, `table, th, td`? Il s'agit d'une _liste de sélecteurs_ : cela signifie que les règles s'appliquent à _tous_ les élements `<th>`, _et tous_ les `<td>` élements. Cela évite d'avoir à répéter les mêmes règles pour chaque sélecteur!
