@@ -10,15 +10,15 @@
    </ul>
    ```
 3. ¡Ahora puedes navegar a tus nuevas páginas! Haz clic en Guardar y luego en Ejecutar para ver tus enlaces y probarlos.
-4. Links to other websites look the same. Type in the code for another set of link tags on your page, leaving the **href** value blank for now. 
+4. Los enlaces a otros sitios web lucen igual. Escribe el código para otro conjunto de tags de enlace en tu página, dejando el valor **href** en blanco por el momento. 
    ```
    <p>
       <a href="">Visit the Irish Tourism website</a> to learn more about Ireland!
    </p>
    ```
 5. Go to a website that you want to link to. Click in the address bar and select all of the text. That's the whole address of the page you're on. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. ![](assets/AddressBarURL.png)
-6. Now go back to your code. Click in between the quotation marks \(make sure you see the cursor flashing there\) and **paste** in the address by pressing **Ctrl** \(or **cmd**\) and **V** together. Click Run to try out the link! ![](assets/LinkTagWithURL.png)
-7. Just like the other text, you can make links be any colour you like in the stylesheet. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want! Make it a different colour to the other text colours you have used. To see your changes, click Run.
+6. Ahora regresa a tu código. Haz clic entre las comillas \(asegúrate de ver el cursor parpadeando allí\) y pega la dirección presionando Ctrl \(o cmd\) y V juntos. Haz clic en Ejecutar para probar el enlace!![](assets/LinkTagWithURL.png)
+7. Al igual que el otro texto, puedes hacer que los enlaces sean de cualquier color que desees en la hoja de estilo. Ve al fichero styles.css y añade el siguiente conjunto de reglas. Observa que el selector para los enlaces es `a`. Escoge cualquier que desees! Haz que sea un color diferente a los otros colores de texto que has usado. Para ver sus cambios, haz clic en Ejecutar.
    ```
    a {
       color: Brown;
