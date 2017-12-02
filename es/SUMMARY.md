@@ -3,7 +3,7 @@
 * [Empezando](README.md)
 * [Creación de una página web](creating-a-web-page.md)
 * [Adición de una hoja de estilo](adding-a-stylesheet.md)
-* [Making a list](making-a-list.md)
+* [Creación de una lista](making-a-list.md)
 * [Adding pictures](adding-pictures.md)
 * [Adding more pages](adding-more-pages.md)
 * [Creating links](creating-links.md)
