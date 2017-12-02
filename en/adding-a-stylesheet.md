@@ -1,8 +1,8 @@
-1. In your Trinket, look at the tabs in the code panel and go to the file **styles.css** by clicking on the tab with that name. If you can't see **styles.css**, use the **<** and **>** icons to scroll through the tabs until you find it.
+1. Su Trinket, cerca tra le linguette del pannello del codice il file **styles.css** ; clicca sulla linguetta per vedere e modificare il contenuto. Se non riesci a vedere la linguetta di **styles.css**, clicca sulle icone **&lt;** e **&gt;** per muoversi tra le linguette finché non la trovi.
 
-   * **CSS** is the code that describes what a website looks like.
+   * **CSS** è il codice che contiene le regole che determinano come apparirà il sito web.
 
-2. The file contains the following text:
+2. Il contenuto iniziale del file è:
 
    ```css
    body {
@@ -10,12 +10,13 @@
    }
    ```
 
-3. The curly braces `{ }` and the text in between them is a set of **CSS rules**. The word `body` means that the rules are for all the `<body>` elements on your website. We call the bit outside the curly braces a **selector**. So in this case, it is the **selector** for the **body** elements.
-4. Change the colour to `LightSkyBlue`, and click Run \(Remember, this is the button that says "Click To Run"\). Your website should now have a blue background! ![](assets/egFirstCSSbluebg.png)
-5. What's going on? If you look at the top of the index.html file, you will see the following line:
-   `<link type="text/css" rel="stylesheet" href="styles.css"/>` This tells the browser to look for a special file named styles.css. This file is a **stylesheet**. You can recognise a stylesheet file by the **.css** in its name. The stylesheet contains rules for what each element on your page should look like.
-   * Each rule is made up of a **property** with a `:` symbol \(**colon**\) after it and then a **value** for the property, followed by a `;` symbol \(**semi-colon**\).
-6. Lets add rules to change the text. Add two new lines inside the curly braces like this:
+3. Le parentesi graffe `{ }` e il testo racchiuso al loro interno, sono un insieme di **regole CSS**. La parola `body` indica che le regole si applicano a tutti gli elementi all'interno della sezione  `<body>` del sito. Il testo fuori dalle parentesi graffe viene detto **selettore**. In questo caso è il **selettore** per gli elementi del **body** della pagina.
+
+4. Prova a cambiare il colore in `LightSkyBlue`, e osserva come cambia la pagina. Il tuo sito dovrebbe ora apparire su una pagina di colore blu chiaro \(se la pagina non cambia premere "Click to Run"\).![](assets/egFirstCSSbluebg.png)
+5. Cosa sta succedendo? Torniamo al file index.html: se osserviamo la parte iniziale del file vedremo la seguente riga:
+   `<link type="text/css" rel="stylesheet" href="styles.css"/>` Questa riga dice al browser di cercare un "**foglio di stile**" \(stylesheet\) di nome styles.css. I fogli di stile si riconoscono perché il loro nome termina in **.css**. Il foglio di stile contiene delle regole che descrivono l'aspetto che devono avere i vari elementi che compongono la pagina web.
+   * Ogni regola è costituita da una parte sinistra \(la **proprietà**\) con il simbolo `:` \(**duepunti**\) a seguire e da una parte destra con il **valore** per la proprietà e il carattere `;` symbol \(**punto e virgola**\) a chiudere.
+6. Prova ad aggiungere delle regole per modificare il modo in cui viene visualizzato il testo. Aggiungiamo due nuove linee all'interno delle parentesi graffe:
    ```css
    body {
       background-color: LightSkyBlue;
@@ -23,19 +24,19 @@
       color: purple;
    }
    ```
-7. Click Run to see how it changed the web page. 
-   * The `color` property is always for text.
-8. You can also add rules to make the headings look different to the paragraphs! For this, you use the `h1` selector. Add the following code to the styles.css file, below the closing curly brace.
+7. Osserva come cambia la pagina. 
+   * La proprietà `color` si riferisce sempre al testo, che in questo caso viene visualizzato di colore porpora.
+8. Proviamo adesso ad aggiungere una regola specifica per i titoli, in modo che appaiano differenti dal paragrafi. Per farlo usiamo il selettore `h1`. Aggiungiamo quindi il seguente codice al file style.css:
    ```css
    h1 {
       color: orange;
       font-family: "Times New Roman", serif;
    }
    ```
-9. Click Run. Your heading should be orange now, with the paragraph purple as before. ![](/assets/egCssColorsFonts.png)
-10. Notice how the letters also look different as well as being a different colour? This is because you changed the **font family**. You can see some more fonts at [dojo.soy/font-families](http://dojo.soy/web-font-families)
-11. Try adding a set of rules for the `<h2>` headings, using the `h2` selector.   
-12. Why not experiment with different colour combinations for the text and background? There are lots of colours available to use. For a full list of them, go to [dojo.soy/web-color-names](http://dojo.soy/web-color-names)
+9. I titoli a questo punto dovrebbero apparire di colore arancione, mentre i paragrafi non cambieranno. ![](/assets/egCssColorsFonts.png)
+10. Anche i caratteri appariranno diversi. Questo perché con la seconda regola abbiamo specificato un font specifico per i titoli. Puoi vedere altri font sl seguente link: [dojo.soy/font-families](http://dojo.soy/web-font-families)
+11. Prova ad agguingere un blocco di regole per i titoli di tipo `<h2>`, usando il selettore `h2`.   
+12. Prova a sperimentare combinazioni diverse per i colori del testo e dello sfondo. Ci sono moltissimi colori disponibili, per una lista completa vedere: [dojo.soy/web-color-names](http://dojo.soy/web-color-names)
 
 
 
