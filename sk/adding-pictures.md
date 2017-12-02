@@ -13,7 +13,7 @@ Všimni si, že tag `<img>` je odlišný od iných tagov, ktoré si zatiaľ pou�
 
 5. Ak chceš pridať na svoju stránku obrázok, klikni znova na ikonu obrázku a klikni na "Add Image". Klikni na "Upload" a potom označ "Click To Select Files". Vyber si obrázok v tvojom počítači, ktorý chceš nahrať a klikni na "Open". Nakoniec klikni na "Done" a potom na "Save" na uloženie tvojej práce.
 
-**Poznámka:** Skontroluj si meno tvojho obrázka predtým, než ho nahráš a **premenuj** ho na niečo, čo sa dá ľahko prepísať. Meno obrázka by nemalo obsahovať žiadne písmená s mäkčeňmi, dĺžňami a podobnými znakmi.
+**Poznámka:** Skontroluj si meno svojho obrázka predtým, než ho nahráš a **premenuj** ho na niečo, čo sa dá ľahko prepísať. Meno obrázka by nemalo obsahovať žiadne písmená s mäkčeňmi, dĺžňami a podobnými znakmi.
 
   ![](assets/UploadFilesWider.png)
  
