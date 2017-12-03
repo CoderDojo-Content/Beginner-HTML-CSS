@@ -10,7 +10,7 @@
 * [Navegar por tu sitio web](making-a-menu.md)
 * [Hacer una barra de menú ](making-a-menu-bar.md)
 * [Diseñar la barra de menú](styling-the-menu-bar.md)
-* [Adding a map or video](adding-a-map-or-video.md)
-* [Adding a table](adding-a-table.md)
-* [Download your project!](downloading-your-code.md)
+* [Adicionar un mapa o video](adding-a-map-or-video.md)
+* [Adicionar una tabla](adding-a-table.md)
+* [Bajar tu proyecto!](downloading-your-code.md)
 
