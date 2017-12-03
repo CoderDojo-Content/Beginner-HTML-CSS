@@ -10,9 +10,9 @@
     </ul>
    ```
 2. Haz clic en Ejecutar. Ves como el texto se puso en una mejor lista? ![](/assets/UnorderedList.png)
-3. Los tags`<ul> </ul>` van por fuera de la lista completa, y la convierten en la bonita lista que ahora tienes. "ul" se coloca para **lista desordenada**. Esto significa una lista sin números. Cada cosa en la lista debe ir entre los tags`<li> </li>` . "li" se usa para el item de la lista. 
-   * Cambia el texto en la lista de items para algunas páginas que te gustaría tener en tu sitio web. Tu sitio web puede ser acerca de cualquier cosa que desees, no tiene que ser sobre tu país de origen!
-4. ¿Qué tal si quisieras una lista numerada? Es casi lo mismo, pero en vez de `ul`, usas `ol`, que se usa para **listas ordenadas**. Añade el siguiente código después del último tag`</p>` tag en el fichero:
+3. Los tags`<ul> </ul>` van por fuera de la lista completa, y la convierten en la bonita lista que ahora tienes. "ul" se coloca para **lista desordenada**. Esto significa una lista sin números. Cada cosa en la lista debe ir entre los tags`<li> </li>` . "li" se usa para el elemento de la lista. 
+   * Cambia el texto en la lista de elementos por algunas páginas que te gustaría tener en tu sitio web. Tu sitio web puede ser acerca de cualquier cosa que desees, no tiene que ser sobre tu país de origen!
+4. ¿Qué tal si quisieras una lista numerada? Es casi lo mismo, pero en vez de `ul`, usas `ol`, que se usa para **listas ordenadas**. Añade el siguiente código después del último tag`</p>`  en el fichero:
    ```
    <p>
       These are the things I have learned to use in my website so far:
@@ -24,7 +24,7 @@
       <li>Lists!</li>
    </ol>
    ```
-5. Ejecuta Run. Aquí tienes como debería lucir ahora 
+5. Haz clic en Ejecutar. Aquí tienes como debería lucir ahora 
 
 ---
 
