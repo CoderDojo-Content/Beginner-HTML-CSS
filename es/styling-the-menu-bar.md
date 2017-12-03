@@ -1,6 +1,6 @@
-1. With CSS, the possibilities for making your menu bar look great are endless. Open the styles.css file again \(the place where the magic happens!\) Each time you make a change, click Run to see what the website looks like.
-2. Find your `nav ul` selector and add more rules so that it looks like this:
-```
+1. Con CSS, las posibilidades para que tu barra de menú se vea genial son infinitas. Abre el fichero styles.css de nuevo \(el lugar donde ocurre la magia!\) Cada vez que realices un cambio, haz clic en Ejecutar para ver cómo se ve el sitio web..
+2. Encuentra tu selector `nav ul` y adiciona más reglas de manera que se vea como esto:
+   ```
    nav ul {
      background-color: tomato;
      border-style: solid;
@@ -8,22 +8,28 @@
      border-width: 2px;
      padding: 10px;
    }
-```
-The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. 
-3. To get rid of the underline on the links, add the following code on a new line after the closing curly brace `}` for the `nav ul li` rules.
- * You could put it after any `}` but it's a good idea to keep related stuff together so it's easier to find!
-``` 
-   nav ul li a {
+   ```
+
+   La propiedad `padding` adiciona espacio. ¿Puedes averiguar qué hace cada una de las otras propiedades? Intenta experimentando con diferentes colores y números de pixeles. 
+3. Para deshacerse del subrayado en los enlaces, agrega el siguiente código en una nueva línea después de la llave de cierre `}` para las reglas `nav ul li` .
+   * Pudieras ponerlo después de cualquier `}`pero es una buena idea mantener las cosas relacionadas juntas para que sea más fácil de encontrar!
+     ```
+     nav ul li a {
       text-decoration: none;
-   }
-```
-The above rule applies to _links_ \(`<a>` tags\) inside _list items_ in an _unordered list_ inside a _navigation_ \(`nav`\) section. Wow! That's _four selectors_!
-3. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line 
+     }
+     ```
+
+     La regla anterior aplica a _enlaces_ \(tags `<a>` \) dentro  de los  _elementos de la lista_ en una _lista desordenada,_ dentro de una sección de _navigación_ \(`nav`\) . Wow! ¡Son _cuatro selectores_!
+4. ¿Recuerdas cómo eliminaste los tags de enlace en algunos elementos de la lista para poder ver fácilmente en qué página se hizo clic?  Por qué no cambiar también el color del texto de los elementos de la lista de navegación que no son enlaces! Encuentre tu selector `nav ul li` , y adiciona la línea
    ```
       color: PapayaWhip;
-   ``` 
-   inside the curly braces. Choose any colour you like! 
- * You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
-4. How about some rounded corners? Try adding the following rule to the `nav ul` rules to see what happens: `border-radius: 10px;`
- * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
-5. Here's an example of what your stylesheet and web pages should look like by now. ![](assets/MenuBarFullStyles.png)
+   ```
+
+   dentro de las llaves. Escoge cualquier color que te guste! 
+   * También puedes adicionar la propiedad `color` a las reglas `nav ul li a` si deseas que los enlaces del menú tengan un color diferente al de otros enlaces en su sitio web.
+5. ¿Qué tal unas esquinas redondeadas? Intenta adicionando la siguiente regla a las reglas `nav ul` para ver que sucede: `border-radius: 10px;`
+   * La propiedad `border-radius`  es una forma realmente fácil de hacer que todo luzca más genial! Para un desafío adicional, crea un nuevo conjunto de reglas en tu hoja de estilo para imágenes, usando el selector  `img`, y adiciona una regla `border-radius` allí.  
+6. Aquí tienes un ejemplo de cómo deberían verse ahora tu hoja de estilo y tus páginas web. ![](assets/MenuBarFullStyles.png)
+
+
+

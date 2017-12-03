@@ -9,7 +9,7 @@
 * [Creación de enlaces](creating-links.md)
 * [Navegar por tu sitio web](making-a-menu.md)
 * [Hacer una barra de menú ](making-a-menu-bar.md)
-* [Styling the menu bar](styling-the-menu-bar.md)
+* [Diseñar la barra de menú](styling-the-menu-bar.md)
 * [Adding a map or video](adding-a-map-or-video.md)
 * [Adding a table](adding-a-table.md)
 * [Download your project!](downloading-your-code.md)
