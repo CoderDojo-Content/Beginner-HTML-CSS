@@ -1,13 +1,13 @@
-1. Sometimes it can be useful to show information in a table. For example if you want to list member information on a website for a local sports club or school. Or, in this example, songs!
-2. A table is a grid made up of **rows** and **columns**. Most tables also include titles at the top of each column, called the **header**.
-3. Go to the file page\_with\_table.html. There you will see a bunch of code in between `<table> </table>` tags. Select all of the code from the start of the `<table>` tag to the end of the closing `</table>` tag and **copy** it.
-4. Go to one of your files where you would like to put a table and **paste** in the code.
-5. Let's have a look at all those tags. It's a bit like the code for a list \(remember `<ul>` and `<ol>`?\) but with more levels.
- * Each pair of `<tr> </tr>` tags is a **row**. So everything in between them will be displayed on one line.
- * The first row contains `<th> </th>` tags. These are used for the **headers**, so the column titles go in between them. There is one pair for each column you have in your table.
- * The `<td> </td>` tags stand for **table data**, and that's what goes in all the other rows. These are like the list item `<li> </li>` tags in a list: everything in between them is one item in your table row.
-6. Here's an example of a table filled with information
-  ```
+1. A veces puede ser útil mostrar información en una tabla. Por ejemplo, si deseas incluir información de miembros en un sitio web para un club o escuela deportiva local. O, en este ejemplo, canciones!
+2. Una tabla es una cuadrícula compuesta de** filas** y** columnas**. La mayoría de las tablas también incluyen títulos en la parte superior de cada columna, llamada **encabezamiento**.
+3. Ve al fichero page\_with\_table.html. Allí verás un montón de código entre tags `<table> </table>` tags. Selecciona todo el código desde el comienzo del tag `<table>`  hasta el final del tag de cierre `</table>` y **cópialo** .
+4. Ve a uno de tus ficheros donde te gustaría poner un table y **pégalo** en el código.
+5. Echemos un vistazo a todas esas tags. Es un poco como el código para una lista \(recuerdas`<ul>` y`<ol>`?\) pero con mas niveles.
+   * Cada par de tags `<tr> </tr>` es una **fila**. Por tanto  todo lo que esté entre ellos se mostrará en una línea.
+   * La primera fila contiene los tags `<th> </th>`. Estos se usan para los **encabezamientos**, o sea los títulos de las columnas van entre ellos. Hay un par por cada columna que tengas en tu table.
+   * Los tags`<td> </td>` se usan para  los **datos de la tabla**, y eso es lo que va en todas las otras filas. Estos son como el elemento de la lista `<li> </li>` tags en una lista: todo lo que hay entre ellos es un elemento en la fila de tu tabla.
+6. Aquí hay un ejemplo de una tabla llena con información
+   ```
     <table>
       <tr>
         <th>Artist</th>
@@ -30,13 +30,13 @@
         <td>1994</td>
       </tr>
     </table>
-  ```
-7. And here's what it looks like on the website ![](assets/TableResult2.png)
-8. Try filling your table with anything you like! Simply put text in between the `<td> </td>` tags and also in between the `<th> </th>` tags. You can add more tags if you need to.
-9. To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
-10. To add another **column** you add an extra **data** item with a set of `<td> </td>` tags onto every row. You also add an extra **header** item to the first row, using `<th> </th>` tags.
-11. If you look at the end of the styles.css file, you will see the CSS code that describes how the table should look. You don't have to understand all of it! But you can experiment with changing the text, border and background colours to design your own style.
-  ```
+   ```
+7. Y aquí está como luce en le sitio web![](assets/TableResult2.png)
+8. ¡Prueba llenar tu table con lo que quieras! Simplemente coloca texto entre los tags`<td> </td>` y también entre los tags  `<th> </th>`. Puedes agregar más tags si lo necesitas.
+9. Para agregar otra fila, agregue otro conjunto de tags `<tr> </tr>`.Entre ellos pon el mismo número de elementos de **data** con tags `<td> </td>` como tienes en los otros rows.
+10. Para adicionar otra **columna** adiciona un element de **data** extra con un conjunto de tags `<td> </td>` dentro de cada fila. Añade también a la primera fila un elemento de **encabezamiento **extra  , usando`<th> </th>` tags.
+11. Si miras al final del fichero styles.css, verás el código CSS que describe cómo debe verse la tabla. ¡No tienes que entender todo! Pero puedes experimentar cambiando los colores del texto, el borde y el fondo para diseñar tu propio estilo.
+    ```
     table, th, td {
       border: 1px solid HoneyDew;
       border-collapse: collapse;
@@ -55,5 +55,8 @@
     td {
       color: purple;
     }
-  ```
-12. Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to _all_ `<th>` elements _and all_ `<td>` elements. It saves typing out the same set of rules again for each selector!
+    ```
+12. Observas cómo algunos de los selectores usan **commas**, por ejemplo `table, th, td`? Esto es una _lista de selectors_: significa que se aplica a  _todos _los elementos `<th>`  y _a todos_  los elementos`<td>`. ¡Ahorra escribir el mismo conjunto de reglas para cada selector!
+
+
+
