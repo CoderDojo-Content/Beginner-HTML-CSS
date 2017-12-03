@@ -22,6 +22,7 @@
    * Si cometes un error, puedes **deshacerlo **presionando **Ctrl**\(o **cmd**\) y **Z** juntos. Usualmente puedes presionarlos varias veces para deshacer los últimos par de cambios. ¡Este es otro atajo práctico que puedes usar en muchos programas!
 
 7. Para que el menú de navegación aparezca en la parte superior de cada página de su sitio web, Pon el mismo código en cada fichero nuevo que creaste. Selecciona toda la sección `nav` como lo hiciste antes, y presiona las teclas **Ctrl** \(o **cmd**\) y **C** juntas para copiarlo. Luego, en cada uno de tus otros ficheros, haz clic dentro de la sección  `<header> </header>` y **pega  **el código exactamente como lo hiciste en el paso 6.
+
 8. Ahora, cuando hagas clic en Ejecutar, podrás hacer clic en los enlaces sin importar en qué página estés. ¡Recuerda hacer clic en Guardar cuando hayas terminado!
 
 
