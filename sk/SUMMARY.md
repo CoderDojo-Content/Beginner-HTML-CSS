@@ -8,7 +8,7 @@
 * [Pridávanie ďalších stránok](adding-more-pages.md)
 * [Vytváranie odkazov](creating-links.md)
 * [Navigácia na stránke](making-a-menu.md)
-* [Making a menu bar](making-a-menu-bar.md)
+* [Navigačné menu](making-a-menu-bar.md)
 * [Styling the menu bar](styling-the-menu-bar.md)
 * [Adding a map or video](adding-a-map-or-video.md)
 * [Adding a table](adding-a-table.md)

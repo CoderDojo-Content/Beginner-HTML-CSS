@@ -1,21 +1,28 @@
-1. By adding more **CSS** rules in the stylesheet, you can transform your navigation menu into a cool looking menu bar! ![](assets/egCoolMenuBar.png)
-2. Go to the stylesheet file. Remember it is in the styles.css tab. Click _after_ a closing curly brace `}` and press enter to go onto a new line. Add the following rule.
+1. Pomocou **CSS** pravidiel v stylesheete môžeš premeniť tvoje navigačné menu na takýto štýlový panel! ![](assets/egCoolMenuBar.png)
+
+2. Prejdi do súboru so stylesheetom, styles.css. Pod poslednú zloženú zátvorku `}` pridaj toto pravidlo:
+
    ```css
       nav ul {
          background-color: tomato;
       }
    ```
-3. Notice how you used **two selectors** instead of one? If you used the `ul` selector on its own, the rule would affect _all_ unordered lists on your website. Adding the `nav` selector as well makes it only apply to lists that are in between `nav` tags.
-4. Click Run to see what it looks like. ![](assets/egMenuBarFirstStyle_800_316.png)
-5. Let's get rid of the bullet points. These are the spots in front of each list item. Go to the styles.css tab and add the following to the file. Again, type it on a new line after a `}` so it's not accidentally inside any other block of rules.
+   
+3. Všimni si, že si použil/a **dva selektory** namiesto jedného. Ak by sme použili len samotný selektor `ul`, toto pravidlo by sa týkalo všetkých zoznamov typu `ul`, ktoré sa na tvojej webstránke nachádzajú. Tým, že sme pridali aj selektor `nav` sme pravidlo obmedzili len na `ul`zoznamy ktoré sa nachádzajú medzi tagmi `nav`.
+
+4. Klikni na Run a skontroluj zmeny. ![](assets/egMenuBarFirstStyle_800_316.png)
+
+5. Dajme preč odrážky – bodky pred položkami zoznamu. Prejdi na styles.css a pridaj nasledujúce pravidlo, opať pod poslednú zloženú zátvorku:   
    ```css
    nav ul li {
       list-style-type: none;
    }
    ```
-Notice this set of rules has _three_ selectors! It selects all `li` elements that are in a `ul` list which is inside a `nav` section. Phew!
-6. Now let's make the list horizontal (across) instead of vertical (down). Inside the new set of rules, add the following line: `display: inline;` ![](assets/egMenuBarInline.png) 
- The menu items are all squashed together, so let's also add the properties `margin-right` and `margin-left` to space them out a bit. The rules should look like this now:
+Všimni si, že toto pravidlo má až tri selektory. Platí pre všetky tagy `li`, ktoré sú v `ul` zozname, ktorý je vo vnútri `nav` sekcie. Uf!
+   
+6. Teraz upravme zoznam tak, aby šiel horizontálne (v jednom riadku) a nie vertikálne (v jednom stĺpci). K pravidlu, ktoré si pridal/a v kroku 5, pridaj ešte tento riadok: `display: inline;` ![](assets/egMenuBarInline.png) 
+
+Všetky položky zoznamu sú teraz natlačené vedľa seba. Pridajme im okraje, aby sme ich rozmiestnili trocha lepšie. Okraje sa pridávajú pomocou `margin-right` (okraj vpravo) a `margin-left` (okraj vľavo). Pridaj ich takto:
    ```css
    nav ul li {
       list-style-type: none;
@@ -24,9 +31,12 @@ Notice this set of rules has _three_ selectors! It selects all `li` elements tha
       margin-left: 10px;
    }
    ```
-   Remember `10px` means 10 **pixels**.
-7. How about making the menu change to to tell you which page you are on? This part won't be in the stylesheet.
-8. Let's start with the homepage. Go to the index.html file. In the list, remove the link tags before and after the word "Home", so that the list item for the homepage is just text in between `<li> </li>` tags, like this: `<li>Home</li>`.
-9. Now go to each of your other files, and do the same thing, each time removing the link tags for the page you are editing. So on the music.html file, remove the link tags in the "Music" list item, and so on.
- 
- Click Run and explore your pages. See how the menu bar shows the page you're on as plain text instead of a link? ![](assets/egMenuBarOnPage.png)
+   `10px` znamená 10 **pixelov**.
+   
+7. Čo keby sme menu zmenili tak, aby nám ukazovalo, na ktorej podstránke sa práve nachádzame? Túto zmenu nespravíme v stylesheete, ale v html súboroch.
+
+8. Začnime domovskou stránkou. Prejdi na súbor index.html. V zozname tvojho navigačného menu vymaž tagy odkazu pred a za slovom _Home_ (alebo _Domov_), tak, aby ti medzi tagmi `<li> </li>` zostal iba text, teda: `<li>Home</li>`.
+
+9. Teraz sprav to isté v ostatných súboroch. Vždy vymaž tagy odkazu v tej položke, ktorá odkazuje na podstránku, ktorú upravuješ.
+
+10. Klikni na Run a prejdi si podstránky. Všimni si, ako navigačné menu zobrazuje podstránku, na ktorej si ako text a nie ako odkaz. ![](assets/egMenuBarOnPage.png)
