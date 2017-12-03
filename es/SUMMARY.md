@@ -12,5 +12,5 @@
 * [Diseñar la barra de menú](styling-the-menu-bar.md)
 * [Adicionar un mapa o video](adding-a-map-or-video.md)
 * [Adicionar una tabla](adding-a-table.md)
-* [Bajar tu proyecto!](downloading-your-code.md)
+* [Descargar tu proyecto!](downloading-your-code.md)
 
