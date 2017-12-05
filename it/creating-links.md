@@ -1,28 +1,28 @@
-1. To turn some text into a link, you put it in between `<a> </a>` tags. It looks like this: 
+1. Se vogliamo convertire un testo in un link, dobbiamo metterlo tra i tag `<a> </a>`. Per esempio, per creare un link alla pagina delle attrazioni creata al passo precedente occorre fare così: 
    ```html
-      <a href="attractions.html">Attractions</a>
+      <a href="attrazioni.html">Attrazioni</a>
    ```
- * The **href** attribute tells the browser the address of the page to link to. As with all attributes, the value you give it must go inside quotation marks.
-2. Go to the index.html file and add the tags to each item on your list of pages, so that it looks like this. Change the text inside the quotation marks so that it exactly matches the names of your new files that you created! Add in a list item with a link for the Homepage as well.
+ * L'attributo **href** fornisce al browser l'indirizzo della pagina da linkare. Come per gli altri attributi, il valore deve essere all'interno delle virgolette.
+2. Modifica il file `index.html` nella sezione con la lista delle pagine, e facciamo diventare ogni riferimento un link a una pagina. Aggiungiamo anche un link per la pagina principale.
    ```html
    <ul>
-      <li><a href="index.html">Home</a></li>
-      <li><a href="attractions.html">Attractions</a></li>
-      <li><a href="music.html">Music</a></li>
-      <li><a href="food.html">Food</a></li>
+      <li><a href="index.html">Pagina principale</a></li>
+      <li><a href="attrazioni.html">Attrazioni</a></li>
+      <li><a href="musica.html">Musica</a></li>
+      <li><a href="cibo.html">Cibo</a></li>
    </ul>
    ```
-3. Now you can navigate to your new pages! Click Save and then click Run to see your links and try them out.
-4. Links to other websites look the same. Type in the code for another set of link tags on your page, leaving the **href** value blank for now. 
+3. Adesso è possibile navigare tra le varie pagine! Provare a cliccare sui link che abbiamo appena creato e vediamo cosa succede (le pagine per la musica e il cibo devono essere create come fatto per la pagina delle attrazioni).
+4. I link, utilizzando gli stessi tag, possono puntare anche a pagine esterne. Inseriamo il codice per aggiungere un link alla pagina Wikipedia sull'Italia. Per il momento lasciamo l'attributo **href** vuoto: 
    ```html
    <p>
-      <a href="">Visit the Wikipedia page</a> to learn more about Ireland!
+      <a href="">Visita la pagina Wikipedia</a> per altre informazioni sull'Italia!
    </p>
    ```
-5. Go to a website that you want to link to. Click in the address bar and select all of the text. That's the whole address of the page you're on. Press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. ![](assets/addressBarWikiHttps.png)
- * **Note:** In Trinket, only links that start with **https://** will work. If your link starts with **http://** it won't work in Trinket but it will work when you download your project and run the files in a browser (the **s** stands for **secure**).
-6. Now go back to your code. Click in between the quotation marks \(make sure you see the cursor flashing there\) and **paste** in the address by pressing **Ctrl** \(or **cmd**\) and **V** together. Click Run to try out the link! ![](assets/tktHttpsLink.png)
-7. Just like the other text, you can make links be any colour you like in the stylesheet. Go to the styles.css file and add the following set of rules. Notice the selector for links is `a`. Choose any colour you want! Make it a different colour to the other text colours you have used. To see your changes, click Run.
+5. Apri il sito a cui vuoi fare riferimento, clicca sulla barra dell'indirizzo e seleziona tutto il testo: questo è l'indirizzo completo della pagina web aperta. Per copiare l'indirizzo, premi il tasto **Ctrl** \(o **cmd**\) e, mantenendolo premuto, premi il tasto **C**. ![](assets/addressBarWikiHttps.png)
+ * **Nota:** In Trinket funzionano solo i link che iniziano con **https://** (la **s** significa "**sicuro**"). Se la pagina che si vuole linkare inizia con **http://** su Trinket non sarà possibile aprirla, ma tutto funzionerà comunque una volta che avremo scaricato il progetto.
+6. Torna adesso al tuo codice, clicca tra le virgolette accanto ad **href** (assicurati di vedere il cursore che lampeggia nel punto giusto) e quindi **incolla** il testo copiato premendo contemporaneamente i tasti **Ctrl** \(o **cmd**\) e **V**. Osservare come diventa la nostra pagina! ![](assets/tktHttpsLink.png)
+7. Utilizzando lo stylesheet, è possibile assegnare ai link il colore che preferiamo. Vai al file `styles.css` e aggiungi le seguenti regole. Nota che il selettore per i link è `a`. Scegli il colore che preferisci, possibilmente diverso da quelli già utilizzati:
    ```css
    a {
       color: Brown;
