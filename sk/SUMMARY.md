@@ -10,7 +10,7 @@
 * [Navigácia na stránke](making-a-menu.md)
 * [Navigačné menu](making-a-menu-bar.md)
 * [Štýl navigačného menu](styling-the-menu-bar.md)
-* [Pridanie mapy alebo videa](adding-a-map-or-video.md)
+* [Pridávanie máp alebo videa](adding-a-map-or-video.md)
 * [Adding a table](adding-a-table.md)
 * [Download your project!](downloading-your-code.md)
 
