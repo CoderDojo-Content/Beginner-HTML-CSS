@@ -1,5 +1,6 @@
-1. With CSS, the possibilities for making your menu bar look great are endless. Open the styles.css file again \(the place where the magic happens!\) Each time you make a change, click Run to see what the website looks like.
-2. Find your `nav ul` selector and add more rules so that it looks like this:
+1. S CSS máš kopu možností, ako upraviť tvoje navigačné menu. Prejdi znovu na súbor styles.css. Vždy keď pridáš nejakú zmenu klikni na Run a pozri sa, ako tvoje zmeny vyzerajú.
+
+2. Nájdi selektor `nav ul` a pridaj k nemu ďalšie pravidlá:
    ```css
       nav ul {
         background-color: tomato;
@@ -9,21 +10,25 @@
         padding: 10px;
       }
    ```
-The `padding` property adds space. Can you work out what each of the other properties does? Try experimenting with different colours and numbers of pixels. ![](assets/egMenuBarMoreStyle.png)
-3. To get rid of the underline on the links, add the following code on a new line after the closing curly brace `}` for the `nav ul li` rules.
- * You could put it after any `}` but it's a good idea to keep related stuff together so it's easier to find!
+Vlastnosť `padding` (z angl. vypchávka, výplň), pridá viac priestoru. Vieš zistiť čo robia ostatné vlastnosti, ktoré sme pridali? Skús pomeniť farby a počet pixelov. ![](assets/egMenuBarMoreStyle.png)
+
+3. Na to, aby sme odstránili podčiarknutie pri odkazoch, môžeme pridať nasledujúci kód za zloženou zátvorkou pre pravidlá k `nav ul li`.
    ```css
       nav ul li a {
          text-decoration: none;
       }
    ```
-The above rule applies to _links_ \(`<a>` tags\) inside _list items_ in an _unordered list_ inside a _navigation_ \(`nav`\) section. Wow! That's _four selectors_! ![](assets/egMenuBarNoUnderline.png)
-3. Remember how you removed the link tags in some list items so you could easily see what page was clicked? Why not also change the text colour of those navigation list items which are not links! Find your `nav ul li` selector, and add the line 
+  * Toto pravidlo by sme mohli dať za ktorúkoľvek zloženú zátvorku, no je dobrým zvykom držať súvisiace pravidlá pokope.
+
+  Predchádzajúce pravidlo platí pre odkazy (`<a>` tagy) v položkách zoznamu, ktoré sú vo vnútri zoznamu `<ul>` v sekcii navigácie (`nav`). Wow, štyri selektory! ![](assets/egMenuBarNoUnderline.png)
+4. Pamätáš, ako sme v predchádzajúcej sekcii vymazali niektoré odkazy, aby sme videli na ktorej podstránke sa nachádzame? Môžeme zmeniť aj tie položky bez odkazov. Nájdi selektor `nav ul li` a pridaj riadok
    ```css
       color: PapayaWhip;
    ```
-   inside the curly braces. Choose any colour you like! 
- * You can add the `color` property to the `nav ul li a` rules as well if you want the menu links to be a different colour from other links on your website.
-4. How about some rounded corners? Try adding the following rule to the `nav ul` rules to see what happens: `border-radius: 10px;`
- * The `border-radius` property is a really easy way to make anything look cooler! For an extra challenge, create a new set of rules in your stylesheet for pictures, using the `img` selector, and add in a `border-radius` rule there.  
-5. Here's an example of what your stylesheet and web pages should look like by now. ![](assets/MenuBarFullStyles.png)
+   medzi zložené zátvorky. Môžeš si vybrať ktorúkoľvek farbu.
+  * Vlastnosť `color` môžeš pridať aj k pravidlám selektoru `nav ul li a`, a zmeniť tak farbu odkazov v navigačnom menu.
+ 
+5. Čo tak zaobliť niektoré rohy. Pridaj nasledujúce pravidlo k selektoru `nav ul` a sleduj čo sa stane: `border-radius: 10px;`
+  * Ak chceš, pridaj toto pravidlo ešte raz, tentoraz so selektorom `img`.
+
+6. Tvoja stránka a stylesheet by teraz mali vyzerať približne takto: ![](assets/MenuBarFullStyles.png)

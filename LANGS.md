@@ -7,5 +7,5 @@
 * [русский](ru/)
 * [Polskie](pl/)
 * [Português](pt/)
-* [Sovenčina](sk/)
+* [Slovenčina](sk/)
 * [Čeština](cs/)

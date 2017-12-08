@@ -1,16 +1,16 @@
-1. Go to [dojo.soy/trinket](http://dojo.soy/trinket) and click "Sign Up For Your Free Account" if you do not already have an account. You will need an email address to sign up. 
-2. Enter your email address and choose a password, or ask somebody to do this for you.
-3. Creating an account allows you to save your work and access it from any computer. It also allows you to make a copy of a project somebody else has shared with you so you can make your own changes to it!
-4. Go to [dojo.soy/html-b-start](http://dojo.soy/html-b-start). You will see a box containing an example website project. On the right hand side is the website, and on the left hand side is the code that makes the website.
-   * If you are not signed in, you will need to enter your email address and password to be able to **Remix** the project.
-5. Click the "Remix" button at the top right of the project \(if it is not green, you have to sign in and then click it again\). This creates a copy of the project for you to work with. It should say "remixed" after you click it ![](/assets/remixedWide.png)
-6. Next to the "Sign Out" button at the very top right corner of the page you should see your username and a drop-down menu \(the tiny triangle tells you there is a drop-down\). Click on it to show the menu and then select "My Trinkets". ![](/assets/MyTrinketsMenuWide.png)
-   * In Trinket \(this website\), projects are called "Trinkets"
-7. The project you just remixed will be shown together with some example projects for other programming languages. It will be called "My First Website Remix". Click on it to begin editing!
-8. The main part of the page is broken into two panels. On the left is where you write your code. The different code files appear as tabs. On the right is your website! The grey bar in between them is a slider that you can drag to adjust the width of the website and code panels. ![](/assets/TrinketProjectEditingShorter.png)
-9. To the top left above the code panel is the name of your project. If you want to change the name, click on it and type in a new name, then press Enter. The website in these Sushi Cards is about Ireland, but yours can be about anything you like.
-10. Click the triangle icon next to the  button that says "Autorun" and select "Click To Run". ![](/assets/ClickToRunWide.png)
-11. You are ready to start coding!
+1. Choď na [dojo.soy/trinket](http://dojo.soy/trinket) a klikni na "Sign Up For Your Free Account" ak na stránke Trinket ešte nemáš vytvorený účet. Na registráciu budeš potrebovať emailovú adresu. 
+2. Zadaj svoju emailovú adresu a vyber si heslo. Prípadne niekoho požiadaj o pomoc.
+3. S účtom si môžeš ukladať svoju prácu a otvárať ju z akéhokoľvek počítača. S účtom môžeš tiež kopírovať a upravovať projekty ľudí, ktorí ich s tebou zdieľali.
+4. Choď na [dojo.soy/html-b-start](http://dojo.soy/html-b-start). Uvidíš vedľa seba dva panely. V paneli napravo je webová stránka a naľavo je kód, ktorý ju vytvoril.
+   * Ak nie si prihlásený/á, budeš musieť zadať svoj email a heslo, aby si mohol/la tento projekt **Remixovať**.
+5. Klikni na tlačidlo "Remix" vpravo hore \(ak tlačidlo nie je zelené, musíš sa najskôr prihlásiť\). Vytvorí sa kópia projektu, s ktorou budeš môcť pracovať. Vpravo hore by malo byť napísané "remixed". ![](/assets/remixedWide.png)
+6. Vedľa odkazu "Sign Out" vpravo hore by si mal/a vidieť svoje prihlasovacie meno. Klikni na svoje prihlasovacie meno a zobrazí sa ti ponuka. Vyber z nej "My Trinkets". ![](/assets/MyTrinketsMenuWide.png)
+   * Na tejto stránke (Trinket) sa projektom hovorí "Trinkets".
+7. Projekt, ktorý si práve zremixoval/a sa ti ukáže spolu s inými projektmi v rôznych programovacích jazykoch. Tvoj zremixovaný projekt sa bude volať "My First Website Remix". Klikni naň a začni ho upravovať!
+8. Hlavná časť tejto stránky je rozdelená na dva panely. Vľavo môžeš písať svoj kód. Súbory sú hore vyznačené ako záložky. Vpravo je tvoja stránka! Medzi panelmi je úzky predeľovač, ktorý môžeš posúvať doľava a doprava. ![](/assets/TrinketProjectEditingShorter.png)
+9. Vľavo hore uvidíš názov svojho projektu. Ak chceš zmeniť jeho meno, klikni na názov a zadaj nový názov. Na potvrdenie stlač Enter na klávesnici. Stránka na týchto Sushi kartách je o Írsku a po anglicky, no tvoja stránka môže byť o čomkoľvek inom a v slovenčine.
+10. Klikni na trojuholník vedľa tlačidla "Autorun" vľavo hore, a vyber "Click To Run". ![](/assets/ClickToRunWide.png)
+11. Hotovo! Si pripravený/á začať písať kód!
 
 
 

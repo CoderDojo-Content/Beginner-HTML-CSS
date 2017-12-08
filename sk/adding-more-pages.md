@@ -1,17 +1,26 @@
-1. So you've decided what pages you'd like to have in your website, now let's make them! To create a new web page, you create a new file with a name that ends in **.html**. At the top of the code panel, click on the **+** symbol next to the tabs. This will create a new file. Give it a name. Remember, it must end in **.html** \(including the dot!\) so that the browser knows it's a web page.
-   * If you want to change the name of a file, click on the cog icon to the right of the filename, and click the pencil. Type in the new name and press Enter. You can also delete a file by clicking the bin icon instead of the pencil.![](/assets/EditFilename.png)
-2. You might be wondering why you can't change the name of the index.html file. "index.html" is a special name used for the **homepage** of a website. That's the first page you land on when you visit a website. When you go to a website's homepage, the browser looks for the file called "index.html" and displays it on your screen.
-3. Go the the file blank\_page.html in the code panel \(by clicking on the tab with that name\). Select all of the text in the file by doing the following: Click anywhere inside the code panel, then press and hold the **Ctrl** key \(or if you are using a Mac, the **cmd** key\) and while holding it, press the **A** key at the same time. Notice how all the text becomes highlighted.![](/assets/SelectAll.png)
-4. Now, with the text selected, press and hold the **Ctrl** \(or **cmd**\) key again and then while holding it press the **C** key. This **copies** everything that was selected.
-5. Go to your new file and click inside the code panel \(which is blank at the moment\). Press and hold the **Ctrl** \(or **cmd**\) key and then while holding it, press the **V** key. This **pastes** everything that was copied into your new page.
- * You can use these keyboard shortcuts in most programs to **copy** and **paste** stuff, including text and files!
-6. Change the text in between the `<title> </title>` tags so your new page has a descriptive title.
-7. In between the `<main> </main>` tags in the new file, use the tags you have learned to add stuff to the page, such as paragraphs, headings, images and lists!
-8. Repeat the steps above for each new page that you want to add. 
- * Remember, when there are too many tabs to be able to see them all, you can use the **<** and **>** icons in the top left corner of the tabs to scroll between them.
+1. Už vieš, aké podstránky chceš mať na svojej stránky, tak ich poďme vyrobiť! Na vytvorenie novej podstránky, potrebuješ nový súbor, ktorý sa bude končiť na **.html**. Na vrchu panelu s kódom klikni na symbol **+**. Týmto vytvoríš nový súbor. Názov tvojho nového súboru by mal končiť na **.html** (vrátane bodky), aby prehliadač vedel, že sa jedná o webovú stránku.
+
+   * Ak chceš zmeniť meno existujúceho súboru, klikni na ikonu ozubeného kolieska napravo od názvu súboru a potom klikni na ceruzku. Podobne môžeš súbor aj vymazať: kliknutím na ikonu smetného koša namiesto ceruzky.![](assets/EditFilename.png)
+   
+2. Možno sa pýtaš, prečo nie je možné zmeniť názov súboru index.html. "index.html" je špeciálny názov pre **domovskú stránku** webu. Je to prvá podstránka, ktorá sa ti zobrazí, keď prehliadačom prídeš na nejakú stránku. Prehliadač väčšinou hľadá súbor s názvom index.html a ten zobrazí ako prvý.
+
+3. Choď do súboru blank_page.html v paneli s kódom. Vyber všetok text v tomto súbore pomocou myši, alebo klávesovou skratkou **Ctrl+A** (Drž stlačený kláves Ctrl a potom stlač A).![](assets/SelectAll.png)
+
+4. Teraz označený text skopíruj pomocou klávesovej skratky **Ctrl+C**
+
+5. Prepni sa do súboru, ktorý si vytvoril/a v kroku 1. Vlož skopírovaný text zo súboru blank_page.html pomocou klávesovej skratky **Ctrl+V**.
+
+ * Skratky Ctrl+C a Ctrl+V fungujú aj v iných programoch, môžeš nimi kopírovať aj celé súbory!
+ 
+6. Zmeň text medzi tagmi `<title> </title>` aby tvoja nová podstránka mala vhodný popis.
+
+7. Medzi tagy `<main> </main>` vlož akékoľvek tagy ktoré už poznáš: pridaj nové odstavce, nadpisy, zoznamy alebo obrázky!
+
+8. Opakuj kroky 1 až 7 pre každú novú podstránku, ktorú chceš pridať. Ak máš nad panelom s kódom príliš veľa záložiek, môžeš ich posúvať pomocou tlačidiel **<** a **>** v ľavom hornom rohu.
 
   ![](assets/egMorePagesAttractionsPage.png)
-10. On the next card you're going to learn how to make **links** so that you have a way to get to the new pages.
+  
+9. Na ďalšej strane sa naučíš ako vytvárať **odkazy**, aby sa na tvojom webe dalo prechádzať medzi stránkami.
 
 
 
