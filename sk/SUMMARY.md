@@ -11,6 +11,6 @@
 * [Navigačné menu](making-a-menu-bar.md)
 * [Štýl navigačného menu](styling-the-menu-bar.md)
 * [Pridávanie máp alebo videa](adding-a-map-or-video.md)
-* [Adding a table](adding-a-table.md)
+* [Pridávanie tabuliek](adding-a-table.md)
 * [Download your project!](downloading-your-code.md)
 

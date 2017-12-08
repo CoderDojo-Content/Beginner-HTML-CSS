@@ -1,7 +1,8 @@
-1. Sometimes it can be useful to show information in a table. For example if you want to list member information on a website for a local sports club or school. Or, in this example, songs! A table is a grid made up of **rows** and **columns**. Most tables also include titles at the top of each column, called the **header**.
-2. Go to the file page\_with\_table.html. There you will see a bunch of code in between `<table> </table>` tags. Select all of the code from the start of the `<table>` tag to the end of the closing `</table>` tag and **copy** it. Then go to one of your files where you would like to put a table and **paste** in the code.
+1. Niekedy je dobré ukázať informácie na stránke vo forme tabuľky. Napríklad, ak chceš zobraziť zoznam členov tvojho futbalového klubu, alebo na hitparádu pesničiek. Tabuľka je mriežka, ktorá sa skladá s **riadkov** a **stĺpcov**. Väčšina tabuliek má v prvom riadku popis každého stĺpca – **hlavičku**.
 
-3. At the moment your table is empty. Here's an example of a table filled with information:
+2. Prejdi do súboru page\_with\_table.html. Nájdeš tam kód medzi tagmi `<table> </table>`. Skopíruj tieto tagy spolu s kódom medzi nimi a vlož ich na niektorú z tvojich podstránok.
+
+3. Momentálne je tvoja tabuľka prázdna. Tu je príklad tabuľky s vyplnenými informáciami:
   ```html
     <table>
       <tr>
