@@ -12,5 +12,5 @@
 * [Štýl navigačného menu](styling-the-menu-bar.md)
 * [Pridávanie máp alebo videa](adding-a-map-or-video.md)
 * [Pridávanie tabuliek](adding-a-table.md)
-* [Download your project!](downloading-your-code.md)
+* [Stiahni si svoj projekt!](downloading-your-code.md)
 
