@@ -1,6 +1,9 @@
-1. Bonus: add a video! YouTube provides an easy way to **embed** (put) videos from it onto your website. Find a video on YouTube that you want to show on your website. 
-2. Look for the "Share" button and click it. Select the option "Embed".
-3. You will see a text box with all the text selected \(if you accidentally unselect the text, you can select it all again by clicking on it and pressing the **Ctrl** \(or **cmd**\) and **A** keys together on your keyboard, just like before\). Press the **Ctrl** \(or **cmd**\) and **C** keys together on your keyboard to **copy** the text.![](assets/EmbedYouTube.png)
+1. Bonus: pridaj video! YouTube poskytuje jednoduchý spôsob ako vložiť video na tvoju stránku. Tento spôsob sa volá **embedding**. Nájdi na YouTube video, ktoré chceš vložiť na svoju stránku.
+
+2. Nájdi pod videom tlačidlo "Share" alebo "Zdieľať" a klikni naň. Potom klikni na tlačidlo "Embed" alebo "Vložiť".
+
+3. Ukáže sa ti rámček s HTML kódom. Klikni naň a celý HTML kód sa označí. Kód skopíruj pomocou známej skratky **Ctrl+C**.![](assets/EmbedYouTube.png)
+
 4. Then go to your code, and click in the place where you want to put the video, for example after a heading or paragraph. Paste the code by pressing **Ctrl** \(or **cmd**\) and **V** on your keyboard at the same time, as usual. Don't worry about understanding all the code you just pasted! ![](assets/EmbedYouTube2.png)
  * **Note:** Depending on your browser's settings the video might be blocked. Ask a mentor to help you adjust the settings to enable content from external sites (sometimes called "unsafe content") to be shown.
 5. Click Run to see the video appear on your web page.
