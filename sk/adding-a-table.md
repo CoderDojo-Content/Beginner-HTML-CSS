@@ -27,17 +27,28 @@
       </tr>
     </table>
   ```
-4. And here's what it looks like on the website: ![](assets/TableResult2.png)
+4. Takto vyplnená tabuľka sa na stránke zobrazí takto: ![](assets/TableResult2.png)
+
 5. Let's have a look at all those tags. It's a bit like the code for a list \(remember `<ul>` and `<ol>`?\) but with more levels.
- * Each pair of `<tr> </tr>` tags is a **row**. So everything in between them will be displayed on one line.
- * The first row contains `<th> </th>` tags. These are used for the **headers**, so the column titles go in between them. There is one pair for each column you have in your table.
- * The `<td> </td>` tags stand for **table data**, and that's what goes in all the other rows. These are like the list item `<li> </li>` tags in a list: everything in between them is one item in your table row.
+
+5. Pozrime sa na tieto nové tagy. Tento kód sa trocha podobá na kód pre zoznamy (pamätáš na tagy `<ul>` a `<ol>`?)
+ * Každý pár tagov `<tr> </tr>` označuje **riadok**. Takže všetko medzi týmito tagmi bude zobrazené v jednom riadku.
+ 
+ * Prvý riadok obsahuje tagy `<th> </th>`. Tieto tagy označujú **hlavičky** stĺpcov. Pre každý stĺpec máme jednu hlavičku.
+
+ * Tagy `<td> </td>` označujú **stĺpce** v riadkoch.
+  
 6. Try filling your table with anything you like! Simply put text in between the `<td> </td>` tags and also in between the `<th> </th>` tags. You can add more tags if you need to.
- 
-  To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
- 
-  To add another **column** you add an extra **data** item with a set of `<td> </td>` tags onto every row. You also add an extra **header** item to the first row, using `<th> </th>` tags.
+
+6. Vyplň svoju tabuľku čímkoľvek chceš! Pridaj text medzi tagy `<td> </td>` a `<th> </th>`. Ak potrebuješ, pridaj viac tagov.
+
+  Na pridanie nového **riadku**, pridaj tagy `<tr> </tr>`. Medzi ne potom patria tagy `<td> </td>` tak, ako v iných riadkoch.
+
+  Ak chceš pridať nový **stĺpec**, musíš pridať tagy `<td> </td>` do každého riadku. Takisto budeš musieť pridať **hlavičku** prvého riadku pomocou tagov `<th> </th>`.
+  
 7. If you look at the end of the styles.css file, you will see the CSS code that describes how the table should look. You don't have to understand all of it! But you can experiment with changing the text, border and background colours to design your own style.
+
+7. Keď sa pozrieš na koniec súboru styles.css, uvidíš css kód ktorý opisuje, ako by mala tabuľka vyzerať. Nevadí, ak všetkému, čo sa v ňom píše, nerozumieš. Ale skús sa týmto CSS kódom pohrať. Zmeniť môžeš ohraničenie tabuľky, farbu textu, alebo pozadie tabuľky.
   ```css
     table, th, td {
       border: 1px solid HoneyDew;
@@ -58,4 +69,6 @@
       color: purple;
     }
   ```
-  Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to _all_ `<th>` elements _and all_ `<td>` elements. It saves typing out the same set of rules again for each selector!
+  Všimol/la si si, že niektoré selektory obsahujú **čiarky**? Napríklad `table, th, td`. Toto je _zoznam selektorov_: označuje, že toto pravidlo zároveň platí pre tagy `<table>`, `<th>` aj `<td>`. Zoznamy selektorov zjednodušujú písanie pravidiel pre viacero typov tagov.
+  
+  
