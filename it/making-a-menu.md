@@ -1,26 +1,26 @@
-1. Many websites have a **navigation** menu to make it easy to get around the pages. Now that you've got a bunch of pages, a homepage, and links to get around, let's move the links to a navigation section at the top. ![](assets/egNavLinksAtTop.png)
-2. Just before the opening `<ul>` tag, press enter to create a new blank line, then on the new line type the following tag: `<nav>`. Trinket automatically adds in the closing tag for you, you can delete that for now.
-3. Just _after_ the _closing_ `</ul>` tag, press enter to go onto a new line, and type in the closing tag `</nav>`. 
-   * "nav" stands for **navigation**. The `nav` section is a set of tools for getting around a website.
-4. Now, select your entire `nav` section and list by clicking just before the opening `<nav>` tag and dragging the mouse all the way until just after the closing `</nav>` tag, so that all of the text including the opening and closing tags becomes highlighted. Make sure all of the **angle brackets** `<` and `>` at the start and end are highlighted too! ![](assets/SelectTextYayWhoops.png)
-5. You are going to **cut** this time instead of **copy**. Press and hold the **Ctrl** \(or **cmd**\) key and while holding it press the **X** key. The code will disappear but don't panic!
-6. At the top of the file, click in the space between the `<header> </header>` tags. Make sure you see the cursor flashing there. Now **paste** in the code by pressing **Ctrl** \(or **cmd**\) and **V** together as usual. Click Run to see your changes! The code should look something like this:
+1. Per rendere facile lo spostamento tra le varie pagine, molti siti web utilizzano un menù di **navigazione**. Adesso che abbiamo un certo numero di pagine, con una pagina principale e un insieme di link per spostarsi tra le varie pagine, spostiamo i link in una sezione di navigazione in cima alla pagina. ![](assets/egNavLinksAtTop.png)
+2. Immediatamente _prima_ del tag di _apertura_ `<ul>`, premi Invio e crea una nuova linea vuota. Nella linea vuota scrivi il seguente tag:  `<nav>`. Trinket automaticamente aggiunge il tag di chiusura. Per il momento cancelliamolo.
+3. Subito _dopo_ il tag di _chiusura_ `</ul>`, premi nuovamente Invio e, nella nuova linea scrivi il tag di chiusura `</nav>`. 
+   * "nav" sta per **navigazione**. La sezione `nav` è un insieme di tool utili per muoversi all'interno di un sito web.
+4. A questo punto, seleziona l'intera sezione `nav` con la lista al suo interno. Per fare questo clicca con il mouse immeditamente prima del tag di apertura `<nav>` tag e, mantenendo premuto il tasto del mouse, trascinare il cursore fino a comprendere tutto il tag di chiusura  `</nav>`cosicchè tutto il testo compreso tra i tag di apertura e chiusura risulta evidenziato. Fare attenzione che tutte le **parentesi angolari** `<` e `>` siano comprese nella selezione! ![](assets/SelectTextYayWhoops.png)
+5. Invece di copiare, questa volta **taglieremo** il testo. Per farlo premi e mantieni premuto il tasto **Ctrl** \(o **cmd**\) e premi quindi in tasto **X**. Il codice scomparirà, ma non preoccuparti!
+6. All'inzio del file, clicca nello spazio tra i tag `<header> </header>` e assicurati che il cursore stia lampeggiando proprio in quella zona. A questo punto **incolla** il codice tagliato in precedenza premendo i tasti  **Ctrl** \(o **cmd**\) e **V** insieme come al solito. Il codice dovrebbe appararire come quello riportato sotto:
    ```html
    <header>
       <nav>
          <ul>
             <li><a href="index.html">Home</a></li>
-            <li><a href="attractions.html">Attractions</a></li>
-            <li><a href="music.html">Music</a></li>
-            <li><a href="food.html">Food</a></li>
+            <li><a href="attrazioni.html">Attrazioni</a></li>
+            <li><a href="musica.html">Musica</a></li>
+            <li><a href="cibo.html">Cibo</a></li>
          </ul>
       </nav>
    </header>
    ```
 
-   * If you make a mistake, you can **undo** it by pressing **Ctrl** \(or **cmd**\) and **Z** together. You can usually press it a few times to undo the last couple of changes. This is another handy shortcut that you can use in many programs!
-7. To make the navigation menu appear at the top of every page on your website, you put the same code into each new file that you created. Select the entire `nav` section like you did before, and press the **Ctrl** \(or **cmd**\) and **C** keys together to **copy** it. Then, in each of your other files, click inside the `<header> </header>` section and **paste** the code exactly like you did in Step 6.
-9. Now when you click Run, you will be able to click the links no matter which page you are on. Remember to  click Save when you're done!
+   * In caso di errori, si può tornare indietro (fare "**undo**"), premendo i tasti**Ctrl** \(o **cmd**\) e **Z** insieme. Premendolo più volte si può tornare indietro di più passi. Ricorda bene questa funzionalità perché può essere utile in molte situazioni!
+7. Per far si che il menù di navigazione appaia in cima a tutte le pagine del sito, si deve mettere il codice della sezione `<nav>`, in tutte le pagine create. Selezionare l'intera sezione `nav` come fatto in precedenza, e premi i tasti **Ctrl** \(o **cmd**\) e **C** insieme per **copiare** il codice. Quindi cliccare nella sezione tra i tag `<header> </header>` di tutte le pagine e **incollare** il testo esattamente come fatto nel passo 6.
+9. Adesso cliccando su Run, potrai navigare tra le pagine cliccando sui link a questo punto presenti in tutte le pagine. Ricordati di cliccare su "Save" una volta terminato!
 
 
 
