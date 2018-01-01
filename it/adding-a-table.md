@@ -1,42 +1,42 @@
-1. Sometimes it can be useful to show information in a table. For example if you want to list member information on a website for a local sports club or school. Or, in this example, songs! A table is a grid made up of **rows** and **columns**. Most tables also include titles at the top of each column, called the **header**.
-2. Go to the file page\_with\_table.html. There you will see a bunch of code in between `<table> </table>` tags. Select all of the code from the start of the `<table>` tag to the end of the closing `</table>` tag and **copy** it. Then go to one of your files where you would like to put a table and **paste** in the code.
+1. In alcuni casi può essere utile mostrare informazioni utilizzando una tabella, per esempio se si vogliono mostrare su un sito informazioni sui membri partecipanti a un club di sport o iscritti a uno scuola. O, come vedremo in questo esempio, per elencare canzoni! Una tabella è una griglia formata da **righe** and **colonne**. Molte tabelle inoltre includono dei titoli nella prima riga; questa prima riga viene chiamata **intestazione** (_header_).
+2. Apri il file pagina\_con\_tabella.html. Vedrai che c'è del codice all'interno dei tag `<table> </table>`. Seleziona tutto il codice dall'inizio del tag di apertura `<table>` fino alla fine del tag di chiusura `</table>` e **copialo**. Vai quindi su uno dei tuoi file trova un posto dove inserire la tabella e **incolla** il codice.
 
-3. At the moment your table is empty. Here's an example of a table filled with information:
+3. Per il momento la tabella è vuota. Ecco un esempio di come potrebbe essere riempita:
   ```html
     <table>
       <tr>
-        <th>Artist</th>
-        <th>Song</th>
-        <th>Year</th>
+        <th>Artista</th>
+        <th>Canzone</th>
+        <th>Anno</th>
       </tr>
       <tr>
-        <td>Thin Lizzy</td>
-        <td>The Boys Are Back In Town</td>
-        <td>1976</td>
+        <td>Domenico Modugno</td>
+        <td>Nel blu dipinto di blu</td>
+        <td>1958</td>
       </tr>
       <tr>
-        <td>Sinead O'Connor</td>
-        <td>Nothing Compares 2 U</td>
-        <td>1990</td>
+        <td>Mina</td>
+        <td>Grande grande grande</td>
+        <td>1972</td>
       </tr>
       <tr>
-        <td>The Cranberries</td>
-        <td>Linger</td>
-        <td>1994</td>
+        <td>Paolo Conte</td>
+        <td>Via con me (It's wonderful)</td>
+        <td>1981</td>
       </tr>
     </table>
   ```
-4. And here's what it looks like on the website: ![](assets/TableResult2.png)
-5. Let's have a look at all those tags. It's a bit like the code for a list \(remember `<ul>` and `<ol>`?\) but with more levels.
- * Each pair of `<tr> </tr>` tags is a **row**. So everything in between them will be displayed on one line.
- * The first row contains `<th> </th>` tags. These are used for the **headers**, so the column titles go in between them. There is one pair for each column you have in your table.
- * The `<td> </td>` tags stand for **table data**, and that's what goes in all the other rows. These are like the list item `<li> </li>` tags in a list: everything in between them is one item in your table row.
-6. Try filling your table with anything you like! Simply put text in between the `<td> </td>` tags and also in between the `<th> </th>` tags. You can add more tags if you need to.
+4. Ed ecco come apparirebbe nel sito web: ![](assets/TableResult2.png)
+5. Guardiamo adesso più da vicino questo nuovo codice. Somiglia a quello delle liste \(ricordi `<ul>` e `<ol>`?\) ma con più livelli.
+ * Ogni coppia dei tag `<tr> </tr>` è una **riga** ("tr" = _table row_). Tutto quello contenuto al suo interno viene visualizzato in una linea.
+ * La prima riga contiene tag `<th> </th>` ("th" = _table heading_). Questi sono utilizzati per le **intestazioni**, i titoli delle varie colonne. C'è una coppia di questi tag per ogni colonna della tabella.
+ * I tag `<td> </td>` contengono i dati veri e propri ("td" = _table data_); qui c'è quello che va su tutte le altre righe della tabella. Queste sono come gli elementi delle liste creati con i tag `<li> </li>` tags in a list: tutto quello contenuto al loro interno è un elemento di una riga della tabella.
+6. Prova a riempire la tabella con quello che ti piace!! Inserisci semplicemente il testo tra i tag `<td> </td>` aggiornando coerentemente il contenuto dei tag `<th> </th>`. Puoi aggiungere altri tag se ti serve.
  
-  To add another **row**, you add another set of `<tr> </tr>` tags. In between them you put the same number of **data** items with `<td> </td>` tags as you have in the other rows.
+  Per aggiungere un'altra **riga**, Inserisci un altro blocco `<tr> </tr>`. All'interno di questo blocco inserisci lo stesso numero di elementi **dato** delle altre righe. Per fare questo utilizza i tag `<td> </td>`.
  
-  To add another **column** you add an extra **data** item with a set of `<td> </td>` tags onto every row. You also add an extra **header** item to the first row, using `<th> </th>` tags.
-7. If you look at the end of the styles.css file, you will see the CSS code that describes how the table should look. You don't have to understand all of it! But you can experiment with changing the text, border and background colours to design your own style.
+  Per aggiungere un'altra colonna **column** aggiungi un'altro elemento **dati** con una coppia `<td> </td>` in ogni riga. Ti servirà anche un elemento **intestazione** addizionale nella prima riga. Per aggiungerlo utilizza i tag `<th> </th>`.
+7. Se guardi alla fine del file styles.css, troveria il codice CSS che descrive come deve apparire la tabella. Non serve capirlo tutto adesso, ma puoi provare a modificarlo inventandoti un tuo stile e cambiando il modo in cui appare il testo, i bordi, e il colore di sfondo.
   ```css
     table, th, td {
       border: 1px solid HoneyDew;
@@ -57,4 +57,5 @@
       color: purple;
     }
   ```
-  Notice how some of the selectors use **commas**, for example `table, th, td`? This is a _list of selectors_: it means it applies to _all_ `<th>` elements _and all_ `<td>` elements. It saves typing out the same set of rules again for each selector!
+  Nota come alcuni dei seletturi usano la **virgola**. Per esempio `table, th, td`. Questa è una _lista di selettori_: significa che si applica a _tutti_ gli elementi `<th>` e `<td>` di tutte le tabelle, permettendo di evitare di scrivere le stesse regole più volte!
+  
