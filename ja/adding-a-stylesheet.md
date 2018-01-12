@@ -30,9 +30,9 @@
    ```
 9. 「Click To Run」をクリックします。見出しがむらさき色からオレンジ色になるはずです。![](/jp/assets/StyleColorsFonts.png)
 10. 文字の色と同じように、文字の形（フォント）も変わりました。これは、`font-family`を変更したからです。
-    [dojo.soy/web-font-families](https://www.w3schools.com/cssref/css_websafe_fonts.asp) のサイトからたくさんのフォントの種類（フォントファミリー）を見ることができます。
+    [dojo.soy/web-font-families](http://dojo.soy/web-font-families) のサイトからたくさんのフォントの種類（フォントファミリー）を見ることができます。
 11. `h2`セレクタを作成して、`<h2>`見出しに複数のプロパティを追加してみてください。
-12. 文字と背景の色を違う組み合わせにしてみませんか？使うことができる色がたくさんあります。[dojo.soy/web-color-names](https://www.w3schools.com/colors/colors_names.asp)のサイトから色のリストを見ることができます。
+12. 文字と背景の色を違う組み合わせにしてみませんか？使うことができる色がたくさんあります。[dojo.soy/web-color-names](http://dojo.soy/web-color-names)のサイトから色のリストを見ることができます。
 
 
 
