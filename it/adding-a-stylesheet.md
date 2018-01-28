@@ -33,7 +33,7 @@
       font-family: "Times New Roman", serif;
    }
    ```
-9. I titoli a questo punto dovrebbero apparire di colore arancione, mentre i paragrafi non cambieranno. ![](/assets/egCssColorsFonts.png)
+9. I titoli a questo punto dovrebbero apparire di colore arancione, mentre i paragrafi non cambieranno. ![](assets/egCssColorsFonts.png)
 10. Anche i caratteri appariranno diversi. Questo perché con la seconda regola abbiamo specificato un font specifico per i titoli. Puoi vedere altri font sl seguente link: [dojo.soy/font-families](http://dojo.soy/web-font-families)
 11. Prova ad agguingere un blocco di regole per i titoli di tipo `<h2>`, usando il selettore `h2`.   
 12. Prova a sperimentare combinazioni diverse per i colori del testo e dello sfondo. Ci sono moltissimi colori disponibili, per una lista completa vedere: [dojo.soy/web-color-names](http://dojo.soy/web-color-names)
