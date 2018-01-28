@@ -1,9 +1,11 @@
 1. Nel pannello di sinistra, il **pannello del codice**, clicca sulla linguetta dove è scritto "index.html".
-2. Trova la linea dove è scritto "Welcome to Ireland!" e modificala in modo che contenga il nome della tua nazione o città. Per esempio scrivi "Benvenuto in Italia!"; fai attenzione a non cancellare i caratteri `<p>` all'inizio della linea e i caratteri `</p>` alla fine. Se è selezionata la modalità "Autorun", il pannello di destra si aggiornerà automaticamente, altrimenti clicca sul pulsante "Click To Run". Il pannello di destra \(la pagina web\) si aggiornerà. ![](assets/egFirstHtmlCodeRun.png)
+2. Trova la linea dove è scritto "Benvenuto in Italia!" e se vuoi modificala in modo che contenga il nome della tua città o della tua regione. Fai attenzione a non cancellare i caratteri `<p>` all'inizio della linea e i caratteri `</p>` alla fine. Se è selezionata la modalità "Autorun", il pannello di destra si aggiornerà automaticamente, altrimenti clicca sul pulsante "Click To Run". Il pannello di destra \(la pagina web\) si aggiornerà. 
 3. Adesso, nella stessa linea, cambia i caratteri `<p>` e `</p>` in `<h1>` e `</h1>`. Cosa succede?
    ```html
     <h1>Benvenuto in Italia!</h1>
    ```
+![](assets/egFirstHtmlCodeRun.png)
+
 4. Per mettere del testo in una pagina web, è necessario inserirlo tra due **tag**. I tag "dicono" al browser come il testo deve essere visualizzato. Per esempio, il tag `<p>` indica al browser che il testo che segue è quello di un paragrafo, cioè un testo normale, mentre il tag `<h1>` indica un titolo.
    * I **browser** sono i programmi utilizzati per visualizzare i siti web, per esempio Firefox e Chrome.
    * Il nome del file termina in **.html** per indicare al browser che il file contiene una pagina web. Come conseguenza il browser cerca i tag all'interno dei file per sapere come rappresentare il testo. **HTML** è il linguaggio utilizzato per rappresentare il codice delle pagine web.
@@ -12,18 +14,18 @@
    * Notare come il tag di **chiusura** utilizza una barra `/`.
    * I tag definiscono le varie parti della pagina, per esempio paragrafi e titoli, o l'intero corpo \(body\) della pagina; queste parti sono chiamate **elementi**. e bisogna pensare a loro come agli **elementi costitutivi** \(building block\) della pagina..
 
-6. Prova a cambiare il tag `p` in `h2` nella paragrafo dove è scritto "Coding websites is fun!". Ricordati di cambiare sia il tag di ** apertura** `<p>` che quello di **chiusura** `</p>`.
+6. Prova a cambiare il tag `p` in `h2` nella paragrafo dove è scritto "Costruire siti web è divertente". Ricordati di cambiare sia il tag di ** apertura** `<p>` che quello di **chiusura** `</p>`.
 
-7. Cerca i tag `<title>` e `</title>` e cambia il testo contenuto tra essi in "La mia prima pagina web". Premi il pulsante "Click to run" se necessario. ![](/assets/FirstTagsAndRun.png)
+7. Cerca i tag `<title>` e `</title>` e cambia il testo contenuto tra essi in "La mia prima pagina web". Premi il pulsante "Click to run" se necessario. ![](assets/FirstTagsAndRun.png)
 
    * Il titolo è il testo che normalmente si vede nel tab o nel titolo della finestra del browser. Trinket non la mostra ma la vedremo successivamente dopo aver scaricato il codice.
 
-8. Cerca il codice del paragrafo dove è scritto: "My website is about Ireland" e cambialo nel seguente modo \(approfittiane per tradurlo!\):
+8. Cerca il codice del paragrafo dove è scritto: "Questo sito parla dell'Italia" e cambialo nel seguente modo:
 
    ```html
       <p>
          <em>Questo sito</em> parla dell'<strong>Italia</strong>.
-         Sono in preparazione le seguenti pagine: Attrazioni, Musica e Cibo.
+         Avrà le seguenti pagine: Attrazioni, Musica e Cibo.
       </p>
    ```
 
