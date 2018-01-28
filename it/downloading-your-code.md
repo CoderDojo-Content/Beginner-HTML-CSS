@@ -1,11 +1,11 @@
-1. Lets download your code and look at it! At the top left corner of the code panel, click on the menu icon that looks like three lines, and click Download. ![](assets/DownloadMenuCircled.png)
-2. A zip file will be downloaded. It contains all the files for your website. Extract it to a folder on your computer.
-3. Open up the extracted folder and find the file called index.html. Remember this file is your homepage. Double click on it to open it up in a **browser**. Click the links and explore your website in all its glory!
-4. Can you see the page title at the top of the tab or window? Notice the title on each page. This is the text you put in between the `<title> </title>` tags.![](assets/LocalFileWindowTitle.png)
-5. Leave the browser window open, and go back to the window with the list of files. Find index.html again. This time right click it \(to "right click" on a Mac, either click and hold, or click with two fingers!\), select "Open With &gt;" and choose a plain text editor such as Notepad, Notepad++ or Sublime Text. You should see all the HTML tags, like in the code panel on Trinket.
- * If you are using a Mac, you may need to install a plain text editor first
-6. As you know, a web page is just made up of text, with tags to control it. Now you can see that the web page and the code are in fact the same file: depending on whether you open it in a **browser** or a **plain text editor**, you will see either the **code** \(text and tags\) or the **web page** \(just text\).
-7. Congratulations! Why not share your project with other people to show it off? In Trinket, click the Share button (next to the Save button) and select one of the options.
+1. Vediamo adesso come scaricare sul PC il codice realizzato e come aprirlo con un browser. Nell'angolo in alto a sinistra della finestra del codice clicca sull'icona con le tre linee orizzontali e quindi clicca su "Download". ![](assets/DownloadMenuCircled.png)
+2. Verrà scaricato un file zip che contiene tutti i file del tuo sito web. Estrai i file in una directory sul tuo computer.
+3. Apri la directory con i file e cerca il file chiamato `index.html`. Ricorda: questo file è l'home page del tuo sito! Fai doppio click sul file: in questo modo il file verrà aperto con un **Browser**. Clicca su link ed esplora il sito web in tutta la sua gloria!
+4. Osserva il titolo della pagina sul tab del browser o sulla finestra. Guarda come cambia quando si selezionano le varie pagine. Questo è il testo che hai messo tra i tag `<title> </title>` ![](assets/LocalFileWindowTitle.png)
+5. Lascia la pagina aperta nel browser e torna sulla finestra con la lista dei file. Trova di nuovo il file `index.html`. Questa volta clicca su di esso con il tasto destro nel mouse  \(sul Mac, clicca e mantieni o clicca con due dita!\), seleziona "Apri con &gt;" e scegli un editor di testo semplice come Notepad, Notepad++, Sublime Text o GEdit. Una volta aperto, dovresti vedere tutti i tag HTML esattamente come su Trinket.
+ * Se stai usando un Mac, prima di effettuare questa operazione potrebbe essere necessario installare un editor di testi
+6. Come ormai sai, una pagina web è fatta di testo con dei tag che controllano come viene rappresentato. A questo punto puoi vedere come la pagina web e il codice sono di fatto lo stesso file: a seconda di come lo apri vedrai cose diverse: se lo apri con un **browser** vedrai la **pagina web** \(solo il testo\), se lo apri con un **editor di testo** vedrai il **codice** \(testo e tag\).
+7. Congratulazioni! Adesso condividi il tuo progetto con altre persone per mostrare quello che hai fatto. Su Trinket, clicca sul pulsante **"Share"** accanto al pulsante Save e seleziona una delle opzioni
  ![](assets/badge-footer-image-html-beginner.png)
 
 
